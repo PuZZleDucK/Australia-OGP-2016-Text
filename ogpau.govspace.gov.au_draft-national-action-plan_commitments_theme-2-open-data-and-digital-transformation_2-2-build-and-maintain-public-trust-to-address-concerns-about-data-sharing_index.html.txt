@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search:  [s                   ] [Search]
+[Australian_Government]
+****** Open_Government_Partnership_–_Australia ******
+***** Developing the Australian Government National Action Plan *****
+
+    * Home
+    * Draft_National_Action_Plan
+          o Introduction
+          o Efforts_to_date
+          o Developing_this_plan
+          o Commitments
+                # Theme_1:_Transparency_and_accountability_in_business
+                      # 1.1_–_Improve_whistle-blower_protections_in_the_tax_and
+                        corporate_sectors
+                      # 1.2_–_Beneficial_ownership
+                      # 1.3_–_Natural_Resource_Transparency
+                # Theme_2:_Open_data_and_digital_transformation
+                      # 2.1_–_Release_high-value_datasets_and_enable_data
+                        driven_innovation
+                      # 2.2_–_Build_and_maintain_public_trust_to_address
+                        concerns_about_data_sharing
+                      # 2.3_–_Digitally_transform_the_delivery_of_government
+                        services
+                # Theme_3:_Access_to_government_information
+                      # 3.1_–_Information_management_and_access_laws_for_the
+                        21st_century
+                      # 3.2_–_Understand_the_use_of_Freedom_of_Information
+                      # 3.3_–_Improve_the_discoverability_and_accessibility_of
+                        government_data_and_information
+                # Theme_4:_Integrity_in_the_public_sector
+                      # 4.1_–_Confidence_in_the_electoral_system_and_political
+                        parties
+                      # 4.2_–_National_Integrity_Framework
+                      # 4.3_–_Open_Contracting
+                # Theme_5:_Public_participation_and_engagement
+                      # 5.1_–_Delivery_of_Australia’s_Open_Government_National
+                        Action_Plan
+                      # 5.2_–_Enhance_public_participation_in_government
+                        decision_making
+          o Australia’s_leadership_internationally
+          o Appendix_A:_Consultation_and_engagement_activities
+    * Introduction
+    * Preparing_the_National_Action_Plan
+          o Updates
+          o About_the_OGP
+          o Background
+          o FAQs
+    * Contribute_to_the_process
+          o Get_Involved
+          o Public_Consultation
+    * Contact_&_Colophon
+
+****** 2.2 – Build and maintain public trust to address concerns about data
+sharing ******
+We will develop an ongoing and collaborative conversation with the community to
+build public trust around data sharing and integration.
+Objective
+Australia will actively engage with the community regarding how public data is
+being used to provide more targeted and effective policy, service delivery and
+program evaluation.
+Status Quo
+In an increasingly complex and interconnected world, effective policy responses
+require investment in joined-up data that can provide a strong evidence-base
+for policy decisions.
+The New Zealand Government has invested in both a whole-of-government
+Integrated Data Infrastructure and enhanced analytical capability with positive
+results in terms of reduced government spending and improved public policy
+outcomes in areas such as human rights, law enforcement, health, education and
+justice.
+While the Australian Public Service (APS) has made some progress in this area,
+we need to better inform the community about the benefits of data sharing and
+address public concerns, including perceived values, risks, and attitudes
+towards privacy.
+The Privacy Act 1988 underpins the open data agenda and helps build public
+trust in data-sharing activities. The Government has introduced a Bill to amend
+the Act to make it an offence to deliberately re-identify personal information
+from open government data.
+Data literacy across the APS is also critical. In August 2016, the Department
+of the Prime Minister and Cabinet released Data Skills and Capability in the
+Australian Public Service to help build skills and knowledge in publishing,
+linking and sharing public data.
+Ambition
+To build trust about the use of integrated data and actively respond to
+community concerns about data sharing. To comply with international best
+practice on open data principles and participate in global fora on data.
+Relevance
+This commitment will advance the OGP values of transparency and public
+participation by:
+    * providing greater transparency on how government is using the data it
+      collects and protecting personal information;
+    * enabling the community to engage with government and raise issues of
+      concern;
+    * enabling experts outside of government to inform public debate; and
+    * providing more targeted and effective policy, service delivery and
+      program evaluation.
+OGP Grand Challenge
+    * Improving Public Services
+    * Increasing Public Integrity
+Timeframes
+December 2016 – End 2017
+Lead agency
+Department of the Prime Minister and Cabinet, Australian Bureau of Statistics
+and Office of the Australian Information Commissioner
+Other actors involved
+Government:  Attorney General’s Department, Treasury, Fair Work Ombudsman,
+Australian Institute of Health and Welfare, Department of Social Services,
+Department of Industry, Innovation and Science and Department of Health,
+Department of Human Services, Australian Taxation Office and Australian Federal
+Police
+Non-government: Open Data Institute Queensland and digital rights organisation
+Milestones
+   1. Adopt the International Open Data Charter.
+          o December 2016 – Early 2017
+   2. Establish an expert panel to advise government and to help communicate
+      value and utility of data sharing and integration.
+          o December 2016 – Mid 2017
+   3. Develop an engagement process to demonstrate public-value examples and
+      enable an ongoing dialogue with the community.
+          o December 2016 – End 2017
+   4. Work with the Office of the Australian Information Commissioner to
+      improve privacy risk management capability across the Australian Public
+      Service.
+          o November 2016 – Ongoing
+   5. Participate in the International Open Data Stewards Group.
+          o Ongoing
+   6. Responsive, targeted and ongoing engagement regarding public data use and
+      integration.
+          o Ongoing
+
+[ a govspace site ]

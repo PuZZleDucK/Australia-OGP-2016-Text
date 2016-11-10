@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search:  [s                   ] [Search]
+[Australian_Government]
+****** Open_Government_Partnership_–_Australia ******
+***** Developing the Australian Government National Action Plan *****
+
+    * Home
+    * Draft_National_Action_Plan
+          o Introduction
+          o Efforts_to_date
+          o Developing_this_plan
+          o Commitments
+                # Theme_1:_Transparency_and_accountability_in_business
+                      # 1.1_–_Improve_whistle-blower_protections_in_the_tax_and
+                        corporate_sectors
+                      # 1.2_–_Beneficial_ownership
+                      # 1.3_–_Natural_Resource_Transparency
+                # Theme_2:_Open_data_and_digital_transformation
+                      # 2.1_–_Release_high-value_datasets_and_enable_data
+                        driven_innovation
+                      # 2.2_–_Build_and_maintain_public_trust_to_address
+                        concerns_about_data_sharing
+                      # 2.3_–_Digitally_transform_the_delivery_of_government
+                        services
+                # Theme_3:_Access_to_government_information
+                      # 3.1_–_Information_management_and_access_laws_for_the
+                        21st_century
+                      # 3.2_–_Understand_the_use_of_Freedom_of_Information
+                      # 3.3_–_Improve_the_discoverability_and_accessibility_of
+                        government_data_and_information
+                # Theme_4:_Integrity_in_the_public_sector
+                      # 4.1_–_Confidence_in_the_electoral_system_and_political
+                        parties
+                      # 4.2_–_National_Integrity_Framework
+                      # 4.3_–_Open_Contracting
+                # Theme_5:_Public_participation_and_engagement
+                      # 5.1_–_Delivery_of_Australia’s_Open_Government_National
+                        Action_Plan
+                      # 5.2_–_Enhance_public_participation_in_government
+                        decision_making
+          o Australia’s_leadership_internationally
+          o Appendix_A:_Consultation_and_engagement_activities
+    * Introduction
+    * Preparing_the_National_Action_Plan
+          o Updates
+          o About_the_OGP
+          o Background
+          o FAQs
+    * Contribute_to_the_process
+          o Get_Involved
+          o Public_Consultation
+    * Contact_&_Colophon
+
+****** 3.3 – Improve the discoverability and accessibility of government data
+and information ******
+We will make it easier for the public to find and use government data and
+information through central portals and digital platforms.
+Objective
+Australia will establish platforms and tools to improve the discoverability and
+accessibility of government information and public data.
+Status Quo
+The creation, preservation, management and public use of government information
+is fundamental to open and transparent government. The availability of
+government records and data improves public access to information, while also
+driving efficient business outcomes by facilitating use and reuse of these
+valuable resources.
+It is not enough just to make these resources open; information and public data
+must be easy to find and accessible in order for it to be useful. Some specific
+examples of areas where the government is seeking to improve public access to
+information include:
+    * Public data: Data.gov.au is the Australian Government’s open data
+      platform. It has enabled the open release of over 20,000 public resources
+      used to grow the economy, improve service delivery and transform policy
+      outcomes for the nation. As the number of datasets on data.gov.au grows,
+      Australia’s public data infrastructure needs be upgraded to meet the
+      demands of data users. This includes improving search and discovery,
+      enhancing support for collaboration, developing a quality framework to
+      assist publishers, and developing more robust publishing processes.
+    * Grants: There is no central point to identify and apply for Australian
+      Government grant opportunities and find consolidated information about
+      grants awarded. The Department of Finance is building GrantConnect, a
+      central whole-of-government system that will forecast and publish grant
+      opportunities, automatically notify public users of grant opportunities
+      of interest, and publish information on grants awarded.
+    * Corporate and administrative reporting: Corporate and administrative
+      reporting information is currently located on individual agency websites
+      or in hard copy, making it difficult to compare and contrast documents.
+      The Department of Finance and the Department of the Prime Minister and
+      Cabinet are working with the Digital Transformation Agency to make
+      reporting information more discoverable and accessible through the
+      digitisation of this information.
+    * Archived records: The most significant records of the Australian
+      Government are held by the National Archives of Australia. To facilitate
+      citizens’ access to these records through digital and online channels,
+      the Archives will continue to lead the transition from paper to digital
+      information practices in Australian Government agencies, digitise paper
+      records of high research value and increase the number of records
+      available for public access.
+    * Environmental information: The Department of the Environment and Energy
+      compiles significant data to produce its State of the Environment report
+      and meet its other responsibilities (such as research into the impacts of
+      coal and coal seam gas developments on ground water). The Department will
+      make the 2017 State of the Environment report and its underlying data
+      more accessible through SoE Digital (an innovative and interactive online
+      platform) and data.gov.au. It will use data visualisation tools to help
+      publish the results of its coal and coal seam gas bioregional
+      assessments.
+Ambition
+To make it as easy as possible to find, access and use government information
+and data.
+Relevance
+This commitment will advance the OGP values of access to information and
+technology and innovation by:
+    * promoting a consistent approach to information governance across
+      Australian Government entities;
+    * increasing transparency of government decision-making and policy
+      development;
+    * enabling information and data reuse for economic and social benefits;
+    * protecting the rights and entitlements of Australians to access
+      government information;
+    * increasing the accessibility, usability and discoverability of public
+      data; and
+    * improving the quality of data.
+OGP Grand Challenge
+    * Improving Public Services
+    * Increasing Public Integrity
+    * More Effectively Managing Public Resources
+Timeframes
+Mid 2016 – Mid 2018
+Lead agency
+Department of the Prime Minister and Cabinet (PM&C), Department of Finance
+(Finance), National Archives of Australia (Archives) and Department of the
+Environment and Energy (DoEE)
+Other actors involved
+Government: All Commonwealth entities
+Non-government: Data61
+Milestones
+   1. PM&C to work with Data61 to conduct research and discovery into data
+      consumption (to better understand user behaviours and needs) and
+      publishing (to improve quality, timeliness and value of published data).
+          o Mid 2016 – Mid 2017
+   2. PM&C to work with Data61 to create, circulate and gather feedback on
+      design concepts and prototypes for improved search functionality and user
+      experience on the data.gov.au platform.
+          o Late 2016 – Late 2017
+   3. Finance to implement Phase One of the GrantConnect platform to enable
+      public users to: register to receive notifications on grant opportunities
+      that match their self-defined profiles; watch forecast opportunities as
+      they move from planning to requests for applications; and access grant
+      guidelines for each opportunity and be notified about changes to grants
+      processes.
+          o Late 2016 – Late 2017
+   4. Finance to launch the pilot of the digital corporate and administrative
+      reporting platform.
+          o Late 2016 – Late 2017
+   5. Archives to lead the transition to digital information practices in
+      Australian Government agencies to ensure robust information governance
+      and report to the Prime Minister in 2018.
+          o Mid 2016 – Late 2018
+   6. Archives to increase the number of archival records available in digital
+      formats, including World War II service and passenger arrival records.
+          o Mid 2016 – Late 2018
+   7. Archives to make additional groups of archival records of high research
+      interest available for public access.
+          o Mid 2016 – Late 2018
+   8. PM&C to deliver live platform elements for data.gov.au, including
+      integration with NationalMap to provide a more efficient workflow for the
+      publishing and discovery of spatial data.
+          o Early 2017 – Late 2017
+   9. PM&C to design and prototype further data.gov.au platform capabilities,
+      including: functionality to promote examples and collaboration using
+      public data; and integration with other platforms for open data projects
+      and third party open data platforms.
+          o Early 2017 – Mid 2018
+  10. DoEE to launch a map-based tool to visualise Bioregional Assessment
+      results.
+          o Early 2017 – June 2017
+  11. DoEE to publish the State of the Environment report through an online
+      information publishing and reporting platform and release the underlying
+      data on data.gov.au.
+          o November 2016 – February/March 2017
+
+[ a govspace site ]

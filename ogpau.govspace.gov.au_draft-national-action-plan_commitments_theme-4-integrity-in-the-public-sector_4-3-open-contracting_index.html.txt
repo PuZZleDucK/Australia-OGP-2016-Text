@@ -1,0 +1,123 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search:  [s                   ] [Search]
+[Australian_Government]
+****** Open_Government_Partnership_–_Australia ******
+***** Developing the Australian Government National Action Plan *****
+
+    * Home
+    * Draft_National_Action_Plan
+          o Introduction
+          o Efforts_to_date
+          o Developing_this_plan
+          o Commitments
+                # Theme_1:_Transparency_and_accountability_in_business
+                      # 1.1_–_Improve_whistle-blower_protections_in_the_tax_and
+                        corporate_sectors
+                      # 1.2_–_Beneficial_ownership
+                      # 1.3_–_Natural_Resource_Transparency
+                # Theme_2:_Open_data_and_digital_transformation
+                      # 2.1_–_Release_high-value_datasets_and_enable_data
+                        driven_innovation
+                      # 2.2_–_Build_and_maintain_public_trust_to_address
+                        concerns_about_data_sharing
+                      # 2.3_–_Digitally_transform_the_delivery_of_government
+                        services
+                # Theme_3:_Access_to_government_information
+                      # 3.1_–_Information_management_and_access_laws_for_the
+                        21st_century
+                      # 3.2_–_Understand_the_use_of_Freedom_of_Information
+                      # 3.3_–_Improve_the_discoverability_and_accessibility_of
+                        government_data_and_information
+                # Theme_4:_Integrity_in_the_public_sector
+                      # 4.1_–_Confidence_in_the_electoral_system_and_political
+                        parties
+                      # 4.2_–_National_Integrity_Framework
+                      # 4.3_–_Open_Contracting
+                # Theme_5:_Public_participation_and_engagement
+                      # 5.1_–_Delivery_of_Australia’s_Open_Government_National
+                        Action_Plan
+                      # 5.2_–_Enhance_public_participation_in_government
+                        decision_making
+          o Australia’s_leadership_internationally
+          o Appendix_A:_Consultation_and_engagement_activities
+    * Introduction
+    * Preparing_the_National_Action_Plan
+          o Updates
+          o About_the_OGP
+          o Background
+          o FAQs
+    * Contribute_to_the_process
+          o Get_Involved
+          o Public_Consultation
+    * Contact_&_Colophon
+
+****** 4.3 – Open Contracting ******
+We will undertake a public review of the Australian Government’s compliance
+with the Open Contracting Data Standard.
+Objective
+Australia will review compliance with the Open Contracting Data Standard and
+continue to support the Open Contracting Global Principles.
+Status Quo
+The Open Contracting Data Standard sets out key documents and data that should
+be published at each stage of government procurement and is seen as the
+international benchmark. The Standard enables disclosure of data and documents
+at all stages of the contracting process by defining a common data model. It
+was created to support organisations to increase contracting transparency, and
+allow deeper analysis of contracting data by a wide range of users.
+In line with the Commonwealth Procurement Rules, Australian Government entities
+are required to report all procurement contracts with a value of $10,000 or
+more on AusTender. However, there has not been a formal assessment of the
+extent to which current practice meets the requirements of the Open Contracting
+Data Standard.
+At the UK Anti-Corruption Summit in May 2016, the Australian Government stated
+its support of the Open Contracting Data Standard and noted the role that the
+Standard could play in encouraging machine-readable open data formats across
+all areas of government.
+Ambition
+To enhance transparency and accountability of public money in delivering public
+contracts.
+Relevance
+This commitment will advance the OGP values ofaccess to information and public
+accountability by demonstrating transparency and accountability in relation to
+the procurement of goods and services on behalf of the Government.
+OGP Grand Challenge
+    * Increasing Public Integrity
+    * More Effectively Managing Public Resources
+Timeframes
+February 2017 – August 2017
+Lead agency
+Department of Finance
+Other actors involved
+Government: All Commonwealth entities
+Non-government: Transparency International Australia and Publish What You Pay
+Milestones
+   1. Undertake review of compliance with the Open Contracting Data Standard.
+          o February – April 2017
+   2. Publish review.
+          o May 2017
+   3. Receive public comment on the review.
+          o May – June 2017
+   4. Implement measures to improve compliance with the Open Contracting Data
+      Standard (if required).
+          o June – August 2017
+
+[ a govspace site ]
