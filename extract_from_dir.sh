@@ -1,2 +1,2 @@
 #!/bin/bash
-mv $1 `echo $1 | tr ./ _` 
+mv $1 `echo $1 | tr / _` 
