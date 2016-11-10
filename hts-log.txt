@@ -1,0 +1,617 @@
+HTTrack3.48-23 launched on Thu, 10 Nov 2016 00:41:27 at https://ogpau.govspace.gov.au https://ogpau.wikispaces.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://ogpau.govspace.gov.au https://ogpau.wikispaces.com -O "/home/puzzleduck/websites/OGP" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:45:30	Warning: 	Note: due to https://ogpau.wikispaces.com remote robots.txt rules, links beginning with these path will be forbidden: /admin/, /export/, /file/, /file/detail, /int/, /mail/, /message/, /share/, /navbar/, /page/, /session/, /site/, /space/, /space/xmlo, /star/, /stylesheet/, /t/, /tag/, /theme/, /user/, /wiki/ (see in the options to disable this)
+00:45:32	Warning: 	Found for https://ogpau.wikispaces.com/
+00:45:32	Warning: 	File has moved from https://ogpau.wikispaces.com/ to https://session.wikispaces.com/1/auth/auth?authToken=833ad8362083f5eadde7d3b36b9f508e
+00:45:39	Warning: 	Moved Permanently for www.agls.gov.au/agls/terms/
+00:45:39	Warning: 	File has moved from www.agls.gov.au/agls/terms/ to http://www.agls.gov.au/schemas/rdfs/2010/06/30/aglsterms.rdf
+00:46:04	Error: 	"Method Not Allowed" (405) at link https://ogpau.govspace.gov.au/xmlrpc.php (from https://ogpau.govspace.gov.au/)
+00:46:08	Warning: 	Found for s.w.org/
+00:46:08	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+00:52:57	Warning: 	Warning: store text/html without scan: /home/puzzleduck/websites/OGP/gmpg.org/xfn/.html
+00:52:57	Warning: 	Warning: store text/html without scan: /home/puzzleduck/websites/OGP/gmpg.org/xfn/intro.html
+00:52:57	Warning: 	Warning: store text/html without scan: /home/puzzleduck/websites/OGP/gmpg.org/xfn/faq.html
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=694
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=694 to https://ogpau.govspace.gov.au/draft-national-action-plan/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=699
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=699 to https://ogpau.govspace.gov.au/draft-national-action-plan/introduction-2/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=702
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=702 to https://ogpau.govspace.gov.au/draft-national-action-plan/efforts-to-date/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=704
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=704 to https://ogpau.govspace.gov.au/draft-national-action-plan/developing-this-plan/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=706
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=706 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=710
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=710 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=713
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=713 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=717
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=717 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=720
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=720 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=722
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=722 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=724
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=724 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=726
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=726 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=728
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=728 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=730
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=730 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=732
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=732 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=755
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=755 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=757
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=757 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=759
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=759 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=763
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=763 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=765
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=765 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=770
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=770 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=761
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=761 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=772
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=772 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=774
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=774 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=776
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=776 to https://ogpau.govspace.gov.au/draft-national-action-plan/australias-leadership-internationally/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=778
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=778 to https://ogpau.govspace.gov.au/draft-national-action-plan/appendix-a-consultation-and-engagement-activities/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=214
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=214 to https://ogpau.govspace.gov.au/introduction/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/background/
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/background/ to https://ogpau.govspace.gov.au/national-action-plan/background/
+00:52:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=150
+00:52:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=150 to https://ogpau.govspace.gov.au/national-action-plan/
+00:53:42	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=61
+00:53:42	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=61 to https://ogpau.govspace.gov.au/national-action-plan/about-ogp/
+00:53:42	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=2
+00:53:42	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=2 to https://ogpau.govspace.gov.au/national-action-plan/background/
+00:53:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=357
+00:53:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=357 to https://ogpau.govspace.gov.au/national-action-plan/faqs/
+00:53:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=419
+00:53:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=419 to https://ogpau.govspace.gov.au/contribute/
+00:53:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=423
+00:53:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=423 to https://ogpau.govspace.gov.au/contribute/get-involved/
+00:53:50	Error: 	"Not Found" (404) at link https://ogpau.govspace.gov.au/contribute/get-involved/ow.ly/nWUs305Luez (from https://ogpau.govspace.gov.au/contribute/get-involved/)
+00:53:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=848
+00:53:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=848 to https://ogpau.govspace.gov.au/contribute/public-consultation/
+00:54:42	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=39
+00:54:42	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=39 to https://ogpau.govspace.gov.au/contact-colophon/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=670
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=670 to https://ogpau.govspace.gov.au/have-your-say-on-australias-first-open-government-national-action-plan/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=587
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=587 to https://ogpau.govspace.gov.au/announcing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=659
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=659 to https://ogpau.govspace.gov.au/report-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=655
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=655 to https://ogpau.govspace.gov.au/interim-working-group-workshop/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=651
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=651 to https://ogpau.govspace.gov.au/next-steps-to-finalise-australias-first-national-action-plan/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=647
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=647 to https://ogpau.govspace.gov.au/outcomes-from-the-third-meeting-of-the-interim-working-group/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=644
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=644 to https://ogpau.govspace.gov.au/fourth-inter-departmental-committee-meeting/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=637
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=637 to https://ogpau.govspace.gov.au/outcomes-from-the-second-meeting-of-the-interim-working-group/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=629
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=629 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=627
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=627 to https://ogpau.govspace.gov.au/outcomes-from-the-first-meeting-of-the-interim-working-group/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=615
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=615 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-update/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=583
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=583 to https://ogpau.govspace.gov.au/submissions-for-the-interim-working-group-are-now-closed/
+00:57:10	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=570
+00:57:10	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=570 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-national-action-plan-expressions-of-interest/
+00:57:54	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/about-ogp/
+00:57:54	Warning: 	File has moved from https://ogpau.govspace.gov.au/about-ogp/ to https://ogpau.govspace.gov.au/national-action-plan/about-ogp/
+00:59:11	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=536
+00:59:11	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=536 to https://ogpau.govspace.gov.au/collation-of-suggested-actions-and-comments/
+00:59:16	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=383
+00:59:16	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=383 to https://ogpau.govspace.gov.au/submission-aogpn/
+00:59:16	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=593
+00:59:16	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=593 to https://ogpau.govspace.gov.au/submission-from-the-accountability-round-table-to-the-interim-working-group/
+00:59:22	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/faqs/
+00:59:22	Warning: 	File has moved from https://ogpau.govspace.gov.au/faqs/ to https://ogpau.govspace.gov.au/national-action-plan/faqs/
+00:59:22	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=600
+00:59:22	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=600 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-agenda-and-papers/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=580
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=580 to https://ogpau.govspace.gov.au/third-inter-departmental-committee-meeting/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=557
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=557 to https://ogpau.govspace.gov.au/ogpau-update-3-august/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=546
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=546 to https://ogpau.govspace.gov.au/results-of-the-co-creation-workshop-and-ongoing-engagement/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=523
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=523 to https://ogpau.govspace.gov.au/second-idc/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=490
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=490 to https://ogpau.govspace.gov.au/what-im-learning-about-open-gov-in-australia/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=528
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=528 to https://ogpau.govspace.gov.au/stage-three-prioritisation-and-drafting-workshop/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=513
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=513 to https://ogpau.govspace.gov.au/ogp-theme-teleconference-times/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=482
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=482 to https://ogpau.govspace.gov.au/engagement-update-11-march/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=461
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=461 to https://ogpau.govspace.gov.au/get-involved/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=353
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=353 to https://ogpau.govspace.gov.au/consultation-stage-2-commitments-drafting-and-live-event/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=223
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=223 to https://ogpau.govspace.gov.au/consultation-stage-1-preparation-framework-and-history/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=509
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=509 to https://ogpau.govspace.gov.au/engagement-update-22-march/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=474
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=474 to https://ogpau.govspace.gov.au/idc-24th-february/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=379
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=379 to https://ogpau.govspace.gov.au/january-update/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=365
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=365 to https://ogpau.govspace.gov.au/december-update/
+00:59:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=343
+00:59:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=343 to https://ogpau.govspace.gov.au/register-to-attend-an-ogp-australia-information-session/
+00:59:29	Warning: 	HTML file (13140 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/feed/
+00:59:29	Warning: 	HTML file (11015 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/comments/feed/
+00:59:29	Warning: 	HTML file (1098 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-json/
+00:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2015/11/cropped-SummitLogo1.png
+00:59:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Australias-first-Open-Government-National-Action-Plan-Draft-for-consultation-Accessible.pdf
+01:00:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Australias-first-Open-Government-National-Action-Plan-Draft-for-consultation-Plain-Text.docx
+01:00:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/NAP-fact-sheet-Accessible-extended.pdf
+01:00:11	Warning: 	HTML file (25036 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/draft-national-action-plan/
+01:00:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/xmlrpc.php?rsd
+01:00:23	Warning: 	HTML file (31686 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/announcing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan/
+01:00:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/NAP-fact-sheet-Plain-Text-extended.docx
+01:00:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Engagement-report-OGPAU_FINAL.pdf
+01:00:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/IWG-Workshop-7-October-Minutes.docx
+01:00:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Letter-from-Steven-Kennedy-to-OGP-CEO-14-Oct-2016-SIGNED.pdf
+01:00:39	Warning: 	HTML file (25120 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-workshop/
+01:00:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-3-19-September-Minutes.docx
+01:00:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-2-13-September-Minutes.docx
+01:00:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/OGP-IDC-Meeting-2-Minutes-16-Sept-2016.docx
+01:00:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-3-19-September-Agenda-Final.docx
+01:00:48	Warning: 	HTML file (25234 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/next-steps-to-finalise-australias-first-national-action-plan/
+01:00:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-3-Agenda-Item-3-Potential-commitments-for-the-National-Action-Plan.docx
+01:00:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-2-13-September-Agenda.docx
+01:00:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-2-Agenda-Item-4-Potential-commitments-for-the-National-Action-Plan.docx
+01:00:59	Warning: 	HTML file (24867 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-third-meeting-of-the-interim-working-group/
+01:01:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-5-September-Minutes.docx
+01:01:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-Agenda-Item-4-Australias-National-Action-Plan.docx
+01:01:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2F
+01:01:08	Warning: 	HTML file (25615 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/fourth-inter-departmental-committee-meeting/
+01:01:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fintroduction-2%2F
+01:01:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fefforts-to-date%2F
+01:01:21	Warning: 	HTML file (25690 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-second-meeting-of-the-interim-working-group/
+01:01:33	Warning: 	HTML file (56228 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/interim-working-group/
+01:01:44	Warning: 	HTML file (29006 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-first-meeting-of-the-interim-working-group/
+01:01:54	Warning: 	HTML file (25678 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-update/
+01:02:04	Warning: 	HTML file (25938 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/submissions-for-the-interim-working-group-are-now-closed/
+01:02:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fintroduction-2%2F&format=xml
+01:02:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2F&format=xml
+01:02:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fdeveloping-this-plan%2F
+01:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fefforts-to-date%2F&format=xml
+01:02:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2F
+01:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F
+01:02:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors%2F
+01:03:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fdeveloping-this-plan%2F&format=xml
+01:03:18	Warning: 	Warning: store text/css without scan: /home/puzzleduck/websites/OGP/gmpg.org/xfn/default.css
+01:03:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2F&format=xml
+01:03:24	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=702
+01:03:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-2-beneficial-ownership%2F
+01:03:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F&format=xml
+01:03:33	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=702
+01:03:33	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=702 to https://ogpau.govspace.gov.au/draft-national-action-plan/efforts-to-date/
+01:03:33	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=704
+01:03:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-3-natural-resource-transparency%2F
+01:03:36	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=704
+01:03:36	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=704 to https://ogpau.govspace.gov.au/draft-national-action-plan/developing-this-plan/
+01:03:36	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=706
+01:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors%2F&format=xml
+01:03:44	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=706
+01:03:44	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=706 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/
+01:03:44	Warning: 	HTML file (943 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=710
+01:03:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F
+01:03:53	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=710
+01:03:53	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=710 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/
+01:03:53	Warning: 	HTML file (1087 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=713
+01:04:05	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=713
+01:04:05	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=713 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/
+01:04:05	Warning: 	HTML file (993 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=717
+01:04:13	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=717
+01:04:13	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=717 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/
+01:04:13	Warning: 	HTML file (1011 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=720
+01:04:24	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=720
+01:04:24	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=720 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/
+01:04:24	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=722
+01:04:33	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=722
+01:04:33	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=722 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/
+01:04:33	Warning: 	HTML file (1061 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=724
+01:04:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-2-beneficial-ownership%2F&format=xml
+01:04:43	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=724
+01:04:43	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=724 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/
+01:04:43	Warning: 	HTML file (1079 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=726
+01:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-1-transparency-and-accountability-in-business%2F1-3-natural-resource-transparency%2F&format=xml
+01:04:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F2-1-release-high-value-datasets-and-enable-data-driven-innovation%2F
+01:04:52	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=726
+01:04:52	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=726 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/
+01:04:52	Warning: 	HTML file (1049 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=728
+01:04:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing%2F
+01:04:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F2-3-digitally-transform-the-delivery-of-government-services%2F
+01:05:00	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=728
+01:05:00	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=728 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/
+01:05:00	Warning: 	HTML file (921 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=730
+01:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F&format=xml
+01:05:07	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=730
+01:05:07	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=730 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/
+01:05:07	Warning: 	HTML file (1049 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=732
+01:05:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-3-access-to-government-information%2F
+01:05:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-3-access-to-government-information%2F3-1-information-management-and-access-laws-for-the-21st-century%2F
+01:05:15	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=732
+01:05:15	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=732 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/
+01:05:15	Warning: 	HTML file (1019 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=755
+01:05:25	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=755
+01:05:25	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=755 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/
+01:05:25	Warning: 	HTML file (1091 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=757
+01:05:32	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=757
+01:05:32	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=757 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/
+01:05:32	Warning: 	HTML file (917 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=759
+01:05:40	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=759
+01:05:40	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=759 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/
+01:05:40	Warning: 	HTML file (1039 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=763
+01:05:51	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=763
+01:05:51	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=763 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/
+01:05:51	Warning: 	HTML file (983 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=765
+01:05:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing%2F&format=xml
+01:06:02	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=765
+01:06:02	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=765 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/
+01:06:02	Warning: 	HTML file (959 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=770
+01:06:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-2-open-data-and-digital-transformation%2F2-3-digitally-transform-the-delivery-of-government-services%2F&format=xml
+01:06:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-4-integrity-in-the-public-sector%2F4-2-national-integrity-framework%2F
+01:06:08	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=770
+01:06:08	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=770 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/
+01:06:08	Warning: 	HTML file (927 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=761
+01:06:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-5-public-participation-and-engagement%2F
+01:06:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-5-public-participation-and-engagement%2F5-1-delivery-of-australias-open-government-national-action-plan%2F
+01:06:16	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=761
+01:06:16	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=761 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/
+01:06:16	Warning: 	HTML file (1055 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=772
+01:06:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-3-access-to-government-information%2F3-1-information-management-and-access-laws-for-the-21st-century%2F&format=xml
+01:06:25	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=772
+01:06:25	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=772 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/
+01:06:25	Warning: 	HTML file (1053 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=774
+01:06:36	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=774
+01:06:36	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=774 to https://ogpau.govspace.gov.au/draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/
+01:06:36	Warning: 	HTML file (891 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=776
+01:06:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-5-public-participation-and-engagement%2F5-2-enhance-public-participation-in-government-decision-making%2F
+01:06:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Faustralias-leadership-internationally%2F
+01:06:43	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=776
+01:06:43	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=776 to https://ogpau.govspace.gov.au/draft-national-action-plan/australias-leadership-internationally/
+01:06:43	Warning: 	HTML file (915 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=778
+01:06:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=778
+01:06:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=778 to https://ogpau.govspace.gov.au/draft-national-action-plan/appendix-a-consultation-and-engagement-activities/
+01:06:50	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=214
+01:07:00	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=214
+01:07:00	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=214 to https://ogpau.govspace.gov.au/introduction/
+01:07:00	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/background/
+01:07:09	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/background/
+01:07:09	Warning: 	File has moved from https://ogpau.govspace.gov.au/background/ to https://ogpau.govspace.gov.au/national-action-plan/background/
+01:07:09	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=150
+01:07:16	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=150
+01:07:16	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=150 to https://ogpau.govspace.gov.au/national-action-plan/
+01:07:16	Warning: 	HTML file (3300 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2F
+01:07:26	Warning: 	HTML file (13173 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/category/updates/feed/
+01:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-5-public-participation-and-engagement%2F5-1-delivery-of-australias-open-government-national-action-plan%2F&format=xml
+01:07:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Fcommitments%2Ftheme-5-public-participation-and-engagement%2F&format=xml
+01:07:30	Warning: 	HTML file (74315 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/category/updates/page/2/
+01:07:43	Warning: 	HTML file (63934 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/national-action-plan/background/feed/
+01:07:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Fabout-ogp%2F
+01:07:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Fbackground%2F
+01:07:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdraft-national-action-plan%2Faustralias-leadership-internationally%2F&format=xml
+01:08:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Ffaqs%2F
+01:08:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2F
+01:08:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Fabout-ogp%2F&format=xml
+01:08:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Fbackground%2F&format=xml
+01:09:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2Fget-involved%2F
+01:09:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnational-action-plan%2Ffaqs%2F&format=xml
+01:09:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2Fpublic-consultation%2F
+01:09:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Daniel-Marsh-submission.pdf
+01:09:26	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=2
+01:09:35	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=2
+01:09:35	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=2 to https://ogpau.govspace.gov.au/national-action-plan/background/
+01:09:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2F&format=xml
+01:09:39	Error: 	"NOT FOUND" (404) at link https://www.ag.gov.au/RightsAndProtections/IntellectualProperty/Documents/StatementofIPprinciplesforAusGovagencies.pdf (from https://ogpau.govspace.gov.au/national-action-plan/background/)
+01:09:39	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=419
+01:09:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Angus-King-submission.pdf
+01:09:48	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=419
+01:09:48	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=419 to https://ogpau.govspace.gov.au/contribute/
+01:09:48	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=423
+01:09:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Stephen-Gates-submission.pdf
+01:09:58	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=423
+01:09:58	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=423 to https://ogpau.govspace.gov.au/contribute/get-involved/
+01:09:58	Warning: 	HTML file (26877 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/contribute/get-involved/ow.ly/nWUs305Luez
+01:10:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/Alan-Distel-submission.pdf
+01:10:10	Error: 	"Not Found" (404) at link https://ogpau.govspace.gov.au/contribute/get-involved/ow.ly/nWUs305Luez (from https://ogpau.govspace.gov.au/contribute/get-involved/)
+01:10:10	Warning: 	HTML file (24849 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/collation-of-suggested-actions-and-comments/
+01:10:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/10/PivotNine-submission.pdf
+01:10:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-Agenda-Item-4-stocktake-of-stakeholder-suggestions.pdf
+01:10:25	Warning: 	HTML file (39144 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/submission-aogpn/
+01:10:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontact-colophon%2F
+01:10:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2Fget-involved%2F&format=xml
+01:10:38	Warning: 	HTML file (96057 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/page/3/
+01:10:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontribute%2Fpublic-consultation%2F&format=xml
+01:10:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-5-September-Agenda-Final1.docx
+01:10:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-membership-list.docx
+01:10:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-Agenda-Item-3-Draft-Terms-of-Reference.docx
+01:11:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/IWG-Meeting-1-Agenda-Item-5-Consultation-and-engagement.docx
+01:11:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/08/OGP-IDC-19-August-2016-Minutes.docx
+01:11:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/08/Australias-National-Action-Plan-Stocktake-of-commitments.pdf
+01:11:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/04/OGP-Wiki-Submissions-10042016_2.pdf
+01:11:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/04/OGP-Wiki-Submissions-10042016.xlsx
+01:11:18	Warning: 	HTML file (3750 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/have-your-say-on-australias-first-open-government-national-action-plan/feed/
+01:11:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/08/Interim-Working-Group-Draft-ToR_FINAL.docx
+01:11:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/04/Agenda-cocreation-workshop.pdf
+01:11:26	Warning: 	HTML file (13171 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/ogpteam/feed/
+01:11:29	Warning: 	HTML file (980 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/announcing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan/feed/
+01:11:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fannouncing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan%2F
+01:11:43	Warning: 	HTML file (49979 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/consultation/
+01:11:48	Warning: 	HTML file (25832 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/ogpau-update-3-august/
+01:11:58	Warning: 	HTML file (28027 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/stage-three-prioritisation-and-drafting-workshop/
+01:12:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcontact-colophon%2F&format=xml
+01:12:02	Warning: 	HTML file (962 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/report-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan/feed/
+01:12:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Freport-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan%2F
+01:12:18	Error: 	"Not Found" (404) at link www.opengovpartnership.org/sites/default/files/attachments/Action Plan Template and Guidance 2014.pdf (from https://ogpau.govspace.gov.au/page/2/)
+01:12:18	Warning: 	HTML file (903 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=670
+01:12:20	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=670
+01:12:20	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=670 to https://ogpau.govspace.gov.au/have-your-say-on-australias-first-open-government-national-action-plan/
+01:12:20	Warning: 	HTML file (3450 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fhave-your-say-on-australias-first-open-government-national-action-plan%2F
+01:12:28	Warning: 	HTML file (794 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-workshop/feed/
+01:12:37	Warning: 	HTML file (56172 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/ogpteam/page/2/
+01:12:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fhave-your-say-on-australias-first-open-government-national-action-plan%2F&format=xml
+01:12:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-workshop%2F
+01:12:54	Warning: 	HTML file (945 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=587
+01:12:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fannouncing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan%2F&format=xml
+01:12:59	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/next-steps-to-finalise-australias-first-national-action-plan/feed/
+01:13:03	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=587
+01:13:03	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=587 to https://ogpau.govspace.gov.au/announcing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan/
+01:13:03	Warning: 	HTML file (3513 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fannouncing-the-members-of-the-interim-working-group-for-australias-ogp-national-action-plan%2F
+01:13:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnext-steps-to-finalise-australias-first-national-action-plan%2F
+01:13:19	Warning: 	HTML file (933 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=659
+01:13:20	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=659
+01:13:20	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=659 to https://ogpau.govspace.gov.au/report-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan/
+01:13:20	Warning: 	HTML file (3495 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Freport-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan%2F
+01:13:29	Warning: 	HTML file (884 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-third-meeting-of-the-interim-working-group/feed/
+01:13:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Freport-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan%2F&format=xml
+01:13:35	Warning: 	HTML file (823 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=655
+01:13:45	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=655
+01:13:45	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=655 to https://ogpau.govspace.gov.au/interim-working-group-workshop/
+01:13:45	Warning: 	HTML file (3330 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-workshop%2F
+01:13:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-third-meeting-of-the-interim-working-group%2F
+01:13:57	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/fourth-inter-departmental-committee-meeting/feed/
+01:14:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-workshop%2F&format=xml
+01:14:12	Warning: 	HTML file (883 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=651
+01:14:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Ffourth-inter-departmental-committee-meeting%2F
+01:14:24	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=651
+01:14:24	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=651 to https://ogpau.govspace.gov.au/next-steps-to-finalise-australias-first-national-action-plan/
+01:14:24	Warning: 	HTML file (3420 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fnext-steps-to-finalise-australias-first-national-action-plan%2F
+01:14:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fnext-steps-to-finalise-australias-first-national-action-plan%2F&format=xml
+01:14:31	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-second-meeting-of-the-interim-working-group/feed/
+01:14:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-second-meeting-of-the-interim-working-group%2F
+01:14:43	Warning: 	HTML file (883 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=647
+01:14:45	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=647
+01:14:45	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=647 to https://ogpau.govspace.gov.au/outcomes-from-the-third-meeting-of-the-interim-working-group/
+01:14:45	Warning: 	HTML file (3420 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-third-meeting-of-the-interim-working-group%2F
+01:14:57	Warning: 	HTML file (8940 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/interim-working-group/feed/
+01:15:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-third-meeting-of-the-interim-working-group%2F&format=xml
+01:15:02	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=644
+01:15:08	Warning: 	HTML file (982 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2/feed/
+01:15:14	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=644
+01:15:14	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=644 to https://ogpau.govspace.gov.au/fourth-inter-departmental-committee-meeting/
+01:15:14	Warning: 	HTML file (3369 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Ffourth-inter-departmental-committee-meeting%2F
+01:15:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2%2F
+01:15:29	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=637
+01:15:31	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=637
+01:15:31	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=637 to https://ogpau.govspace.gov.au/outcomes-from-the-second-meeting-of-the-interim-working-group/
+01:15:31	Warning: 	HTML file (3423 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-second-meeting-of-the-interim-working-group%2F
+01:15:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Ffourth-inter-departmental-committee-meeting%2F&format=xml
+01:15:36	Warning: 	HTML file (884 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/outcomes-from-the-first-meeting-of-the-interim-working-group/feed/
+01:15:45	Warning: 	HTML file (941 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=629
+01:15:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-first-meeting-of-the-interim-working-group%2F
+01:15:53	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=629
+01:15:53	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=629 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2/
+01:15:53	Warning: 	HTML file (3507 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2%2F
+01:16:03	Warning: 	HTML file (945 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-update/feed/
+01:16:11	Warning: 	HTML file (883 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=627
+01:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-second-meeting-of-the-interim-working-group%2F&format=xml
+01:16:20	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=627
+01:16:20	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=627 to https://ogpau.govspace.gov.au/outcomes-from-the-first-meeting-of-the-interim-working-group/
+01:16:20	Warning: 	HTML file (3420 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-first-meeting-of-the-interim-working-group%2F
+01:16:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-meeting-1-update%2F
+01:16:29	Warning: 	HTML file (2006 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/submissions-for-the-interim-working-group-are-now-closed/feed/
+01:16:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-agenda-and-papers-meeting-2%2F&format=xml
+01:16:42	Warning: 	HTML file (919 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=615
+01:16:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmissions-for-the-interim-working-group-are-now-closed%2F
+01:16:50	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=615
+01:16:50	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=615 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-update/
+01:16:50	Warning: 	HTML file (3474 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-meeting-1-update%2F
+01:16:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Foutcomes-from-the-first-meeting-of-the-interim-working-group%2F&format=xml
+01:16:58	Warning: 	HTML file (1929 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-for-australias-national-action-plan-expressions-of-interest/feed/
+01:17:08	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=583
+01:17:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-national-action-plan-expressions-of-interest%2F
+01:17:16	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=583
+01:17:16	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=583 to https://ogpau.govspace.gov.au/submissions-for-the-interim-working-group-are-now-closed/
+01:17:16	Warning: 	HTML file (3408 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmissions-for-the-interim-working-group-are-now-closed%2F
+01:17:25	Warning: 	HTML file (10973 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/category/consultation-stage-updates/feed/
+01:17:33	Warning: 	HTML file (925 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=570
+01:17:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-meeting-1-update%2F&format=xml
+01:17:44	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=570
+01:17:44	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=570 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-national-action-plan-expressions-of-interest/
+01:17:44	Warning: 	HTML file (3483 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-national-action-plan-expressions-of-interest%2F
+01:17:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/02/Suggest-an-OGPAU-action-.pdf
+01:17:59	Warning: 	HTML file (4307 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/category/submissions/feed/
+01:18:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.finance.nsw.gov.au/ict/sites/default/files/resources/NSW_Government_Open_Data_Policy_2016.pdf
+01:18:00	Warning: 	HTML file (34410 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/ogp-theme-teleconference-times/
+01:18:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmissions-for-the-interim-working-group-are-now-closed%2F&format=xml
+01:18:14	Warning: 	HTML file (28601 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/get-involved/
+01:18:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-admin/load-scripts.php?c=1&load%5B%5D=jquery-core,jquery-migrate&ver=4.6.1
+01:18:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/04/National-Action-Plan-DRAFT-v5-For-Release.docx
+01:18:20	Warning: 	HTML file (1744 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/collation-of-suggested-actions-and-comments/feed/
+01:18:25	Warning: 	HTML file (49860 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/tobybellwood/
+01:18:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcollation-of-suggested-actions-and-comments%2F
+01:18:30	Warning: 	HTML file (7025 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/submission-aogpn/feed/
+01:18:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-national-action-plan-expressions-of-interest%2F&format=xml
+01:18:48	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/submission-from-the-accountability-round-table-to-the-interim-working-group/feed/
+01:18:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmission-from-the-accountability-round-table-to-the-interim-working-group%2F
+01:19:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2016/09/Submission-OGPIWG-Attachment1.docx
+01:19:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fcollation-of-suggested-actions-and-comments%2F&format=xml
+01:19:15	Warning: 	HTML file (994 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-agenda-and-papers/feed/
+01:19:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmission-aogpn%2F&format=xml
+01:19:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmission-from-the-accountability-round-table-to-the-interim-working-group%2F&format=xml
+01:19:23	Warning: 	HTML file (5803 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/consultation/feed/
+01:19:25	Warning: 	HTML file (3466 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/engagement/feed/
+01:19:28	Warning: 	HTML file (830 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/third-inter-departmental-committee-meeting/feed/
+01:19:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-meeting-1-agenda-and-papers%2F&format=xml
+01:19:39	Warning: 	HTML file (1438 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/ogpau-update-3-august/feed/
+01:19:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fthird-inter-departmental-committee-meeting%2F&format=xml
+01:19:45	Warning: 	HTML file (30259 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/idc/
+01:19:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fthird-inter-departmental-committee-meeting%2F
+01:19:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fogpau-update-3-august%2F
+01:19:46	Warning: 	HTML file (2877 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/results-of-the-co-creation-workshop-and-ongoing-engagement/feed/
+01:19:52	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=536
+01:19:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fresults-of-the-co-creation-workshop-and-ongoing-engagement%2F
+01:19:58	Warning: 	HTML file (9586 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/amelialoye/feed/
+01:20:00	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=536
+01:20:00	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=536 to https://ogpau.govspace.gov.au/collation-of-suggested-actions-and-comments/
+01:20:00	Warning: 	HTML file (3369 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fcollation-of-suggested-actions-and-comments%2F
+01:20:03	Warning: 	HTML file (4279 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/second-idc/feed/
+01:20:43	Warning: 	HTML file (26079 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/january-update/
+01:20:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsecond-idc%2F
+01:20:54	Warning: 	HTML file (3288 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmission-aogpn%2F
+01:21:04	Warning: 	HTML file (8681 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/what-im-learning-about-open-gov-in-australia/feed/
+01:21:15	Warning: 	HTML file (913 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=593
+01:21:23	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=593
+01:21:23	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=593 to https://ogpau.govspace.gov.au/submission-from-the-accountability-round-table-to-the-interim-working-group/
+01:21:23	Warning: 	HTML file (3465 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsubmission-from-the-accountability-round-table-to-the-interim-working-group%2F
+01:21:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fogpau-update-3-august%2F&format=xml
+01:21:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fresults-of-the-co-creation-workshop-and-ongoing-engagement%2F&format=xml
+01:21:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fwhat-im-learning-about-open-gov-in-australia%2F
+01:21:41	Warning: 	HTML file (941 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=600
+01:21:41	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/stage-three-prioritisation-and-drafting-workshop/feed/
+01:21:45	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=600
+01:21:45	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=600 to https://ogpau.govspace.gov.au/interim-working-group-for-australias-ogp-national-action-plan-meeting-1-agenda-and-papers/
+01:21:45	Warning: 	HTML file (3507 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Finterim-working-group-for-australias-ogp-national-action-plan-meeting-1-agenda-and-papers%2F
+01:21:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fstage-three-prioritisation-and-drafting-workshop%2F
+01:22:00	Warning: 	HTML file (30389 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/register-to-attend-an-ogp-australia-information-session/
+01:22:06	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=580
+01:22:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fsecond-idc%2F&format=xml
+01:22:09	Warning: 	HTML file (11942 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/ogp-theme-teleconference-times/feed/
+01:22:14	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=580
+01:22:14	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=580 to https://ogpau.govspace.gov.au/third-inter-departmental-committee-meeting/
+01:22:14	Warning: 	HTML file (3366 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fthird-inter-departmental-committee-meeting%2F
+01:22:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fogp-theme-teleconference-times%2F
+01:22:36	Warning: 	HTML file (805 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=557
+01:22:38	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=557
+01:22:38	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=557 to https://ogpau.govspace.gov.au/ogpau-update-3-august/
+01:22:38	Warning: 	HTML file (3303 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fogpau-update-3-august%2F
+01:22:49	Warning: 	HTML file (2115 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/engagement-update-11-march/feed/
+01:22:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fwhat-im-learning-about-open-gov-in-australia%2F&format=xml
+01:22:59	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=546
+01:23:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-11-march%2F
+01:23:09	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=546
+01:23:09	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=546 to https://ogpau.govspace.gov.au/results-of-the-co-creation-workshop-and-ongoing-engagement/
+01:23:09	Warning: 	HTML file (3414 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fresults-of-the-co-creation-workshop-and-ongoing-engagement%2F
+01:23:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fstage-three-prioritisation-and-drafting-workshop%2F&format=xml
+01:23:16	Warning: 	HTML file (2282 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/get-involved/feed/
+01:23:31	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=523
+01:23:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fget-involved%2F
+01:23:41	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=523
+01:23:41	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=523 to https://ogpau.govspace.gov.au/second-idc/
+01:23:41	Warning: 	HTML file (3270 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsecond-idc%2F
+01:23:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fogp-theme-teleconference-times%2F&format=xml
+01:23:47	Warning: 	HTML file (2490 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/consultation-stage-2-commitments-drafting-and-live-event/feed/
+01:23:57	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=490
+01:24:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-2-commitments-drafting-and-live-event%2F
+01:24:06	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=490
+01:24:06	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=490 to https://ogpau.govspace.gov.au/what-im-learning-about-open-gov-in-australia/
+01:24:06	Warning: 	HTML file (3372 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fwhat-im-learning-about-open-gov-in-australia%2F
+01:24:18	Warning: 	HTML file (4495 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/pwaugh/feed/
+01:24:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-11-march%2F&format=xml
+01:24:26	Warning: 	HTML file (859 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=528
+01:24:30	Warning: 	HTML file (45774 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/consultation-stage-1-preparation-framework-and-history/feed/
+01:24:37	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=528
+01:24:37	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=528 to https://ogpau.govspace.gov.au/stage-three-prioritisation-and-drafting-workshop/
+01:24:37	Warning: 	HTML file (3384 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fstage-three-prioritisation-and-drafting-workshop%2F
+01:24:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F
+01:24:52	Warning: 	HTML file (823 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=513
+01:24:55	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=513
+01:24:55	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=513 to https://ogpau.govspace.gov.au/ogp-theme-teleconference-times/
+01:24:55	Warning: 	HTML file (3330 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fogp-theme-teleconference-times%2F
+01:25:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fget-involved%2F&format=xml
+01:25:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/files/2015/12/ART-OGP-submission.-Stage-1-Final.3docx.docx
+01:25:14	Warning: 	HTML file (4946 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/tobybellwood/feed/
+01:25:26	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=482
+01:25:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-2-commitments-drafting-and-live-event%2F&format=xml
+01:25:47	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=482
+01:25:47	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=482 to https://ogpau.govspace.gov.au/engagement-update-11-march/
+01:25:47	Warning: 	HTML file (3318 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-11-march%2F
+01:26:03	Warning: 	HTML file (1903 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/tag/idc/feed/
+01:26:15	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=461
+01:26:17	Warning: 	HTML file (1728 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/engagement-update-22-march/feed/
+01:26:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F&format=xml
+01:26:28	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=461
+01:26:28	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=461 to https://ogpau.govspace.gov.au/get-involved/
+01:26:28	Warning: 	HTML file (3276 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fget-involved%2F
+01:26:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-22-march%2F
+01:26:36	Warning: 	HTML file (4363 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/idc-24th-february/feed/
+01:26:49	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=353
+01:26:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fidc-24th-february%2F
+01:26:54	Warning: 	HTML file (773 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/january-update/feed/
+01:27:04	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=353
+01:27:04	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=353 to https://ogpau.govspace.gov.au/consultation-stage-2-commitments-drafting-and-live-event/
+01:27:04	Warning: 	HTML file (3408 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-2-commitments-drafting-and-live-event%2F
+01:27:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fjanuary-update%2F
+01:27:12	Warning: 	HTML file (2417 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/december-update/feed/
+01:27:27	Warning: 	HTML file (871 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=223
+01:27:40	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=223
+01:27:40	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=223 to https://ogpau.govspace.gov.au/consultation-stage-1-preparation-framework-and-history/
+01:27:40	Warning: 	HTML file (3402 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F
+01:27:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-22-march%2F&format=xml
+01:28:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdecember-update%2F
+01:28:03	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=509
+01:28:05	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=509
+01:28:05	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=509 to https://ogpau.govspace.gov.au/engagement-update-22-march/
+01:28:05	Warning: 	HTML file (3318 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fengagement-update-22-march%2F
+01:28:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fidc-24th-february%2F&format=xml
+01:28:10	Warning: 	HTML file (1989 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/author/helenowens/feed/
+01:28:16	Warning: 	HTML file (3884 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/register-to-attend-an-ogp-australia-information-session/feed/
+01:28:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fjanuary-update%2F&format=xml
+01:28:22	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=474
+01:28:33	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=474
+01:28:33	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=474 to https://ogpau.govspace.gov.au/idc-24th-february/
+01:28:33	Warning: 	HTML file (3291 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fidc-24th-february%2F
+01:28:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fregister-to-attend-an-ogp-australia-information-session%2F
+01:29:06	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=379
+01:29:15	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=379
+01:29:15	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=379 to https://ogpau.govspace.gov.au/january-update/
+01:29:15	Warning: 	HTML file (3282 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fjanuary-update%2F
+01:29:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fdecember-update%2F&format=xml
+01:29:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://ogpau.govspace.gov.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fogpau.govspace.gov.au%2Fregister-to-attend-an-ogp-australia-information-session%2F&format=xml
+01:29:46	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=365
+01:29:57	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=365
+01:29:57	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=365 to https://ogpau.govspace.gov.au/december-update/
+01:29:57	Warning: 	HTML file (3285 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fdecember-update%2F
+01:30:08	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/?p=343
+01:30:27	Warning: 	Moved Permanently for https://ogpau.govspace.gov.au/?p=343
+01:30:27	Warning: 	File has moved from https://ogpau.govspace.gov.au/?p=343 to https://ogpau.govspace.gov.au/register-to-attend-an-ogp-australia-information-session/
+01:30:27	Warning: 	HTML file (3405 bytes) retransferred due to lack of cache: https://ogpau.govspace.gov.au/wp-login.php?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fregister-to-attend-an-ogp-australia-information-session%2F
+
+HTTrack Website Copier/3.48-23 mirror complete in 49 minutes 45 seconds : 479 links scanned, 674 files written (25304475 bytes overall) [14497420 bytes received at 4856 bytes/sec], 4082574 bytes transferred using HTTP compression in 263 files, ratio 29%, 2.3 requests per connection
+(5 errors, 601 warnings, 0 messages)

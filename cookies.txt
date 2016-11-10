@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ogpau.wikispaces.com	TRUE	/	FALSE	1999999999	test	1
+ogpau.wikispaces.com	TRUE	/	FALSE	1999999999	serverid	w19-prod
+.govspace.gov.au	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
