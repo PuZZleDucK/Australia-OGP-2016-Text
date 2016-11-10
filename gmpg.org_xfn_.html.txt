@@ -1,0 +1,31 @@
+
+
+
+
+
+    * Home
+    * Intro
+    * Join
+    * Background
+    * FAQ
+    * Tools
+    * And...
+    * Helping
+    * Thanks
+    * Feedback
+****** Xhtml Friends Network ******
+XFN™ (XHTML Friends Network) is a simple way to represent human relationships
+using hyperlinks. In recent years, blogs and blogrolls have become the fastest
+growing area of the Web. XFN enables web authors to indicate their relationship
+(s) to the people in their blogrolls simply by adding a 'rel' attribute to
+their <a href> tags, e.g.:
+<a href="http://jeff.example.org" rel="friend met">...
+To find out how to write and use XFN, or to write a program to generate or
+spider it, read the following sections:
+  Thanks
+      Thanks to all those who have helped XFN with their feedback, constructive
+      criticisms, suggestions, and inspirational uses.
+  Feedback
+      Let us know what you think about XFN.
+XFN [GMPG]
+Copyright © 2003–2016 GMPG. Some_rights_reserved.

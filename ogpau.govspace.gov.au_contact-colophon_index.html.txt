@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search:  [s                   ] [Search]
+[Australian_Government]
+****** Open_Government_Partnership_–_Australia ******
+***** Developing the Australian Government National Action Plan *****
+
+    * Home
+    * Draft_National_Action_Plan
+          o Introduction
+          o Efforts_to_date
+          o Developing_this_plan
+          o Commitments
+                # Theme_1:_Transparency_and_accountability_in_business
+                      # 1.1_–_Improve_whistle-blower_protections_in_the_tax_and
+                        corporate_sectors
+                      # 1.2_–_Beneficial_ownership
+                      # 1.3_–_Natural_Resource_Transparency
+                # Theme_2:_Open_data_and_digital_transformation
+                      # 2.1_–_Release_high-value_datasets_and_enable_data
+                        driven_innovation
+                      # 2.2_–_Build_and_maintain_public_trust_to_address
+                        concerns_about_data_sharing
+                      # 2.3_–_Digitally_transform_the_delivery_of_government
+                        services
+                # Theme_3:_Access_to_government_information
+                      # 3.1_–_Information_management_and_access_laws_for_the
+                        21st_century
+                      # 3.2_–_Understand_the_use_of_Freedom_of_Information
+                      # 3.3_–_Improve_the_discoverability_and_accessibility_of
+                        government_data_and_information
+                # Theme_4:_Integrity_in_the_public_sector
+                      # 4.1_–_Confidence_in_the_electoral_system_and_political
+                        parties
+                      # 4.2_–_National_Integrity_Framework
+                      # 4.3_–_Open_Contracting
+                # Theme_5:_Public_participation_and_engagement
+                      # 5.1_–_Delivery_of_Australia’s_Open_Government_National
+                        Action_Plan
+                      # 5.2_–_Enhance_public_participation_in_government
+                        decision_making
+          o Australia’s_leadership_internationally
+          o Appendix_A:_Consultation_and_engagement_activities
+    * Introduction
+    * Preparing_the_National_Action_Plan
+          o Updates
+          o About_the_OGP
+          o Background
+          o FAQs
+    * Contribute_to_the_process
+          o Get_Involved
+          o Public_Consultation
+    * Contact_&_Colophon
+
+****** Contact & Colophon ******
+The Open Government Partnership Australia website is run by the Public Data
+Branch in the Department_of_the_Prime_Minister_and_Cabinet.
+Contents
+    * 1_Contact
+    * 2_Copyright
+    * 3_Moderation_policy_and_process
+    * 4_Terms_of_use
+          o 4.1_Lawful_purposes
+          o 4.2_Security
+          o 4.3_General
+    * 5_Privacy
+          o 5.1_Personal_information
+          o 5.2_Google_Analytics
+          o 5.3_Uses
+          o 5.4_Cookies
+          o 5.5_Your_choices
+          o 5.6_Important_information
+***** Contact *****
+Please contact us at ogp@pmc.gov.au. Join the OGPau_mailing_list to keep up to
+date with news and events.
+Accessibility
+The OGP Au blog aims to meet the World Wide Web Consortium’s Web Content
+Accessibility Guidelines version 2.0 (WCAG 2.0) web standard, endorsed by the
+Australian Government.
+The majority of content on this blog is text based. Images have alternative
+text and are often described further in surrounding information.
+This website is developed on the content management system, WordPress with a
+customised GovSpace template specifically built to meet Australian Government
+publishing requirements including accessibility. Providing access to
+information for all users, including those with a disability, is of paramount
+importance to us. If there is information on this site in a format you cannot
+access or if you experience any other accessibility difficulties, please
+contact_us.
+***** Copyright *****
+With the exception of the Commonwealth Coat of Arms and where otherwise noted,
+all material presented in this blog is provided under a Creative_Commons
+Attribution_3.0_Australia licence. The details of the relevant licence
+conditions are available on the Creative Commons website (accessible using the
+links provided) as is the full_legal_code_for_the_CC_BY_3.0_AU_licence. The
+document should be attributed as the OGP Au – https://ogpau.govspace.gov.au.
+When you submit a comment to this website, you retain copyright in it. By
+submitting a comment to this website you agree to make it available to the rest
+of the world under the same Creative Commons Attribution 3.0 Australia licence
+as above. If you have made a comment unaware of this policy and you are unhappy
+about it, please contact_us and we can remove your comment from our system.
+The terms under which the Coat of Arms can be used are detailed on the It’s_an
+Honour website.
+***** Moderation policy and process *****
+We don’t want to hinder any conversations that are taking place on this blog.
+The moderation process helps ensure that spam or comments that breach the terms
+of use (below) are not published. We aim to publish most comments immediately.
+To help us do this, please make sure:
+    * Your comments are relevant or on-topic;
+    * Your comments are not inflammatory, unreasonable or obscene;
+    * You are civil and respectful of others and their opinions (including not
+      impersonating anyone and not posting someone’s personal information
+      without their permission); and
+    * Your behaviour is in line with relevant laws.
+This blog uses a post-moderation process: your comment is basically published
+immediately – after going through some automated system checks.
+The first is a human verification step to deter spam bots: when you submit a
+comment, you are asked to include a user name and an email address. You don’t
+have to include your actual details; you may post under a pseudonym.
+Offensive language is automatically checked by the system and comments with
+many links in them may be automatically held for moderation (links being a
+major part of most comment spam). Comments being held in the system are
+manually checked by a moderator to determine if the comment should be
+published, edited or deleted. The same manual process is applied to a published
+comment found to have breached the terms of use. If a comment is edited, we
+will include a reference so you can tell.
+In most cases, we’ll close comments on posts after 3 months. This is primarily
+to block spam comments from appearing on older posts; if you wish to provide
+feedback on or discuss an older post, please let us know.
+If we make a mistake, again please let us know and we will deal with it as
+quickly as we can.
+***** Terms of use *****
+Your use of this blog is deemed to be your acceptance of these Terms of Use.
+Please read them carefully.
+**** Lawful purposes ****
+You agree to use this blog only for lawful purposes, and in a manner that does
+not infringe the rights of or restrict or inhibit the use and enjoyment of this
+blog by any third party. This includes conduct which is unlawful or which may
+harass or cause distress or inconvenience to any person, the transmission of
+obscene or offensive content or disruption to this blog.
+You must not post or transmit via this blog any unlawful, defamatory, obscene,
+offensive or scandalous material, or any material that constitutes or
+encourages conduct that would contravene any law.
+**** Security ****
+We strive to protect comments and information you provide on this blog. We will
+use all reasonable endeavours to ensure that your comments and information are
+not compromised. However, we cannot guarantee that no Harmful Code will enter
+this blog. You should be aware of the risks associated with using websites. We
+recommend that you use appropriate and up-to-date firewall and anti-virus
+software to protect your computer systems.
+**** General ****
+These Terms of Use are governed by the laws of the Australian Capital
+Territory, Australia and you agree to submit to the exclusive jurisdiction of
+the courts of the Australian Capital Territory.
+If any of these Terms of Use are held to be invalid, unenforceable or illegal
+for any reason, the remaining Terms of Use will continue in full force. These
+Terms of Use do not negate any Terms or Conditions that apply to your use of
+any other government website. We may revise these Terms and Conditions from
+time to time.
+Please contact us if you have any questions, problems or feedback regarding
+this blog.
+***** Privacy *****
+This statement applies to this website only. This website is managed by the
+Department of the Prime Minister and Cabinet.
+**** Personal information ****
+We will only record your personal information if you comment on this website’s
+blog posts or send us an email. If you wish to comment on this website’s blog
+posts, you will be asked to provide a name and email address. You do not have
+to include your actual details; you are welcome to post under a pseudonym and
+include a non-existent email address. You also have the option of creating a
+govspace login and using this when providing comments. If you visit our website
+to read or download information, we record the following information for
+statistical purposes:
+    * Your server address and associated country;
+    * Your top level domain name (e.g. .gov, .com, .edu, .org, .au, .nz, etc);
+    * The pages you accessed and the documents you downloaded;
+    * The search terms you used;
+    * The date and time you visited the website;
+    * The previous website you visited;
+    * Your operating system (e.g. Windows, Mac); and
+    * The type of browser you use (e.g. Internet Explorer).
+**** Google Analytics ****
+We use Google Analytics to collect information about how people use this
+website. The information we obtain from Google Analytics helps us understand
+user needs so that we can offer a better user-experience.
+Google Analytics uses cookies to collect information about which pages you
+visit, how long you are on the website, how you got there (e.g. from a search
+engine, a link, an advertisement, etc.) and what you select. Information
+collected by the cookies (including your IP address) is transmitted to and
+stored by Google on servers in the United States.
+By using this website, you consent to the processing of data about you by
+Google in the manner described in Google’s_Privacy_Policy and for the purposes
+set out above. You can opt out of Google Analytics if you disable or refuse the
+cookie, disable JavaScript, or use the opt-out_service provided by Google.
+**** Uses ****
+We only use your personal information for the purposes for which you gave it to
+us. Your personal information will not be added to a mailing list, or used or
+disclosed for any other purpose without your consent. We analyse non-
+identifiable, aggregated website traffic data to help us improve the structure
+and functionality of this website. No attempt will be made to identify users or
+their browsing activities except, in the unlikely event of an investigation,
+where a law enforcement agency may exercise a warrant to inspect our logs. We
+do not share information about you with other government agencies or
+organisations without your permission, unless it:
+    * is necessary to provide you with a service that you have requested;
+    * is required or authorised by law; or
+    * will prevent or lessen a serious and imminent threat to somebody’s
+      health.
+All information is stored and archived for a period of at least 12 months and
+possibly up to 7 years, in line with our recordkeeping obligations.
+**** Cookies ****
+Cookies are pieces of information that a website can transfer to an
+individual’s computer. These can be used to help personalise a website, manage
+visitor sessions or collect website use data. We use cookies to help collect
+website use and traffic data, record user access preferences and, if selected,
+to allow you to save your login details (“Remember Me”). You can change your
+web browser settings to reject cookies or to prompt you each time a website
+wishes to add a cookie to your browser. In spite of our efforts to reduce the
+impact, some functionality on the website may be affected by this.
+**** Your choices ****
+You may gain access to the personal information about you that we hold. You can
+have us correct any errors or delete the information we have about you. You may
+opt out of any further contact from us. To protect your privacy and the privacy
+of others, we may have to gain evidence of your identity before we can give you
+access to information about you or change it.
+**** Important information ****
+This website is bound by the Privacy_Act_1988_(Cth), including the Australian
+Privacy_Principles. We also follow the Digital_Service_Standard issued by the
+Digital Transformation Office.
+
+[ a govspace site ]
