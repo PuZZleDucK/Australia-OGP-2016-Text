@@ -1,0 +1,173 @@
+F R O M C O M M I T M E N T TO AC T I O N
+OGP National Action Plan
+1
+Guidance Note
+This note was developed by the Open Government Partnership Support Unit to provide guidance to participating
+countries on how to draft a National Action Plan in accordance with the Articles of Governance and international best
+practices. For more information, email the Support Unit at info@opengovpartnership.org
+National Action Plans are at the core of a country’s participation in OGP. They are the product of a co-creation process
+in which government and civil society define ambitious commitments to foster transparency, accountability and public
+participation. This guidance note reflects lessons learned from the first three years of OGP on producing high quality
+action plans. In addition, the note includes templates that will ensure all the necessary information on commitments and
+the development process is included in the action plan.
+Main Action Plan Characteristics
+Successful OGP action plans focus on ambitious national open government priorities; are relevant to the values of
+transparency, accountability and public participation; and contain specific, time-bound and measureable commitments.
+Ambitious: OGP aims to promote ambitious open government reforms that stretch the government beyond its current
+state of practice, significantly improving the status quo by strengthening transparency, accountability and public
+participation in government. Countries may choose to initiate new open government initiatives in their action plans, or
+improve on existing, ongoing reforms. Countries are encouraged to show clear improvement from action plan to action
+plan.
+Relevant: Countries should ensure that each commitment included in the action plan is clearly advancing one or more
+of the following open government principles:
+• Transparency: This includes publication of all government-held information (as opposed to only information
+on government activities); proactive or reactive releases of information; mechanisms to strengthen the right to
+information; and open access to government information.
+• Accountability: There are rules, regulations and mechanisms in place that call upon government actors to justify
+their actions, act upon criticisms or requirements made of them, and accept responsibility for failure to perform with
+respect to laws or commitments. Commitments on accountability should typically include an answerability element,
+i.e. that they are not purely internal systems of accountability but involve the public.
+• Participation: Governments seek to mobilize citizens to engage in a dialogue on government policies or
+programs, provide input or feedback, and make contributions that lead to more responsive, innovative and effective
+governance.
+• Technology and Innovation: Governments embrace the importance of providing citizens with open access to
+technology, the role of new technologies in driving innovation, and the importance of increasing the capacity of
+citizens to use technology. E-government initiatives are welcome, but in order to be relevant to OGP, action plans
+should explain how these initiatives advance government transparency, accountability and/or public participation
+1 Article of Governance VI. OGP ACTION PLANS AND REPORTING. Action plans should be for a duration of two years, though individual commitments contained in
+these action plans may be for more or less than two years depending on the nature of the commitment. However, each action plan should include one-year and two-year
+benchmarks, so that governments, civil society organizations, and the Independent Reporting Mechanism (see below), have a common set of time-bound metrics to assess
+progress. As living documents, action plans may be updated as needed based on ongoing consultations with civil society. Any updates should be duly noted in the official
+version of the action plan on the OGP website.
+For more information contact info@opengovpartnership.orgF R O M C O M M I T M E N T TO AC T I O N
+SMART: Individual commitments should conform to the following:
+• Specific: The commitment precisely describes the problem it is trying to solve, the activities it comprises and the
+expected outcomes.
+• Measurable: It is possible to verify the fulfillment of the commitment. Where commitments have multiple sub-
+commitments, they are broken into clear, measurable milestones.
+• Answerable: The commitment clearly specifies the main implementing agency, the coordinating or supporting
+agencies where relevant, and if necessary, other civil society, multilateral, or private sector partners who have a role in
+implementing the commitment.
+• Relevant: For each commitment, the action plan should explain its relevance to one or more of the open
+government principles outlined above (transparency, accountability, public participation and technology &
+innovation).
+• Time-bound: Commitment clearly states the date when it will be completed, as well as dates for milestones,
+benchmarks and any other deadline.
+Action Plan Template 2
+<<Country name>>
+National Action Plan
+201X-201X
+1. Introduction
+Briefly explain the local context by discussing why open government efforts are important for the country. This
+section should also outline the governance reform priorities for the country and identify the grand challenges that
+the country intends to address through its OGP National Action Plan along with a justification.
+2. Open Government Efforts to Date
+Provide a brief narrative of key open government initiatives and accomplishments to date, particularly as they
+relate to the government’s chosen grand challenges. This section should explain how the new action plan builds on
+previous OGP action plans and related efforts to strengthen open government reforms.
+3. NAP Development Process
+OGP participants commit to “co-create” their country action plans through a multi-stakeholder consultation process,
+with the active engagement of citizens and civil society. In this section please describe the NAP development
+process, including the consultation.
+Please consider that regarding the consultation process, the IRM evaluates the following activities:
+1. Availability of timeline: Countries are to make the details of their public consultation process and timeline available
+(online at minimum) prior to the consultation.
+2. Adequate notice: Countries are to consult the population with sufficient forewarning. Many countries have
+chosen to share written drafts two weeks before the official start of consultation to allow stakeholders to organize
+themselves.
+3. Awareness raising: Countries are to undertake OGP awareness raising activities to enhance public participation in
+2 This section includes the main components of an action plan. Each country can modify the format and add any sections they desire. However we strongly suggest to at
+least include the information in this template.
+For more information contact info@opengovpartnership.orgF R O M C O M M I T M E N T TO AC T I O N
+the consultation.
+4. Multiple channels: Countries are to consult through a variety of mechanisms—including online and through in-
+person meetings—to ensure the accessibility of opportunities for citizens to engage.
+5. Breadth of consultation: Countries are to consult widely with the national community, including civil society and
+the private sector, and to seek out a diverse range of views.
+6. Documentation and feedback: Countries are to make a summary of the public consultation and all individual
+written comment submissions available online.
+7. Consultation during implementation: Countries are to identify a forum to enable regular multi-stakeholder
+consultation on OGP implementation—this can be an existing entity or a new one.
+4. Commitments
+Each commitment as written must be specific, clear, and succinct. Each commitment should be no more than
+a few paragraphs or half a page in length. The level of ambition and relevance to OGP values should be clearly
+demonstrated. Experience has shown that action plans listing 5-15 high quality commitments are preferable to those
+with very large numbers of weaker commitments.
+Use the following template for each commitment in your action plan.
+Commitment Template
+Name and number of the Commitment
+Lead implementing agency
+Name of responsible person
+from implementing agency
+Title, Department
+Email
+Phone
+Other
+actors
+involved
+Government
+CSOs, private
+sector, working
+groups,
+multilaterals
+Status quo or problem/issue
+to be addressed
+Main Objective
+Brief Description of
+Commitment
+(140 character limit)
+OGP challenge addressed
+by the commitment
+For more information contact info@opengovpartnership.orgF R O M C O M M I T M E N T TO AC T I O N
+Relevance
+Briefly describe the way
+in which this commitment
+is relevant to further
+advancing OGP values
+of access to information,
+public accountability,
+civic participation, and
+technology and innovation
+for openness and
+accountability. (A detailed
+description of these values
+is available in the OGP
+Values Guidance Note.)
+Ambition
+Briefly describe the
+intended results of the
+commitment and how it will
+either make government
+more open or improve
+government through more
+openness.
+Verifiable and measurable milestones to
+fulfill the commitment
+New or ongoing commitment
+Start Date:
+1.
+2.
+3.
+4.
+5.
+For more information contact info@opengovpartnership.org
+End Date:F R O M C O M M I T M E N T TO AC T I O N
+Format and length
+• Action plans should be clear, succinct, and action-oriented, approximately 8-12 pages in length and written in plain
+language with minimal use of jargon or technical terms.
+• Governments are encouraged to work with multiple ministries and departments across the government to develop
+and implement their OGP commitments. For ease of communication, the contact information for the lead agency of
+each commitment should be included in the action plan.
+• We strongly recommend that each action plan contain between 5 and 15 ambitious commitments. Where multiple
+commitments address the same policy issue, they should be grouped as individual milestones under a single
+commitment.
+• The expected length of each commitment is approximately half a page. A few paragraphs that clearly state the
+specific action or reform the government is going to undertake should suffice.
+• All actions plans must cover a two-year period. At minimum one-year and two-year milestones for each commitment
+are required so that governments, civil society organizations, and the Independent Reporting Mechanism, have a
+common set of time-bound metrics to assess progress.
+• Commitments that will take longer than two years to implement are welcome as long as they are clearly marked in the
+country’s next action plan.
+• While action plans can be written in the country’s official language, governments are required to submit an English
+translation to the OGP Support Unit.
+For more information contact info@opengovpartnership.org

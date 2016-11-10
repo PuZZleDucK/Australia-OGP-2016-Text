@@ -1,0 +1,140 @@
+Public Data Branch
+Department of the Prime Minister and Cabinet
+PO Box 6500
+Canberra ACT 2600
+31 October 2016
+Dear Public Data Branch,
+I provide the below submission as feedback on the draft Open Government National Action Plan.
+I authorise its publication online.
+Yours sincerely,
+Justin Warren
+Managing Director
+PivotNine Pty LtdComments on the Draft Open Government National Action Plan
+These comments relate to the consultation draft of the Open Government National Action Plan published
+online at http://ogpau.govspace.gov.au/have-your-say-on-australias-first-open-government-national-action-
+plan/.
+Commitment 1.1
+Commitment 1.1 states as its objective: Australia will ensure appropriate protections are in place for people who
+report tax evasion or avoidance, corruption, waste, fraud and misconduct within the corporate sector.
+This broad objective is not reflected in the milestones listed in the Plan for this commitment. Instead, these
+commitments appear to entirely focus on the area of tax. Corruption, waste, fraud, and misconduct may relate
+to many areas of corporate operations not related to tax. To focus entirely on tax would appear to leave the
+majority of potential wrongdoing uncovered by any changes to legislation.
+Whistle-blower protections should extend to those covering any form of corporate wrongdoing, not merely
+those relating to tax.
+Commitment 1.2
+A beneficial ownership registry already exists in the form of ASIC’s corporate database. This database should be
+publicly available and searchable, free of charge.
+Instead, the government appears to be attempting to privatise this public resource
+(https://www.theguardian.com/australia-news/2016/aug/29/privatising-asic-database-not-a-done-deal-
+coalition-says) which is in direct opposition to this commitment.
+Privatising this monopoly asset, and to simultaneously be looking at recreating a new registry of the same kind
+of information seems astonishingly wasteful. The search fees of $52.2 million per year (as per the above linked
+article) seems tiny in comparison to other forms of government spending, such as on a national non-binding
+plebiscite.
+Further, the ambition stated in this commitment does not appear to align with the public accountability
+aspect of the Relevance stated for this commitment. It appears focused on making this information available to
+“competent authorities” instead, when surely this information is already available to competent authorities? If it
+is not, how are those authorities able to fulfil their functions today?
+Commitment 1.3
+It is not clear to me why disclosure of company payments and government revenues should be limited to the
+extractive industries. Surely if this is a good idea then it should relate to all industries equally?
+What is particularly special about extractive industries that it requires a special commitment for transparency
+and accountability? Is there a particular issue with transparency and accountability in this industry today?
+Commitment 2.2
+This commitment entirely ignores the privacy impacts of data collection and data sharing.
+The assertion that “effective policy responses require investment in joined-up data that can provide a strong evidence-
+base for policy decisions” is made without–somewhat ironically–evidence that existing evidence bases are used for
+policy decisions. More data does not magically make for better analysis, nor does evidence based on a larger
+dataset inevitably lead to better policy. Policy makers are already free to ignore research data when creating
+policy today, and frequently do.The negative impacts of increased data collection and integration are far too often hand-waved away in the
+pursuit of nebulous benefits. The benefits to individuals of maintaining privacy in an era of continuous
+monitoring are seemingly never evaluated.
+The posture of this commitment is in stark contrast to that of other commitments to transparency from
+corporations and governments. Why is it that individuals are expected to provide near unlimited information
+to government, often legally compelled or required to receive services,while corporations and government itself
+is able to justify continued privacy and secrecy from the public?
+Shouldn’t government prioritise transparency of powerful organisations over invading individual privacy?
+Where is the commitment to maintaining individual privacy? Where is the commitment to obtaining
+individual consent for the use of my personal, private information?
+The Bill to amend the Privacy Act 1988 recently introduced by the government is atrociously bad law. If an
+amendment must be made, how about making it an offence to release a dataset that enables personal
+information to be re-identified?
+What about introducing a penalty for disclosing information that should have been kept private? What about
+providing a mechanism for individuals whose private information is disclosed without authorisation to receive
+financial compensation from the government entity that breached their trust? What about, quite frankly,
+placing the burden of keeping information safe on those who insist on collecting this information?
+The posture of government, and other entities quite frankly, should be to not collect information they cannot
+immediately justify a need for. Other people’s personal information should be a liability, not just an asset, and
+the incentive structures should be configured to encourage collectors to keep this information safe.
+Commitment 2.3
+This commitment appears to largely relate to providing the barest of minimums of IT project and procurement
+information to the public. This is hardly ambitious, as this information should already exist.
+Putting a programme manager’s Red-Amber-Green dashboard on a website is trivial, and as someone who has
+seen more than their fair share of these dashboards, provides little to no actual insight into what’s actually going
+on.
+This focus on ‘digital transformation’ as an unalloyed good thing is perplexing. Automating a bad process with
+a computer doesn’t make it better.
+Commitment 3.1
+This commitment is vague. It appears to concentrate on creating options for a model of a framework. What
+even is that? A plan to maybe come up with an option for a plan, one day, perhaps?
+This commitment should instead provide more concrete milestones.
+Any amendment to the Freedom of Information Act 1982 (FOI Act) should consider:
+• ensuring that oversight functions are adequately funded as part of the legislation. Existing
+arrangements can be undermined by governments opposed to transparency by de-funding the offices
+charged with oversight.
+• entities who abuse the FOI Act by being overly restrictive in their redactions or demands for
+processing payments should suffer sanctions.
+Information that should have been published already should not require an FOI processing charge to be made
+available, and entities that require one should be penalised and the charges refunded in full, plus a percentage
+for wasting the requester’s time.Entities that are found to have redacted information from documents released under the FOI Act for which
+there was no good reason to redact it should be penalised.
+The posture of government is currently too much in favour of individual data being fair game for collection and
+disclosure while government itself is frequently secretive and obstructionist.
+Commitment 3.2
+While I applaud the general principles here, I urge caution when designing the metrics to be measured. What
+gets measured gets managed, and this can lead to perverse incentives.
+When designing the metrics, take the time to consider how a perverse or obstructionist actor may choose to
+interpret them. For example, frequently useful information should not actually require a request under the FOI
+Act for it to be published, it should simply be readily available. However, a change to greater transparency may
+see a drop in the number of FOI requests. Is that good, or bad?
+Commitment 3.3
+I am curious about the use of the term ‘public data’. It appears to refer to datasets collected and managed by the
+government, but this is misleading. The information in many of these datasets is supplied by individuals. Data
+supplied by me in the course of accessing government services is still mine, it is not public. I have not consented
+to it being used for purposes other than that of obtaining government services.
+A bias towards making collected data public has already caused some embarrassment to Data.gov.au with the
+release of Medicare Benefits Scheme and Pharmaceutical Benefits Schedule data that was able to be re-
+identified (http://www.abc.net.au/news/2016-09-29/medicare-pbs-dataset-pulled-over-encryption-
+concerns/7888686) (see my earlier comments on Commitment 2.2).
+Greater consideration should be given towards how individual consent is managed, particularly with regard to
+the requirements of the Privacy Act 1988. I should not be required to consent to an unlimited number of
+unspecified research projects as a condition of accessing government services. I should not have to submit to
+the Panopticon in order to pay my taxes.
+Commitment 4.1
+The most important aspect of this commitment is that of donations to political parties. Technology used for
+casting, scrutinising, or counting votes is a distraction.
+Disclosure of donations to political parties should be made in real time so that they can be scrutinised as they
+happen. Disclosure months after the fact is neither reasonable, nor necessary. Listed corporations are subject to
+continuous disclosure requirements, so why not political parties?
+Disclosure of political doations should be published in machine readable format so that they can be readily
+analysed by any interested parties, the better to hold political parties to account.
+Anyone using an ABN has to file a Business Activity Statement with the Australian Tax Office every 3 months,
+so I don’t see why political donations can’t be tracked as least as frequently. Given the importance of elections in
+a democracy, more frequent disclosure of donations does not seem unreasonable.
+Those departing political office should also be legally prevented from taking up a position with an entity they
+were responsible for overseeing. There have been too many instances of Ministers leaving office and
+immediately taking up a paid position at corporations with whom they had, or were likely to have had, official
+dealings while in office. The current code-of-conduct system is too easily exploited by those who have neither
+honour nor shame.
+The Corporations Act 2001 section 307C and the APES 110 Code of Ethics for Professional Accountants could
+be used to inform a legal requirement to guard against conflicts of interest when leaving public office.Commitment 4.2
+The National Integrity Framework is an overly complex, toothless arrangement that appears aimed at cynically
+avoiding the creation of a federal Independent Commission Against Corruption similar to the state-based
+NSW ICAC.
+There is no credible reason not to have a federal ICAC with similar powers to that of the NSW ICAC, but with
+jurisdiction that covers all aspects of the federal government.
+Instead of mucking about with a complex array of inter-related entities, create a single, independent
+Commission. Or explain to the Australian people why this is a bad idea, because I can’t see one other than fear
+that existing practices might be found to be corrupt.
+“If you have nothing to hide, you have nothing to fear.”

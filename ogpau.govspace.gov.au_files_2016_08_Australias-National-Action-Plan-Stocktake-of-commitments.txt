@@ -1,0 +1,350 @@
+Australia's first National Action Plan for the Open Government Partnership
+August 2016
+No.
+Summary of stakeholder suggestions
+THEME: Open data
+1
+2
+3
+4
+5
+Hansard, legislation and policy discussions should be available in the JSON format / XML feeds.
+Create a data register by agency on what data they hold, what state it is in, and what access is permitted.
+Identify and release high value data. Create opportunities and mechanisms for the public to contribute to this list.
+Establish a single place to discover all consultations, publications, policies.
+Strengthen Australia's data infrastructure.
+Establish an open publications repository for government documents to improve the discovery and accessibility of government
+6 publications, data, research reports and other resources. Set targets and measure results for open publishing and use of creative
+commons licenses.
+7 Data standards: international benchmarks, metadata, formats, cross-jurisdictional support etc.
+8 Assist local councils to open their data and support data standardisation.
+9 Share best practice across government and government funded organisations.
+Mashable Gov: Government data is made available in machine readable form via standards based Application Programmer
+10 Interfaces (APIs). Create a standard workflow for releasing, updating, and using open data by processing all datasets in the same
+manner through an automated and repeatable process.
+11 Open data challenge series to solve social/economic/environmental problems (based on the Open Data Institute UK's initiative).
+Baseline the maturity of the open data publishing practice of all Australian Government Departments and Agencies using a free
+online tool such as the Open Data Institute's Open Data Pathway.
+Establish a Data Futures Partnership, a cross-sector group of influential people working together to drive high-trust and high-value
+13
+data use (based on NZ model).
+14 Improve open data for Regional Australia.
+15 Develop portal similar to the EU Open Data Monitor.
+12
+16 Establish teams responsible for 'declassification', or opening, of government archives that were closed under past decisions.
+17 Amend FOI legislation to enable requests for data.
+18 Open data on the number of internal versus external hires for the APS to ensure diverse recruitment within Government.
+Cross-jurisdictions structures should be established and managed by Federal Government. Use the Cross Jurisdictional Open Data
+19 Government Working Group to create a structure or process (separate to their private meetings) whereby the public can engage
+with jurisdictions.
+20 Data should be published in a form that can be scrapped by open-data bots and consolidated for public viewing.
+21 Allow individuals to access their own personal data.
+22 Fund PSMA Australia Ltd and publish its data openly.
+23 Implement the Open Data Monitor in Australia to help in the discovery and assessment of open data quality.
+24 Adopt Open Data Certificates to demonstrate publisher best practice.
+Establish an open data/open government Cooperative Research Centre to provide the infrastructure and research commitment
+25
+required to make use of open data in the Australian context for policy, business and research purposes.
+Streamline government IT purchasing practices to understand, then capitalise upon the opportunities of open technologies: open
+26
+source, open data, open standards, open architectures.
+27 Ensure data is available under an appropriately open licence.
+Identify a process for Government agencies to share what data sources they are working on so as to avoid duplication but also to
+28
+share costs in developing data.
+29 Improve access to data on natural resources, mining and resource exploration and production projects.
+Release following datasets to facilitate effective decision-making and deliver better outcomes for the public:
+- health and community data, including mental health;
+- natural resources;
+30
+- energy sales;
+- energy efficiency of housing stocks; and
+- national security/policing/criminal justice.
+31
+Make customs data publicly available to enable a greater ability to detect where Australian importers are dealing with suppliers
+where there is the presence of criminal activity, human rights abuses and/or unlawful environmental destruction.
+THEME: Fostering innovation
+32
+33
+34
+35
+36
+Procurement that enables innovation: Agencies contemplating tenders should be required to give adequate notice of their
+intentions and take submissions regarding innovative possibilities.
+Public and private participation to source innovative solutions to problems and drive cultural change. Enable local solutions to be
+scaled and diverse stakeholders to participate.
+Establish an open and transparent process to encourage unsolicited proposals from the public, business and industry. Could be
+achieved through crowd-souring, public consideration / voting or internal taskforce.
+Cross-sector collaboration to enable co-designing and co-creation of innovative solutions. Undertake pilots and experiments to
+test innovative ideas.
+Require that .5% of superannuation is put into Venture Capital (Innovation) Projects.
+1Australia's first National Action Plan for the Open Government Partnership
+August 2016
+Intellectual Property review:
+- Conduct a review of existing IP rules
+- Gather information from each agency on their IP policy and framework
+37 - Conduct a national forum to discuss and agree on contemporary standards and create educational tools
+- Create a central place for each agency to publish their IP policy and frameworks
+- Create a place where details of open source technologies used and project case studies can be easily accessible and shared
+internally and externally.
+Involve students in the innovation process to gain their perspectives as digital natives, future users and employees of government
+38
+agencies.
+39
+Share code across Government agencies: Agencies could publish their internally developed code (production versions) to a central
+repository that could be indexed and searched by other agencies. Potential to eventually make open to the public.
+Cultural change towards failure and innovation through consensus and hiring private sector employees (who are less risk adverse)
+within the APS.
+Reward and promote solutions in local communities and public service delivery through payment models that pay 5-10% of
+41
+savings.
+42 Require 1% of Superannuation goes into Social Impact Bonds with Government guarantees.
+40
+43 Pilot program to capture and measure government innovation activity (activity/output, outcome and impact indicators).
+THEME: Public service delivery
+44 Establish and support events for industry, community and government to solve civic and public service issues.
+Build capabilities through training and development of:
+45 - front line/customer service staff to facilitate efficient delivery of services; and
+- DIBP staff to apply correct decision-making rules.
+46 Establish a mentoring program to build and retain corporate knowledge within an organisation.
+47 Improve transparent decision making / case management for immigration and citizenship cases.
+48 Develop government portal for identity management.
+Develop a single, open platform to enable collaboration across providers and improve efficiencies in natural resource
+49
+management and healthcare.
+50 Mandatory APIs for citizens and businesses to enable data linkage.
+Customer-designed platform focused on increasing information accessibility about available government services to enable people
+51
+to more effectively navigate and participate in programs and access services.
+52 Create, manage and preserve information digitially to support transparency, accountability and citizen engagement.
+THEME: Government integrity
+53 Adoption of the recommendations from the Independent Parliamentary Entitlements System Report.
+Institute a policy of open access to politicians’ diaries and travel arrangements which could be published online in close to real
+54
+time (i.e. the day after) as possible.
+Development of an efficient feedback system to report lapses, incorrect advice/actions and inappropriate conduct by government
+55
+officers is imperative as a corrective mechanism.
+Development and adoption of a Parliamentary Integrity System, including a code of conduct for each of the House of
+56 Representatives and the Senate, in line with international better practice. E.g. Recommended Benchmarks for Legislatures,
+adopted in 2006 by the Commonwealth Parliamentary Association, the UNDP and the World Bank.
+Institutionalise a regular legislative openness review.
+- Parliamentary openness commitments in future OGP action plans.
+57 - Conduct a parliamentary information audit.
+- Formally task a committee or other body within Parliament to monitor parliamentary openness and citizen engagement efforts.
+- Engage in international fora dedicated to sharing international good practice.
+58 Open access to legal advice obtained by Government that is used as the basis of policy decisions.
+59
+Increase protection for whistleblowers: Deliver legislation to protect private sector whistleblowers exposing fraud, corruption, tax
+evasion and tax avoidance in the privatesector, to match legislation to protect whistleblowers in the public sector.
+Estbalish an anti-corruption agency: Form a working group that would consult with the public, community groups and legal,
+60 government and business organisations on the establishment of an Independent Federal Corruption Commission with proper
+powers to take and act on complaints of corruption within government.
+Extend the register of lobbyists to ensure the published list of owners is full and complete naming all the beneficiaries and financial
+61
+relationships etc.
+62 End the scoping study for the sale of the ASIC Register and make the data free and easy to access.
+Institute a ban on former politicians, especially Ministers, taking up positions in lobbying organisations, corporations or in
+63
+associations involved in lobbying activities on behalf of members.
+Design a plan to reform political donations. Suggested options:
+- ban donations altogether;
+64
+- implement a close to real-time disclosure of political donations published on the Australian Electoral Commission website; or
+- pass legislation that establishes a single independent entity that administers all political donations.
+2Australia's first National Action Plan for the Open Government Partnership
+August 2016
+65 Endorse the Declaration on Parliamentary Openness.
+All Commonwealth, state and territory parliamentary and local council proceedings should be made available via live web
+streaming with accessible closed captions, using open standards rather than requiring proprietary plugins and under creative
+66
+commons. Hansard transcripts should be accessible via API, searchable by speaker (including committee witnesses), and published
+in well-formed HTML (not just PDF).
+Australian Government to develop a plan following the UK Summit that forms a part of the OGP National Action Plan on the topic
+67
+of anti-corruption.
+The Government develop a Parliamentary Integrity System, including:
+- a code of conduct for each of the House of Representatives and the Senate, consistent with the Commonwealth Parliamentary
+Association’s Benchmarks;
+68
+- appointment of a Parliamentary Integrity Commissioner; and
+- an independent system to review claims of public interest immunity by the Executive in response to requests by Parliament for
+the production of documents .
+69 Establish a national online register of Community Plans on a regional basis across Australia.
+70 Formal requirement for government staff, five years from retirement, to mentor younger employees for 12 months.
+Annual report on the way in which each member represents their electorate, measured against their own commitments
+71
+documented in a publicly available "Statement of Approach” released prior to each election.
+72 Establish a regular Community Estimates session.
+73 Comply with international commitments for parliamentary conduct.
+THEME: Public participation
+74
+75
+76
+77
+78
+Establish a public engagement and collaborative approach to the development, implementation and monitoring of major public
+policies. Diverse and broad citizens' panel to interpret and evaluate new policies and programs.
+Establish an education program to support and upskill citizens to better engage with government.
+Implement a whole-of-government challenge platform to enable the public to solve government problems.
+Develop a capability for citizens to introduce legislation into parliament for debate and a vote.
+Commit to a six or eight week public exposure period for all laws before they are voted on by parliament, with a capability for
+individuals and groups to propose amendments and identify issues with potential laws before they are put into practice.
+79 Whole of government guidance and consultation capabilities that focuses on evidence-based policy development.
+People's Food Policy Process for Australia: Public engagement to develop a coherent, long-term, fair and sustainable food policy
+80
+for Australia.
+Establish a peak public interest/ advsory organisation, which:
+- monitors government activities;
+81 - maintains a data base of public organisations and individuals with interests in particular issues;
+- assesses which government activities appear to require public participation; and
+- assists organization and individuals in preparing material and participating, particularly those with limited resources.
+Government engagement: Digital, social media, improve data sharing, diverse platforms for engagement, focus on local
+82 communities and kept in an accessible permanent archive. Central register of all government public consultations, including
+mechanisms for people and organisations to register for alerts for consultations touching on their areas of interest.
+Public participation in the commissioning and classification of statistical publications is needed to make data collection legitimate
+and to make the statistics more informative and consensual.
+84 Develop a policy framework which is open, rigorous, collaborative and honest.
+Consider the infrastructure to support democratic behaviour, for example:
+- legislative mandate for participation;
+- safe, accessible physical spaces;
+85
+- broader access to technology;
+- fact-based media; and
+- civic education.
+Develop a platform to summarise Agreements made by the Government with global institutions such as the UN, and its application
+86
+to Government policies.
+83
+87 Conduct a three-yearly survey of voters in every electorate to assess voter satisfaction and community sentiment on policy issues.
+Establish a zero-marginal cost network and platform to crowdsource solutions to problems by working together with industry,
+community, academia and government.
+89 Require governments to give reasons for decisions in writing.
+90 Adopt the International Association for Public Participation (IAP2) principles and standards for engagement practice.
+88
+91 Identify public participation champions - key community representatives for local areas to work collaboratively with governments.
+92
+Introduce legislation to mandate the use of Citizens' Juries for strategic planning, major policy initiatives or challenges where there
+are a divergence of views and potential solutions.
+THEME: Fiscal transparency
+93 Forecasting assumptions of the Treasury to be made publicly available.
+94 Aggregate amount paid in legal settlements and ex-gratia payments to non-employees by government agencies.
+95 Establish a publicly available register of the beneficial ownership of companies.
+3Australia's first National Action Plan for the Open Government Partnership
+August 2016
+Procurement: Reform the procurement process making it easier for people and businesses to work with, and collaborate with,
+government.
+- Improve panel processes to provide mechanism to track projects or related work through the panels.
+- Publish selection criteria and the method of award of any contract before the procurement process commences.
+96
+- Collect and disclose the identity and beneficial ownership of all bidders.
+- Independent monitoring of all stages of the procurement process with a robust, transparent and effective appeals process.
+- Information on public procurement should be available in open data format – non-proprietary, searchable, sortable, platform-
+independent and machine-readable.
+Grants: Adopt 360Giving Data Standard in publishing grant data and build/leverage analysis tools to ensure grants are directed
+equitably and strategically.
+Participatory budgeting and budget transparency: Greater citizen involvement in budget process, including mechanisms for
+agreement by consensus. E.g. Participatory budgeting techniques could be used to decide on projects to be funded under the
+98 "Stronger Communities Programme". Improve open budget data (including mechanisms for lack of standardisation of programme
+naming schemes and machinery of government changes) and information regarding how funding flows to the states and local
+government.
+97
+99
+Expenditure reporting: Publishing of government expenditure records down to $1,000; public register of all gov funded major
+projects (all types) along with status, project manager and regular reporting; and machine-readable PBS and Annual Report.
+100 Open Source: Increase government use of open source software through updated guidelines to government purchasing practices.
+Open contracting: Adoption of international principles (i.e. the Open Contracting Data Standard). Full details of awarded contracts
+101 should be disclosed and the details of completion of the contract should be published in a timely manner with any alterations to
+the terms of the original contract also disclosed.
+102 Application of the Construction Sector Transparency Initiative (CoST) in Australia.
+103 Publish information on official development assistance in line with the International Aid Transparency Initiative (IATI) Standard.
+THEME: Ongoing engagement for OGP
+104
+Establish an advisory body or stakeholder group comprising government, civil society and the private sector to ensure ongoing
+commitment to fulfilling OGP obligations and to guide the ongoing OGP process, implementation, monitoring and reporting.
+105 Consultation with civil society to decide Grand Challenges.
+106 Include Increasing Public Integrity as one of the Grand Challenges.
+107 Prime Minister (or other Ministers) should publish media releases or similar to bring the OGP to the public's attention.
+Conduct a a national campaign of engagement. Consultation should include regional Australian, private companies, non-profit
+108
+sector, legal and human rights groups, academics and indigenous engagement.
+109 Commonwealth should work with states, territories and local government.
+110 Citizen engagement platform to enable a permanent dialogue with the public and civil society.
+111 Include a vision statement for National Action Plans.
+112
+113
+114
+115
+116
+117
+Utilise the IAP2 (International Association for Public Participation) Core Values and Quality Assurance Standards for Community
+and Stakeholder Engagement as the benchmark for public participation in the development of the National Action Plan.
+List of all stakeholders who have contributed to the consultation be made publicly available to demonstrate the breadth of
+stakeholders who have participated.
+Establish an OGP team with a mandate to broadly improve both public sector and broader public understanding of open
+government and related issues.
+Establish a local government (and potentially small-agency) support program to give hands-on assistance in scoping and delivering
+meaningful projects.
+Implementation of the National Action Plan should be informed by the Productivity Commission's report into data availability and
+use.
+Education campaign to inform the public about relevant 'entry points' into government departments to initiate opportunities for
+public participation.
+118 Citizens’ Jury or similar deliberative mechanism using randomly selected participants to finalise the National Action Plan.
+119 Establish review and report processes for OGP implementation.
+THEME: Government data for access to information and transparency
+120 Implement the Extractive Industries Transparency Initiative in Australia.
+Australia should endorse Joint Declaration on Open Government for the Implementation of the 2030 Agenda for Sustainable
+121
+Development.
+Create community-focused content explaining mining, resources and energy project processes to improve transparency about
+122
+management of natural resources.
+THEME: Resource management
+Create a single platform for mining and resources project information and extractive industries data, and track the use of the
+123
+platform.
+4Australia's first National Action Plan for the Open Government Partnership
+August 2016
+Create a 'Paris Agreement' implementation database and improve data management and standards of the following datasets:
+- public policies, agencies and measures relevant to the Paris Agreement;
+124
+- greenhouse gas emissions, impact of climate change and other relevant data; and
+- research findings and relevant research projects.
+125 Triple bottom-line assessments of the costs and benefits of coal seam gas production.
+126 Ensure the fair and equitable distribution of revenues, royalties and benefits to affected stakeholders.
+127 Create a system for reasonable prioritisation of petroleum title allocation.
+Conduct long range environmental impact assessments and mitigation strategies for the development of existing and future CSG
+128
+export ports.
+Review and change of relevant legislation to ensure socially and environmentally responsible current and future resource
+129
+management.
+Cease CSG development in populated, prime agricultural, environmentally sensitive land and coastal areas until regulations are
+130
+enacted.
+Conduct long range environmental impact assessments and mitigation strategies to address tanker and bulk carrier traffic through
+131
+the Great Barrier Reef.
+THEME: Freedom of Information
+132
+133
+134
+135
+136
+137
+Right to know platform for whole of gov with central FOI register and publications, and a central FOI team to work across all
+departments consistently for responding to requests.
+Review FOI Act:
+- as proposed by the 2013 Hawke Review (rec 1).
+- Uniform laws across jurisdictions.
+- No fees for FOI requests and no exempt agencies.
+- Public interest tests to other exemptions such as the exemptions for trade secrets and breach of confidence.
+- All information should be considered public and the public servants should have to justify why a generated document should not
+be public.
+Maintain and fund the Office of the Australian Information Commissioner.
+Introduction of a fair use exception to Australian copyright law.
+Cabinet papers be released within weeks of Cabinet decisions, excluding those documents relating to security, defence or
+international relations.
+State and Territory Information Commissioners/Officers/Ombudsmen develop a set of metrics to assess public utilisation of
+information access rights in Australia.
+5
