@@ -1,0 +1,21 @@
+<div id="login">
+
+[Open Government Partnership – Australia](https://govspace.gov.au/ "govspace")
+==============================================================================
+
+Username or Email\
+
+Password\
+
+Remember Me
+
+[Register](https://govspace.gov.au/wp-signup.php) | [Lost your
+password?](https://govspace.gov.au/wp-login.php?action=lostpassword)
+
+[← Back to Open Government Partnership – Australia](index.html)
+
+</div>
+
+<div class="clear">
+
+</div>

@@ -1,0 +1,676 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../../index.html "Open Government Partnership – Australia")</span> {#site-title}
+==================================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action
+    Plan](../../draft-national-action-plan/index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../../draft-national-action-plan/introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to
+        date](../../draft-national-action-plan/efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this
+        plan](../../draft-national-action-plan/developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../../draft-national-action-plan/commitments/index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../../draft-national-action-plan/australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../../draft-national-action-plan/appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action Plan](../index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the OGP](../about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+FAQs {#faqs .entry-title}
+====
+
+<div class="entry-content">
+
+<div id="toc_container" class="no_bullets">
+
+Contents
+
+-   [<span class="toc_number toc_depth_1">1</span> What is “open
+    government”?](#What_is_open_government)
+-   [<span class="toc_number toc_depth_1">2</span> What is the Open
+    Government Partnership?](#What_is_the_Open_Government_Partnership)
+-   [<span class="toc_number toc_depth_1">3</span> What do countries
+    need to do to be eligible to join the OGP? How many meet these
+    criteria?](#What_do_countries_need_to_do_to_be_eligible_to_join_the_OGP_How_many_meet_these_criteria)
+-   [<span class="toc_number toc_depth_1">4</span> How does a country
+    join OGP?](#How_does_a_country_join_OGP)
+-   [<span class="toc_number toc_depth_1">5</span> Can countries be
+    expelled from the OGP once they become
+    members?](#Can_countries_be_expelled_from_the_OGP_once_they_become_members)
+-   [<span class="toc_number toc_depth_1">6</span> How is OGP
+    managed?](#How_is_OGP_managed)
+-   [<span class="toc_number toc_depth_1">7</span> How does Australian
+    intend to consult with the
+    public?](#How_does_Australian_intend_to_consult_with_the_public)
+-   [<span class="toc_number toc_depth_1">8</span> What is the criteria
+    for developing a national action
+    plan?](#What_is_the_criteria_for_developing_a_national_action_plan)
+-   [<span class="toc_number toc_depth_1">9</span> Why did Australia
+    join the OGP? What are the benefits to Australia in joining the
+    OGP?](#Why_did_Australia_join_the_OGP_What_are_the_benefits_to_Australia_in_joining_the_OGP)
+-   [<span class="toc_number toc_depth_1">10</span> How is Australia’s
+    performance tracked or
+    reviewed?](#How_is_Australias_performance_tracked_or_reviewed)
+-   [<span class="toc_number toc_depth_1">11</span> How is progress
+    measured?](#How_is_progress_measured)
+-   [<span class="toc_number toc_depth_1">12</span> Which Minister is
+    responsible and taking ownership of the process? Will they be
+    attending and representing Australia at relevant OGP
+    events?](#Which_Minister_is_responsible_and_taking_ownership_of_the_process_Will_they_be_attending_and_representing_Australia_at_relevant_OGP_events)
+-   [<span class="toc_number toc_depth_1">13</span> Given there’s an
+    election in 2016, what ensures the incoming government will not drop
+    or change the OGP National Action
+    Plan?](#Given_theres_an_election_in_2016_what_ensures_the_incoming_government_will_not_drop_or_change_the_OGP_National_Action_Plan)
+-   [<span class="toc_number toc_depth_1">14</span> What funding is
+    being attached to meeting the goals in the National Action
+    Plan?](#What_funding_is_being_attached_to_meeting_the_goals_in_the_National_Action_Plan)
+-   [<span class="toc_number toc_depth_1">15</span> There was a tender
+    for creating an OGP National Action Plan which was carried out
+    last year. Did this form the basis of the current
+    process?](#There_was_a_tender_for_creating_an_OGP_National_Action_Plan_which_was_carried_out_last_year_Did_this_form_the_basis_of_the_current_process)
+-   [<span class="toc_number toc_depth_1">16</span> Is the focus going
+    to be on open data or on a broader open government
+    topics?](#Is_the_focus_going_to_be_on_open_data_or_on_a_broader_open_government_topics)
+-   [<span class="toc_number toc_depth_1">17</span> Is the government
+    selecting a lead civil society organisation to work with it on the
+    OGP National Action
+    Plan?](#Is_the_government_selecting_a_lead_civil_society_organisation_to_work_with_it_on_the_OGP_National_Action_Plan)
+-   [<span class="toc_number toc_depth_1">18</span> How can state and
+    local governments participate in the planning process, and will they
+    be bound by the Federal OGP National Action
+    Plan?](#How_can_state_and_local_governments_participate_in_the_planning_process_and_will_they_be_bound_by_the_Federal_OGP_National_Action_Plan)
+-   [<span class="toc_number toc_depth_1">19</span> The OGP is starting
+    to allow states, as well as nations to join. Would the Australian
+    Government be open to an Australian State or Territory joining the
+    OGP in its own
+    right?](#The_OGP_is_starting_to_allow_states_as_well_as_nations_to_join_Would_the_Australian_Government_be_open_to_an_Australian_State_or_Territory_joining_the_OGP_in_its_own_right)
+-   [<span class="toc_number toc_depth_1">20</span> Given the initial
+    consultation is occurring over the holiday season, how much
+    participation does the Australian Government actually expect from
+    civil societies and the
+    community?](#Given_the_initial_consultation_is_occurring_over_the_holiday_season_how_much_participation_does_the_Australian_Government_actually_expect_from_civil_societies_and_the_community)
+-   [<span class="toc_number toc_depth_1">21</span> How can I contribute
+    to the consultation and developing the National Action
+    Plan?](#How_can_I_contribute_to_the_consultation_and_developing_the_National_Action_Plan)
+
+</div>
+
+<span id="What_is_open_government">****What is “open government”?****</span>
+----------------------------------------------------------------------------
+
+Open government means different things to different people. Many
+countries around the world are working on open government initiatives,
+each initiative being defined differently and tailored to the needs of
+that country’s citizens and government.
+
+For the Open Government Partnership, it is the goal that governments
+will “become sustainably more transparent, more accountable and more
+responsive to their own citizens, with the ultimate goal of improving
+the quality of governance, as well as the quality of services that
+citizens receive.”
+
+At the heart of open government are the ideas of transparency,
+participation and accountability. As a working definition;
+
+-   Transparency means the public understands the workings of their
+    government
+-   Participation means public can influence the workings of government
+    by engaging with public policy processes and public service
+    providers
+-   Accountability means the public can hold the government to account
+    for its policy and service delivery performance
+
+Citizen engagement is what open government is all about. It underpins
+many of the other topics in this guide – with active citizenship often
+being a vital link between transparency and accountability. The Open
+Government Partnership recognises this in its eligibility criteria,
+stating that: ‘Open Government requires openness to citizen
+participation and engagement in policymaking and governance, including
+basic protections for civil liberties’ (Open Government Partnership).
+
+<span id="What_is_the_Open_Government_Partnership">****What is the Open Government Partnership?****</span>
+----------------------------------------------------------------------------------------------------------
+
+The Open Government Partnership (OGP) was launched in 2011 to provide an
+international platform for domestic reformers to implement ambitious
+open government reforms based on a number of commitments to make their
+governments more open, accountable, responsive to citizens. Since then,
+OGP has grown from 8 countries to the 69 participating countries. In all
+of these countries, government and civil society are working together to
+develop and implement ambitious open government reforms based on a
+number of commitments to make their governments more open and
+accountable. For more information visit the [Open Government
+Partnership](http://www.opengovpartnership.org/) website
+
+<span id="What_do_countries_need_to_do_to_be_eligible_to_join_the_OGP_How_many_meet_these_criteria">****What do countries need to do to be eligible to join the OGP? How many meet these criteria?****</span>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To participate in OGP, governments must show a demonstrated commitment
+to open government in four key areas – fiscal transparency, access to
+information, disclosure of income and assets of elected or senior public
+officials and citizen engagement. These are measured by objective
+indicators and validated by independent experts.
+
+In order to participate in OGP, countries must score at least 75% of the
+total possible points available to them across the areas that are
+relevant to them. Once countries have joined OGP, they are regularly
+assessed to ensure they continue to abide by their commitments and their
+performance measures are up to date.
+
+Over 70 per cent of those countries which are eligible to join the OGP
+have done so (based on 57 of 81 nations). Australia is considered
+eligible to join and has now committed to finalising membership.
+
+<span id="How_does_a_country_join_OGP">****How does a country join OGP?****</span>
+----------------------------------------------------------------------------------
+
+There are three requirements to join OGP:
+
+-   making a commitment to the OGP Declaration of Open Government, which
+    aligns with existing Australian Government policy and practice (ref
+    <http://www.opengovpartnership.org/about/open-government-declaration>);
+-   developing a publicly consulted National Action Plan by July 2016 to
+    submit to OGP with between 5-15 commitments that align to at least
+    one of the five OGP “grand challenges”; and
+-   undertaking an annual independent reporting of progress on the
+    National Action Plan conducted by the Independent Reporting
+    Mechanism of the OGP (ref <http://www.opengovpartnership.org/irm>).
+
+More information can be located here:
+<http://www.opengovpartnership.org/how-it-works/requirements>
+
+<span id="Can_countries_be_expelled_from_the_OGP_once_they_become_members">****Can countries be expelled from the OGP once they become members?****</span>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once a country’s action plan has been agreed, progress is monitored by
+both other nations and civil society organisations, as well as by the
+[Independent Review Mechanism
+(IRM)](http://www.opengovpartnership.org/irm), to ensure all its
+promises are met. This independent international expert group of the IRM
+will inform the Steering Committee if they suspect a country as falling
+below the minimum eligibility criteria. The Steering Committee can then
+review the participation of said governments. In addition, governments
+are also being held accountable by civil society and media in their
+countries and if they perform poorly in three successive reports,
+participation can be reviewed.
+
+<span id="How_is_OGP_managed">****How is OGP managed?****</span>
+----------------------------------------------------------------
+
+OGP is overseen by a multi-stakeholder international [Steering
+Committee](http://www.opengovpartnership.org/node/1325)that currently
+includes nine governments and nine leading civil society
+representatives. The Steering Committee serves as OGP’s key executive
+management body. The Steering Committee is led by a government chair, a
+supporting (or incoming) government co-chair, and two civil society
+co-chairs.
+
+More information on the OGP Steering Committee can be found
+[here](http://www.opengovpartnership.org/node/1325).
+
+<span id="How_does_Australian_intend_to_consult_with_the_public">****How does Australian intend to consult with the public?****</span>
+--------------------------------------------------------------------------------------------------------------------------------------
+
+The [Open Government Partnership](../../contact-colophon/index.html)
+(OGP) requires broad consultation for the development of member
+countries’ National Action Plans (NAP). This provides the public, civil
+society, and the private sector with the opportunity to participate in
+the process, and suggest commitments for governments to undertake.
+
+As described in the consultation process timeline below, the Government
+will use the prioritised public-suggested commitments to guide the
+development of a draft NAP. Contributions for the NAP will be considered
+in the context of what will improve public services and improve
+management of public resources, as well as what will benefit the public,
+provide opportunities for business and support innovation in Australia.
+
+We look forward to your contributions to the consultation and public
+discussions. We encourage you to contribute throughout the process and,
+as this is a public consultation process, we prefer all contributions to
+be made publicly for transparency and peer review.
+
+<span id="What_is_the_criteria_for_developing_a_national_action_plan">****What is the criteria for developing a national action plan?****</span>
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Each participating country must develop an OGP National Action Plan
+(NAP) through a multi-stakeholder, open, and participatory process. The
+action plan contains concrete and measurable commitments undertaken by
+the participating government to drive innovation reforms in the areas of
+transparency, accountability, and citizen engagement.
+
+The Australian consultation process was designed to be an open,
+transparent, collaborative and citizen led as possible, with the support
+and approval of the OGP Support Unit.
+
+A core requirement for OGP membership is that every two years a National
+Action Plan is developed publicly and transparently. The Australian
+Government invites you to co-develop a vision and strategy for further
+progressing open government in Australia, a strategy that outlines:
+
+-   A vision for the future;
+-   The history and status of open government in Australia;
+-   Commitments to support the vision;
+-   How government and the broader society can work together in
+    achieving the vision; and
+-   Ways to monitor and measure success.
+
+The Australian Government’s OGP National Action Plan is expected to
+comply with the [Open Government Partnership
+requirements](http://www.opengovpartnership.org/how-it-works/requirements).
+There is valuable guidance in the Action Plans of other countries, such
+as the [United
+States](http://www.opengovpartnership.org/country/united-states), [Canada](http://www.opengovpartnership.org/countries/canada),
+the [United
+Kingdom](http://www.opengovpartnership.org/countries/united-kingdom) and
+[Indonesia](http://www.opengovpartnership.org/country/indonesia). You
+can also review the [full list of OGP
+countries](http://www.opengovpartnership.org/countries) on the OGP site.
+You can read more about Australia’s engagement with OGP on the [OGP Au
+Background page](../../background/index.html).
+
+<span id="Why_did_Australia_join_the_OGP_What_are_the_benefits_to_Australia_in_joining_the_OGP">****Why did Australia join the OGP? What are the benefits to Australia in joining the OGP?****</span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The goals of the Open Government Partnership align with Australia’s long
+and proud tradition of open and transparent government. It also provides
+a framework for the Australian Government to work directly with civil
+society, the private sector and international partners to see what more
+can be done. Joining the OGP is a unique opportunity for Australia to
+demonstrate leadership in open government practices, to work alongside
+G20 counterparts in encouraging cooperation and combating corruption,
+and to share knowledge on improving public services and better managing
+public resources.
+
+<span id="How_is_Australias_performance_tracked_or_reviewed">****How is Australia’s performance tracked or reviewed?****</span>
+-------------------------------------------------------------------------------------------------------------------------------
+
+OGP requires every participating government to engage in two forms of
+reporting and assessment to promote maximum accountability of its
+performance in living up to OGP commitments.  First, governments must
+publish an annual Self-assessment Report after the end of each 12-month
+implementation cycle that assesses government performance in making
+progress toward achieving its open government commitments. Second, all
+OGP countries are subject to a bi-annual assessment by the Independent
+Reporting Mechanism (IRM). The IRM works primarily through independent
+assessment reports for each OGP participating government. Each report
+will assesses the development and implementation of action plans as well
+as progress in fulfilling open government principles at the country
+level.
+
+<span id="How_is_progress_measured">****How is progress measured?****</span>
+----------------------------------------------------------------------------
+
+The Independent Reporting Mechanism (IRM) is a key means by which all
+stakeholders can track OGP progress in participating countries. The IRM
+produces biannual independent progress reports for each country
+participating in OGP.  The progress reports assess governments on the
+development and implementation of OGP action plans, progress in
+fulfilling open government principles, and make technical
+recommendations for improvements. These reports are intended to
+stimulate dialogue and promote accountability between member governments
+and citizens.
+
+<http://www.opengovpartnership.org/irm/irm-reports>
+
+<span id="Which_Minister_is_responsible_and_taking_ownership_of_the_process_Will_they_be_attending_and_representing_Australia_at_relevant_OGP_events">****Which Minister is responsible and taking ownership of the process? Will they be attending and representing Australia at relevant OGP events?****</span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The Prime Minister is the responsible Minister for OGP in Australia.
+
+<span id="Given_theres_an_election_in_2016_what_ensures_the_incoming_government_will_not_drop_or_change_the_OGP_National_Action_Plan">****Given there’s an election in 2016, what ensures the incoming government will not drop or change the OGP National Action Plan?****</span>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Once the National Action Plan is finalised, it forms part of the
+independent review of progress for Australia. Any potential change in
+government would not change how we are independently reviewed.
+
+<span id="What_funding_is_being_attached_to_meeting_the_goals_in_the_National_Action_Plan">****What funding is being attached to meeting the goals in the National Action Plan?****</span>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All commitments contributed to the consultation will be considered
+including the financial considerations. Funding for OGP implementation
+cannot be pre-empted until the National Action Plan is finalised, and is
+subject to Australian Government consideration.
+
+<span id="There_was_a_tender_for_creating_an_OGP_National_Action_Plan_which_was_carried_out_last_year_Did_this_form_the_basis_of_the_current_process">****There was a tender for creating an OGP National Action Plan which was carried out last year. Did this form the basis of the current process?****</span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The current process was developed based on best practice public
+engagement strategies with input and feedback from the OGP Support Unit
+and other stakeholders. The earlier tender was to develop a draft
+national action plan to assist in decision making which is now not
+necessary to use as the agreed consultation methodology enables a fresh
+start that is driven by community contributions. We feel this is a more
+appropriate approach for this process than circulating a pre-developed
+plan for comment.
+
+<span id="Is_the_focus_going_to_be_on_open_data_or_on_a_broader_open_government_topics">****Is the focus going to be on open data or on a broader open government topics?****</span>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Definitely on broader open government topics, the work is not limited to
+open data in any way.
+
+<span id="Is_the_government_selecting_a_lead_civil_society_organisation_to_work_with_it_on_the_OGP_National_Action_Plan">****Is the government selecting a lead civil society organisation to work with it on the OGP National Action Plan?****</span>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+No, at this stage we are interested in working with all civil society
+organisations as well as private sector, academia, cross jurisdictional
+government participants and citizens themselves.
+
+<span id="How_can_state_and_local_governments_participate_in_the_planning_process_and_will_they_be_bound_by_the_Federal_OGP_National_Action_Plan">****How can state and local governments participate in the planning process, and will they be bound by the Federal OGP National Action Plan?****</span>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This is an Australian Government National Action Plan and although
+States, Territories and Local Governments are welcome to contribute,
+they are not bound by this agreement.
+
+<span id="The_OGP_is_starting_to_allow_states_as_well_as_nations_to_join_Would_the_Australian_Government_be_open_to_an_Australian_State_or_Territory_joining_the_OGP_in_its_own_right">****The OGP is starting to allow states, as well as nations to join. Would the Australian Government be open to an Australian State or Territory joining the OGP in its own right?****</span>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Currently only national governments are eligible to formally join OGP.
+However, this does not mean there is no role for sub-national
+governments. National governments can pursue sub-national open
+government reforms that involve state and local governments as part of
+their commitments. As such, sub-national governments are encouraged to
+participate in national OGP efforts to explore the possibility of
+including local open government reforms in the OGP National Action Plan
+of the country. – See more at:
+<http://www.opengovpartnership.org/about/faqs#sthash.e0rF0edz.dpuf>
+
+<span id="Given_the_initial_consultation_is_occurring_over_the_holiday_season_how_much_participation_does_the_Australian_Government_actually_expect_from_civil_societies_and_the_community">****Given the initial consultation is occurring over the holiday season, how much participation does the Australian Government actually expect from civil societies and the community?****</span>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The consultation runs over 6 months which follows the OGP consultation
+guidelines. Our experience is that the Christmas season provides a good
+opportunity for people to think about how they want to contribute, with
+plenty of time between Christmas and the consultation ending to
+contribute meaningfully. People are welcome to contribute throughout the
+entire process.
+
+<span id="How_can_I_contribute_to_the_consultation_and_developing_the_National_Action_Plan">****How can I contribute to the consultation and developing the National Action Plan?****</span>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There are key stages we need to meet to ensure consultations are
+completed by the end of the June 2016 deadline. The scheduled timing for
+your input takes into account the Christmas period. You can contribute
+online, in person at the events, or by more traditional means, but all
+contributions will be added to the online environment for peer review.
+
+Please see the [National Action Plan Consultation](../index.html) page
+for full information on the stages and how to contribute to each stage..
+
+</div>
+
+<div id="comments">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

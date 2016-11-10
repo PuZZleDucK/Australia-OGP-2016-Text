@@ -1,0 +1,1719 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../../index.html "Open Government Partnership – Australia")</span> {#site-title}
+==================================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action
+    Plan](../../draft-national-action-plan/index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../../draft-national-action-plan/introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to
+        date](../../draft-national-action-plan/efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this
+        plan](../../draft-national-action-plan/developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../../draft-national-action-plan/commitments/index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../../draft-national-action-plan/australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../../draft-national-action-plan/appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the OGP](../../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+### Post navigation {#post-navigation .assistive-text}
+
+<div class="nav-previous">
+
+[<span class="meta-nav">←</span> Older posts](../4/index.html)
+
+</div>
+
+<div class="nav-next">
+
+[Newer posts <span class="meta-nav">→</span>](../2/index.html)
+
+</div>
+
+[Second Inter-Departmental Committee meeting](../../second-idc/index.html) {#second-inter-departmental-committee-meeting .entry-title}
+==========================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[April 6,
+2016](../../second-idc/index.html "5:03 pm")<span class="by-author">
+<span class="sep"> by </span> <span class="author vcard">[Toby
+Bellwood](../../author/tobybellwood/index.html "View all posts by Toby Bellwood"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[3](../../second-idc/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+On Tuesday 5 April, the Government convened a second interdepartmental
+committee (IDC) meeting on the Open Government Partnership. The meeting
+covered the public submissions received to date, discussed attendance at
+the public workshop to be held on Monday 11 April, and talked more
+broadly about the Open Government Partnership process going forward, and
+how agencies will be involved.
+
+In attendance were:
+
+-   Attorney-General’s Department
+-   Australian Bureau of Statistics
+-   Australian Commission for Law Enforcement Integrity
+-   Australian Institute of Health and Welfare
+-   Australian Public Service Commission
+-   Department of Education and Training
+-   Department of Employment
+-   Department of Finance
+-   Department of Health
+-   Department of Human Services
+-   Department of Immigration and Border Protection
+-   Department of Industry, Innovation and Science
+-   Department of Infrastructure and Regional Development
+-   Department of the Environment
+-   Department of the Prime Minister and Cabinet
+-   Digital Transformation Office
+-   National Archives of Australia
+-   Office of the Australian Information Commissioner
+
+Also discussed at the meeting were a range of potential commitments that
+the Agencies have come up with either in response to submissions
+received, or from their own research and analysis.
+
+The outlines of these are below, and they will be open for discussion at
+the public workshop.
+
+-   Centralised Annual Report discovery portal
+-   Create a Digital Marketplace
+-   Create, manage and preserve information digitally
+-   Enable and encourage more data-driven digital report publishing
+-   Future-proofing open data infrastructure
+-   Grants.gov.au redevelopment
+-   ICT Project dashboard
+-   Redesign the open data request process
+-   Scoping a public consultation platform
+-   Scoping an e-Tabling system
+-   Transforming high volume services
+
+In addition, we are releasing a draft of the document to contain the
+commitments once decided on.  The majority of the text is from the wiki
+and other submissions, and has been kept deliberately concise and easy
+to read, in line with other countries National Action Plans.  It is
+available for download at [National Action Plan DRAFT v5 – For
+Release](../../files/2016/04/National-Action-Plan-DRAFT-v5-For-Release.docx)
+
+We have also posted the text onto the wiki at
+[http://ogpau.wikispaces.com/Draft+text+of+the+National+Action+Plan+-+5+April+2016](https://session.wikispaces.com/1/auth/auth?authToken=f1d0b38e3a2eb9fbef4b9df781356667) for
+your comments and feedback prior to the meeting on Monday.
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="tag-links"> <span
+class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span>
+[IDC](../../tag/idc/index.html) </span> <span class="sep"> | </span>
+<span class="comments-link">[**3**
+Replies](../../second-idc/index.html#comments)</span>
+[OGPAU theme teleconference times](../../ogp-theme-teleconference-times/index.html) {#ogpau-theme-teleconference-times .entry-title}
+===================================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 24,
+2016](../../ogp-theme-teleconference-times/index.html "1:44 pm")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[amelialoye](../../author/amelialoye/index.html "View all posts by amelialoye"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[5](../../ogp-theme-teleconference-times/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+If you have suggested an action for Australian National Action Plan for
+Open Government you will received an invite to a teleconference with
+others whose actions relate to the same theme from me shortly.
+
+The purpose of the teleconferences is to compliment the wiki. I thought
+it would be good to introduce you to each other and discuss actions
+suggested prior to the closing of submissions on the 31st March. The
+intent is to increase the lines of communication between you before you
+meet in person at the event in Canberra on the 11th April.
+
+I apologise for the late notice but it is okay if you can not attend you
+might like to introduce yourself and comment on other actions through
+the wiki.
+
+The following teleconferences will be held on Tuesday the 29th March:
+
+-   13:00 – 14:00 Fiscal Transparency
+-   14:30 – 15:30 Fostering innovation
+-   15:30 – 16:30 Freedom of Information
+-   16:30 – 17:30 Government Integrity
+
+The following teleconferences will be held on Wednesday the 30th March:
+
+-   12:00 – 13:00 Open Data
+-   13:00 – 14:00 Public Service Delivery
+-   14:30 – 15:30 Resource Management
+-   15:30 – 16:30 Public Participation
+-   17:00 – 18:00 Ongoing Engagement for OGPAU
+
+I will host the teleconference and post a summary of the discussion at
+the bottom of each theme page on the wiki at the end of each day.
+
+I have also set aside some time in my calendar on Thursday the 31st
+between 11am – 1pm for anyone who might be thinking about suggesting an
+action so we can workshop it before submissions close at 5pm.
+
+I’ll be back in touch with invites as soon as I get out of my next
+meeting with the Open Government Steering Committee in NSW.
+
+Amelia
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Consultation Stage
+Updates](../../category/consultation-stage-updates/index.html),
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[**5**
+Replies](../../ogp-theme-teleconference-times/index.html#comments)</span>
+[Engagement update – 22 March](../../engagement-update-22-march/index.html) {#engagement-update-22-march .entry-title}
+===========================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 23,
+2016](../../engagement-update-22-march/index.html "3:59 am")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[amelialoye](../../author/amelialoye/index.html "View all posts by amelialoye"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[1](../../engagement-update-22-march/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+We now have 70 suggested actions for how to Open Government in Australia
+on the
+[wiki.](https://session.wikispaces.com/1/auth/auth?authToken=400b0cddf5e7a338daf5895375da5a64)Have
+you made your suggestion yet? Submissions close at 5pm on the 31st
+March.
+
+**Save the date!** Everyone who suggests an action will be invited to
+help co-create the National Action Plan (NAP) in Canberra for a day long
+workshop on the 11th April with Federal Government staff from the
+agencies most likely to lead actions. I will be in touch with those of
+you who have suggested an action with more information. We know this
+time frame is tight but it is necessary for us to meet Cabinet and OGP
+timelines.
+
+Need help? This [how to Suggest an Action document provides some
+tips](../../files/2016/02/Suggest-an-OGPAU-action-.pdf). It’s an easy
+process to navigate; it took me 10 minutes to add two suggestions of my
+own this morning. Please get in touch if you’d like any support.
+
+In my last update I mentioned I was going to Canberra to work with the
+Department of the Prime Minister and Cabinet to discuss themes and
+drafting on the wiki. We grouped all actions provided to date into the
+following themes:
+
+-   [Engagement for
+    OGP](https://session.wikispaces.com/1/auth/auth?authToken=3fd642b71c09fa7485cd3a6a758f861e)
+-   [Fiscal
+    Transparency](https://session.wikispaces.com/1/auth/auth?authToken=99b2404d03fa9b13d367b3703c0c7c24)
+-   [Fostering
+    Innovation](https://session.wikispaces.com/1/auth/auth?authToken=55b90e5fcfc1fb97879da6c1960853f5)
+-   [Freedom of
+    Information](https://session.wikispaces.com/1/auth/auth?authToken=004ba7a1b9455821ad64b41503879e1af)
+-   [Government
+    Integrity](https://session.wikispaces.com/1/auth/auth?authToken=035d3ad087e471fbd2805b44ae927e875)
+-   [Open
+    Data](https://session.wikispaces.com/1/auth/auth?authToken=03a01e743de34418dda0208a0ceca5b46)
+-   [Public
+    Participation](https://session.wikispaces.com/1/auth/auth?authToken=03c2b51700989cdc5edaafc959f0c139a)
+-   [Public Service
+    Delivery](https://session.wikispaces.com/1/auth/auth?authToken=0285e1558137f8b9498c2055761e36fd2)
+-   [Resources
+    Management](https://session.wikispaces.com/1/auth/auth?authToken=0e3314c1b29a0cbe2e92cf0f9a3dd95b8)
+
+We have added actions as discussion points so you can now comment on
+each action suggested.
+
+Toby and the Open Government team at PM&C have been discussing these
+themes with agencies who could lead delivery of a commitment in that
+area. Many have also expressed excitement about the actions suggested
+and several are keen to get involved. PM&C are now working with these
+agencies to prepare them for the 11th April workshop.
+
+Some questions that emerged during engagement last week
+-------------------------------------------------------
+
+-   After the current awareness raising and crowd sourcing stage, what
+    is the process for co-creating the National Action Plan going to
+    look like?
+-   How will the Government deal with actions that are suggested outside
+    of the Grand Challenges?
+-   What happened to the proposed teleconference?
+-   How will we prioritise actions and turn them into 5-15 commitments?
+
+**Responses to your questions**
+
+*Cocreation –* The National Action Plan will be cocreated by those
+suggesting actions, lead agencies and the Prime Minister and Cabinet
+Open Government team, but whatever we suggest must be agreed to in
+Cabinet. The workshop in Canberra will be where civil society and
+representatives from government agencies come together. Everyone who
+suggests an action will be invited to attend. There can only be 5-15
+actions in the action plan. During the workshop agencies will host theme
+based discussions to shape the OGP NAP [commitment
+templates](../../../www.opengovpartnership.org/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.html){.broken_link} with
+you.
+
+*Grand challenges –* The Government has made it clear the two Grand
+Challenges are their focus, but they are willing to consider other
+suggestions outside of these areas. At the workshop we will develop
+commitments for all actions suggested, or groups of actions as we
+prioritise and cluster them. Toby will share more about Government’s
+position on this soon.
+
+*Teleconference –* I will be emailing those of you who have suggested an
+action to invite you to a teleconference on the 29th or 30th March so
+you can meet others who have suggested actions within the same themes,
+to discuss similarities, differences and priorities before the 11th
+April event.
+
+*Working together to prioritise actions* – We need to work together to
+prioritise suggestions if we are going to help Government narrow them
+down. I’d like to help you / civil society / us, to start discussing
+that now before the workshop on the 11th April. There are two ways you
+can get involved in this process:
+
+-   Comment on actions on the wiki – I will start asking questions
+    discussions about similarities, differences between actions and how
+    they might be grouped or sequenced on the wiki and encourage
+    your involvement.
+-   In a theme based teleconference – I will be emailing those of you
+    who have suggested an action to invite you to a teleconference on
+    the 29th or 30th March, to introduce you to others with similar
+    suggestions, so we can discuss your ideas and priorities before the
+    11th April event.
+
+Actions that you have inspired me to take
+-----------------------------------------
+
+Based on your input to date I am now:
+
+-   *Encouraging theme based engagement* – I will be running
+    teleconferences with those who have suggested actions under a theme.
+    If you have suggested an action, you will receive a separate email
+    from me about this.
+-   *Encouraging feedback from others on actions –* *actions have now
+    been themed into groups with each posted as a discussion point on
+    the wiki. We are looking for your thoughts about similarities,
+    differences and opportunities to cluster actions so we can narrow
+    down and prioritise with you at the workshop.*
+-   *Connecting Australians to the* *[working
+    groups](http://www.opengovpartnership.org/who-we-are/ogp-working-groups)*
+    *and Open Government Partnership Support Unit,* *Regional Civil
+    Society Coordinator Shreya Basu:
+    <shreya.basu@opengovpartnership.org>*
+-   *Investigating privacy and consent requirements* for publishing
+    stakeholder details – I am still pursing this with PM&C.
+-   *Researching ongoing engagement forums* being used in other
+    Countries to engage stakeholders about Open Government Partnership
+    after action plans are developed. I have discussed my initial
+    thoughts with the Australian Open Government Partnership Networks.
+
+Thanks for reading my update. My next update will be after Easter, and
+will include the runsheet proposed for the event on the 11th April.
+
+Please get in touch if you would like to discuss your ideas and ways you
+might be more involved.
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[**1**
+Reply](../../engagement-update-22-march/index.html#comments)</span>
+[Engagement update – 11 March](../../engagement-update-11-march/index.html) {#engagement-update-11-march .entry-title}
+===========================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 11,
+2016](../../engagement-update-11-march/index.html "1:04 pm")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[amelialoye](../../author/amelialoye/index.html "View all posts by amelialoye"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[1](../../engagement-update-11-march/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+Thank you to those if you who have suggested an action to date. 60
+actions have been suggested and I’m aware of a few more currently being
+drafted.
+
+I have reached out to as many groups and individuals I can find with an
+interest in [Open Government Principles or the OGP Grand
+Challenges](http://www.opengovpartnership.org/about/open-government-declaration)
+so they can help promote the project, convene discussions and suggest
+actions.
+
+The OGPAU stakeholder list now includes 512 individuals or
+organisations. 218 people have registered for updates, which is a 28%
+increase since our January update, and I have emailed everyone on the
+list to raise awareness about the project and encourage engagement. I
+have personally discussed the project with 87 people, some who are
+working on actions to suggest more than once. I am sure there are many
+more people and organisations across Australia who would be interested
+in the project, so please do spread the word. I have developed a [one
+page Introduction to the
+OGPAU](../../files/2015/10/Introduction_to_OGPAU.pdf)document and [How
+to Suggest an Action template with
+tips](../../files/2016/02/Suggest-an-OGPAU-action-.pdf) to support those
+willing to help with this process. I am also happy to provide content
+for emails and newsletters for you share with your networks – just let
+me know how I can help.
+
+I have prioritised direct engagement with State Government, Local
+Government Associations, and professional association, networks and
+organisations with some interest in Open Government principles or the
+Grand Challenges. I have been well received by teams delivering Open
+Government in QLD, NSW, VIC, SA, ACT and WA Government’s but I am still
+trying to find the best contacts in Tasmania and the Northern Territory
+so please do get in touch, or put me in touch with anyone interested if
+you know anyone there.
+
+I was planning a national teleconference for those wishing to workshop
+their ideas around key themes but almost everyone I have engaged with to
+date has said they would prefer to workshop actions within their own
+organisations and networks for now. In response, I have sought out
+opportunities to engage with existing networks and I am connecting
+people with similar interests to each other directly. I have also
+prepared a list of organisations I have been talking to, to share for
+transparency and so you are aware of and can contact each other. I have
+contacted PM&C’s privacy team to confirm this approach whether this
+requires your consent.
+
+As an example, I have also connected several people interested in
+transparency and open data for extractive industries, shared open
+government platforms and ways to enable innovation within agencies and
+innovation with others who want to help.
+
+Three events will be held to engage with professionals working in public
+participation industry across the country. I have been working with the
+Australasian division [International Association for Public
+Participation (IAP2)](https://www.iap2.org.au/) who sent out a
+newsletter to their network and invited members to express an interest
+in an event. We are now hosting a teleconference on the 21st of March
+and I will host a 30minute workshop at the Ark Community Engagement
+Conference on the 22nd March. At both events we will discuss the public
+participation suggestions already put forward and try to generate more
+suggestions for actions to include in the National Action Plan.
+Collabforge has offered to do the same with attendees of the Engage2Act
+conference in Melbourne and we are also exploring whether there is
+enough interest in an event about collaboration and Open Gov. Toby has
+been doing similar work, engaging with the Open Data sector through a
+series of industry events this week in Canberra. See more in the Actions
+you have inspired section of this post below.
+
+I’ll also be inviting the Australian Open Government Network Partnership
+and those who have suggested related actions to these events. If you
+haven’t suggested an action or been in touch with me about your
+interests please do so, so I can introduce you to others. I am also
+happy to attend your events and workshop actions with you and others
+with aligned interests.
+
+Next week I am heading to Canberra to discuss the actions suggested so
+far with Prime Minister and Cabinet and how they might be presented in
+the next draft of the Plan to go up on the wiki. If you haven’t already
+suggested an action please do so asap, so we are aware of your interest
+in the project and PM&C can discuss suggestions with agencies. One
+paragraph is fine for now. This [How to Suggest an
+Action](../../files/2016/02/Suggest-an-OGPAU-action-.pdf)document should
+help, or you could look at the
+[wiki](https://session.wikispaces.com/1/auth/auth?authToken=cc5e5d1fa2e5184eaee6859f30c7c791)
+for ideas to build upon. PM&C are engaging with agencies around these
+suggestions to determine which of these they will work with you to
+workshop in April.
+
+The rest of this post summarises actions into themes, and outlines the
+actions you have inspired me to take through our engagements. Thanks to
+everyone who has made time to add an action to the wiki, to those of you
+who have met with or made time to talk to me about the project and
+others who may be interested. I’m really enjoying learning more about
+Open Government in Australia. I thought you might too, so I have also
+drafted this blog post about [What I have learned about Open Gov in
+Australia](../../what-im-learning-about-open-gov-in-australia/index.html)which
+I will update as I continue to engage.
+
+Key themes: what I’ve been hearing online and offline
+-----------------------------------------------------
+
+My discussions and actions suggested so far relate to the following key
+*themes:*
+
+-   *Public Participation* –increased input into both policy and agenda
+    setting, online methods, civic education and training for staff
+-   *Government Integrity* – procurement, political donations,
+    anti-corruption, parliamentary openness
+-   *Freedom of Information* – review of the act, role of the
+    commissioners, privacy, copyright review
+-   *Fiscal Transparency* – open budget, political donations
+-   *Public Service Delivery* – how Gov work with community and
+    industry, how citizens find services
+-   *Resources Management* – sustainable development, working with
+    indigenous communities, see also *OpenData* and *Government Data for
+    Access to Information and Transparency*
+-   *Open Data* – standardised formats, public register and open raw
+    data, publishing practices for data and publications including
+    natural resource and extractive industry data
+-   *Government Data for Access to Information and Transparency* –
+    extractive industry data and transparency initiative
+-   *Fostering innovation* – enabling and delivering innovation within
+    Gov given budget and procurement processes, open innovation models
+    that deliver innovation outcomes rather than tender to deliver
+    outputs, support small to medium size businesses to use open data
+    and deliver services
+-   *Engagement for OGP* – raising awareness now, engaging the States,
+    forums for ongoing engagement, mentoring staff
+
+You can see suggested actions in more details on
+the[WIKI.](../../../ogpau.wikispaces.com/index.html)
+
+Actions you have inspired me to take
+------------------------------------
+
+Based on your input to date I am now:
+
+-   *Supporting* a number of organisations with development of their
+    submissions
+-   *Connecting Australians with aligned ideas and complimentary skills*
+    – e.g. My Community Directory and Nook Studios to Code for
+    Australia; and the author of the MOU for NSW Government’s shared
+    platform to teams wanting to do the same thing in QLD and Victoria.
+    Professionals working with data for natural resource management and
+    sustainability programs. Individuals to the International OGP
+    Working Groups.
+-   *Co-hosting events* – I am working with IAP2 to host an event about
+    public participation; Collabforge is going to host a discussion at
+    Engage2Act in Melbourne and I am going to host a discussion at the
+    Ark Conference for Community. Engagement. I have also offered to
+    host events with a number of the organisations listed.
+-   *Preparing for a National OGPAU teleconference –* will now be a
+    teleconference using a tool that allows me to connect people with
+    similar ideas
+-   *Connecting Australians to the OGP Working Groups*
+-   *Researching similar actions* outlined in Action Plans prepared by
+    other countries
+-   *Investigating privacy and consent requirements* for publishing
+    stakeholder details – you may see an email from me asking if I can
+    add your names to this blog posts in future and share my stakeholder
+    list publicly.
+-   *Researching ongoing engagement forums* being used in other
+    Countries to engage stakeholders about Open Government Partnership
+    after action plans are developed – I have spoken to the OGP civil
+    society team, and some of the people involved in the NZ and the UK.
+    Let me know if there are others you like.
+-   *Researching OGP NAP review reports* to understand how Australia
+    might be assessed and what actions should include.
+
+Thanks for reading my update. Please get in touch if you would like to
+discuss your ideas and ways you might be more involved.
+
+Amelia
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Consultation Stage
+Updates](../../category/consultation-stage-updates/index.html) </span>
+<span class="sep"> | </span> <span class="comments-link">[**1**
+Reply](../../engagement-update-11-march/index.html#comments)</span>
+[What I’m learning about Open Gov in Australia](../../what-im-learning-about-open-gov-in-australia/index.html) {#what-im-learning-about-open-gov-in-australia .entry-title}
+==============================================================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 11,
+2016](../../what-im-learning-about-open-gov-in-australia/index.html "1:03 pm")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[amelialoye](../../author/amelialoye/index.html "View all posts by amelialoye"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[3](../../what-im-learning-about-open-gov-in-australia/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+I’ve really enjoyed meeting with the teams responsible for Open
+Government initiatives inside Government across Australia.
+
+I have talked at length or met with representatives from QLD, NSW, VIC,
+SA, ACT and WA Government’s but I am still trying to find the best
+contacts in Tasmania and the Northern Territory. Please get in touch, or
+put me in touch with anyone interested if you know anyone there.
+
+Below is a summary of what I have discovered about how Open Government
+is being delivered in State Government and some of the initiatives being
+delivered within Australia as part of the international and National
+Open Government movement. I will add to this as I continue to engage.
+
+-   Open Gov in Queensland:
+    -   Where to go for updates:
+        http://advanceqld.initiatives.qld.gov.au/
+    -   Open Data portal: <https://data.qld.gov.au/>
+    -   Queensland Globe:
+        https://www.business.qld.gov.au/business/support-tools-grants/services/mapping-data-imagery/queensland-globe/about
+    -   The Business Innovation and Improvement Network in
+        Government (BiiG) is growing: http://biig.govnet.qld.gov.au/
+        (internal for QLD Gov staff)
+
+<!-- -->
+
+-   Open Gov in NSW:
+    -   Where to go for updates: <https://www.opengov.nsw.gov.au/main>
+    -   ICT Strategy and Open Gov: https://www.finance.nsw.gov.au/ict/
+    -   Open Data portal: <http://data.nsw.gov.au/>
+    -   NSW Government Data Analytics Centre (DAC) have been working
+        with data analysts from University of Technology to generate
+        insights from Government data:
+        <https://www.finance.nsw.gov.au/nsw-data-analytics-centre>
+    -   Have your say:
+        http://www.haveyoursay.nsw.gov.au/consultations/search
+    -   Service NSW have been coordinating service delivery across NSW:
+        https://www.service.nsw.gov.au/
+    -   Establishment of the NSW Customer Dashboard – The NSW Customer
+        Dashboard is a digital tool for government to measure and report
+        on performance from a customer perspective. It promotes a
+        culture of accountability by providing a single snapshot of real
+        time data across NSW Government.
+    -   Publish open government plans to showcase open government
+        initiatives\
+        NSW Government agencies will publish open government plans which
+        report progress on implementing the principles of transparency,
+        collaboration, participation and innovation.
+    -   Update of the NSW Government Social Media Policy to accelerate
+        community engagement through social media channels. This policy
+        contains guiding principles to support agencies to use social
+        media in a way that is open, collaborative, responsible,
+        reliable and appropriate. The policy will be updated in 2016 to
+        ensure currency and include guidance on analytics and
+        other tools.
+    -   Publish a forward release schedule for open data. Open data
+        promotes a transparent and accountable government. To accelerate
+        progress on open data, NSW government agencies will publish a
+        forward release schedule of priority data. The forward release
+        schedule will facilitate greater public interaction with
+        government data.
+    -   Update the NSW Government Open Data Policy. This policy will be
+        updated in 2016 to accelerate the release of data, and
+        prioritise data released in more open formats. [This policy was
+        released
+        on 26/4/16.](../../../www.finance.nsw.gov.au/ict/sites/default/files/resources/NSW_Government_Open_Data_Policy_2016.pdf)
+    -   NSW Government have developed a platform to support Jury
+        Management, which is now being used in two other Australian
+        States through an Memorandum or Understanding, this sharing of
+        services is now generating revenue for the NSW.
+    -   Open OEH – OEH is undertaking activities to assist staff in the
+        proactive release of open data, increase public participation
+        and collaborate with our partners for Open Government including:
+        -   A proactive release framework and supporting tools including
+            Data release guidelines.
+        -   An Open Data Portal – Due for release in early 2016 the Open
+            Data Portal is an extension of OEH’s long term commitment
+            and innovation in the area of information access. The Open
+            Data Portal will be able to automatically push metadata to
+            data.nsw.gov.au (NSW metadata portal), opengov.nsw.gov.au
+            (NSW publications portal) and ANDS.
+        -   Embedding Creative Commons licencing – Open OEH has
+            implemented the Ausgoal framework (Creative
+            Commons licencing) to the Open Data Portal (95% of datasets
+            available to the public), all public documents (post
+            June 2015) and the OEH website.
+        -   Increasing public participation – OEH are using online
+            methods to engage including applications like Nature Near
+            that allow users to add sites, and rate and share them
+            through social media.
+        -   Open Governance Framework – This framework will provide
+            drivers, policies, rules and tools for Open Government
+            in OEH. A pioneer program has also been developed to
+            identify and train key staff who can help determine barriers
+            and enablers for Open Government for the executive
+            to consider. Authorisation levels are also being reviewed to
+            devolve responsibilities to Managers, cut down internal red
+            tape and speed up approval for the release of open data.
+        -   Working closely with Councils to co-design and co-deliver
+            resource management programs such as the coastal
+            reforms project.
+
+<!-- -->
+
+-   Open Gov in South Australia:
+    -   Where to go for updates: <http://dpc.sa.gov.au/open-government>
+    -   Open Data sets: https://data.sa.gov.au/
+    -   Your Say website for consultations:
+        <http://yoursay.sa.gov.au/decisions>
+    -   Better Together a comprehensive program to enhance community
+        engagement in South Australia: http://bettertogether.sa.gov.au/
+
+<!-- -->
+
+-   Open Gov in Western Australia:
+    -   Open Data policy: <http://data.wa.gov.au/>
+    -   Open Data portal: <http://catalogue.beta.data.wa.gov.au/>
+    -   GovPond searches both data.gov.au and various State Government
+        data: http://www.govpond.org/index.php
+
+<!-- -->
+
+-   Open Gov in Victoria:
+    -   Victorian Government Open Data portal /
+        directory: <https://www.data.vic.gov.au/>
+    -   City of Melbourne portal: https://data.melbourne.vic.gov.au/
+    -   Code for Australia fellowship program with PTV and The
+        Neighbourhood Justice Centre, a community court part of the
+        Department of Justice in Victoria. Some examples of the outputs
+        of that include: [TripGo](https://skedgo.com/tripgo), [Rhinos
+        Nearby](http://rhinos.io/){.broken_link}, [Movem](http://www.movem.com.au/){.broken_link}
+    -   2015 VicTripathon: PTV timetable data and API released, 6 week
+        incubator
+    -   Budget hack coming
+        up: <http://www.codeforaustralia.org/events/budgethack>
+    -   Productising Open Data – researching who customers are, market
+        segment and engagement with them
+
+<!-- -->
+
+-   Open Gov in the ACT:
+    -   Where to go for updates:
+        http://www.cmd.act.gov.au/open\_government
+    -   Open Data portal: https://www.data.act.gov.au/
+    -   Open data policy (draft):
+        http://www.cmd.act.gov.au/open\_government/what\_is\_open\_government
+    -   Time to talk: http://www.timetotalk.act.gov.au/
+    -   Summaries of Cabinet Outcomes:
+        http://www.cmd.act.gov.au/open\_government/inform/cabinet
+    -   Freedom of Information Online:
+        http://www.cmd.act.gov.au/open\_government/report/freedom\_of\_information\_online
+    -   Contracts register http://www.procurement.act.gov.au/contracts
+    -   Access Canberra have been coordinating service delivery across
+        the ACT: https://www.accesscanberra.act.gov.au/
+    -   e-Petitions: https://epetitions.act.gov.au/
+    -   Travel reporting and former entitlements:
+        http://www.parliament.act.gov.au/members/entitlement-reporting
+    -   Declarations of interest:
+        http://www.parliament.act.gov.au/members/declarations-of-interest
+    -   Register of Lobbyists:
+        http://www.parliament.act.gov.au/act-register-of-lobbyists
+
+<!-- -->
+
+-   International:
+    -   Quite a few Australian’s have joined the International Open
+        Government Partnership working groups:
+        http://www.opengovpartnership.org/
+    -   World Bank webinar on Developing a National Action Plan for OGP
+        : http://worldbankva.adobeconnect.com/p6bm6ahh9ln/
+    -   Open Data Day was Saturday 5th March- events were held across
+        the world, including in Queensland and Victoria:
+        -   Open Data Day: http://opendataday.org/
+        -   Event run in QLD by the State Library:
+            <http://blogs.slq.qld.gov.au/slq-today/2016/03/04/queensland-science-does-open-data/>
+        -   Event run in Melbourne Science Hackfest:
+            <http://sciencehackau.github.io/melbourne/>
+            -   Open Government initiatives coming up:
+                -   Budgethack 23rd March in Melbourne:
+                    http://www.codeforaustralia.org/events/budgethack
+                -   GovHack: https://www.govhack.org/govhack-2016/
+
+If you would like your Open Government initiative added to this list,
+please comment below or let me know Amelia 0411960585
+<amelia@engage2.com.au>.
+
+ 
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Consultation Stage
+Updates](../../category/consultation-stage-updates/index.html) </span>
+<span class="sep"> | </span> <span class="comments-link">[**3**
+Replies](../../what-im-learning-about-open-gov-in-australia/index.html#comments)</span>
+[Interdepartmental Committee Meeting – 24th February](../../idc-24th-february/index.html) {#interdepartmental-committee-meeting-24th-february .entry-title}
+=========================================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 1,
+2016](../../idc-24th-february/index.html "2:49 pm")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[Toby
+Bellwood](../../author/tobybellwood/index.html "View all posts by Toby Bellwood"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[4](../../idc-24th-february/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+On Wednesday 24 February, the Government furthered its internal Open
+Government Partnership consultations with an interdepartmental committee
+(IDC) meeting. The meeting covered the OGP organisation, our engagement
+to date and the requirements for developing a National Action Plan.
+
+The agencies we have engaged in this process include:
+
+-   Attorney-General’s Department
+-   Australian Bureau of Statistics
+-   Australian Electoral Commission
+-   Australian Public Service Commission
+-   Department of Agriculture and Water Resources
+-   Department of Communications and the Arts
+-   Department of Defence
+-   Department of Education and Training
+-   Department of Employment
+-   Department of the Environment
+-   Department of Finance
+-   Department of Health
+-   Department of Human Services
+-   Department of Immigration and Border Protection
+-   Department of Industry, Innovation and Science
+-   Department of Infrastructure and Regional Development
+-   Department of Parliamentary Services
+-   Department of the Prime Minister and Cabinet
+-   Department of Social Services
+-   Department of the Treasury
+-   Department of Veterans’ Affairs
+-   Digital Transformation Office
+-   National Archives of Australia
+-   Office of the Australian Information Commissioner
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="tag-links"> <span
+class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[**4**
+Replies](../../idc-24th-february/index.html#comments)</span>
+[Engagement update – 1st March](../../get-involved/index.html) {#engagement-update-1st-march .entry-title}
+==============================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[March 1,
+2016](../../get-involved/index.html "12:47 am")<span class="by-author">
+<span class="sep"> by </span> <span
+class="author vcard">[amelialoye](../../author/amelialoye/index.html "View all posts by amelialoye"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[2](../../get-involved/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+**OGP engagement update – 1st March**\
+*by Amelia Loye engage2*
+
+It’s a great honour to be supporting the Department of Prime Minister
+and Cabinet (PM&C) to engage civil society in Open Government.
+
+I have had a wonderful couple of weeks engaging with people and
+organisations across Australia to raise awareness about the project and
+encourage input into our National Action Plan. There are some really
+amazing things happening across our Country and each week I will share
+what I learn with you in this blog and email update.
+
+You have four more weeks to suggest an action for the National Action
+Plan on Open Government. This new timeline and a draft engagement
+strategy are now live on the
+[website.](../../contribute/get-involved/index.html)
+
+I realise I can’t reach everyone across Australia, so my plan is to
+continue raising awareness and building the capability of stakeholders
+passionate about the Open Government principles so they can convene
+conversations and collect input. The strategy is a live document and I
+would welcome any other suggestions you have for how I might encourage
+engagement in the development of the Action Plan. You can reach me on
+phone 0411960585 or by email at <amelia@engage2.com.au>.
+
+**Engaging your networks:** I have been working with a range of
+different stakeholders who are now promoting the Open Government
+Partnership through their newsletters and at events. I am also working
+with stakeholders who want to host events to workshop potential actions
+with their industry or networks. If this sounds like you, but we have
+not been in touch, please give me a call to discuss. You can also
+connect with others across the globe working on Open Government actions
+in areas that interest you through the International Open Government
+Working Groups.
+
+**Suggest an action and comment on the draft document:** The document is
+being drafted [live](../../../ogpau.wikispaces.com/index.html)[on the
+wiki](../../../ogpau.wikispaces.com/index.html) so you can observe and
+comment on the content. If you would like to discuss your action and
+workshop your suggestions please get in touch with me directly. I’d love
+to work with you and connect you to others with similar interests across
+the Country.
+
+**What’s happening with your input:** I collate all input received and
+report back weekly to PM&C. This includes discussions by phone and
+face-to-face meetings, and comments made on blog posts and the wiki, and
+email submissions.
+
+Last week at an Inter-Departmental Committee (IDC) meeting about the
+Open Government Partnership, PM&C were asked by attendees to share a
+summary of your input to date.
+
+As I compile these reports I will also add key themes raised to the wiki
+so there is one place for you to see all input to date. Formal
+submissions received will also be published publicly on the website as
+they are received.
+
+Thank you to those of you who have suggested actions to date. I look
+forward to hearing from and working with many more of you over the
+coming weeks.
+
+Amelia Loye\
+engage2
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Consultation Stage
+Updates](../../category/consultation-stage-updates/index.html) </span>
+<span class="sep"> | </span> <span class="tag-links"> <span
+class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span>
+[Consultation](../../tag/consultation/index.html),
+[engagement](../../tag/engagement/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[**2**
+Replies](../../get-involved/index.html#comments)</span>
+[Submission from the Australian Open Government Network (AOGPN)](../../submission-aogpn/index.html) {#submission-from-the-australian-open-government-network-aogpn .entry-title}
+===================================================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[February 3,
+2016](../../submission-aogpn/index.html "9:54 am")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[Toby
+Bellwood](../../author/tobybellwood/index.html "View all posts by Toby Bellwood"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[3](../../submission-aogpn/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+This is a full reproduction of a submission received from the Australian
+Open Government Network on February 2 2016.
+
+------------------------------------------------------------------------
+
+ 
+
+**Australian Open Government network**
+
+I am writing on behalf of the Steering Committee of the Australian Open
+Government Partnership Network (AOGPN).
+
+The AOGPN was established in December 2015 as a coalition of individuals
+and organisations for the purpose of engaging with government in the
+development of Australia’s Open Government Partnership (OGP) National
+Action Plan and participating in efforts to enhance and improve
+democratic practices in Australia and the Asia-Pacific region.
+
+The network will provide a forum for the exchange of information and
+ideas on areas for reform, seek to ensure the action plan is developed
+in the true spirit of partnership, and work to assist government in the
+determination of priorities for consideration.
+
+Current Steering Committee members are:
+
+-   Dr David Solomon (Accountability Roundtable), Chair
+-   Dr Nicholas Gruen (Open Knowlege Australia)
+-   Jon Lawrence (Electronic Frontiers Australia)
+-   Dr Johan Lidberg (School of Media, Arts and Journalism,
+    Monash University)
+-   Phil Newman (Transparency International Australia)
+-   Kat Szuminska (OpenAustralia Foundation)
+-   Craig Thomler (Gov 2.0 Advocate)
+-   Peter Timmins, Convener
+
+A number of other organisations and individuals have joined or are in
+the process of doing so.
+
+At the invitation of the OGP Support Unit, Kat Szuminska attended the
+Civil Society Leaders Workshop in The Hague from 21-23 January.
+
+The Network has a webpage at [www.aogpn.net](http://www.aogpn.net/) and
+will shortly have a more comprehensive web presence, encouraging other
+organisations and individuals to contribute to the second phase of the
+consultation now underway.
+
+The following issues and concerns arise from what we have seen so far as
+the government moves ahead on this important initiative.
+
+**Low key initiative**\
+Given the importance of reform and the opportunity provided to improve
+how government operates including through citizen engagement, the
+announcement of Australia’s intention to proceed to membership is off to
+a low key start.
+
+While December/January present problems for effective communication, the
+topic and partnership element warrants more vigorous attempts to engage
+and encourage participation from potentially interested stakeholder
+organisations and members of the public.
+
+While the government launched the OGPau website and funded four
+information sessions in December, for an initiative supported by the
+Prime Minister and entire Cabinet this has been a particularly low key
+start to what should be substantial national engagement activity.
+
+The Prime Minister has not issued media releases specifically related to
+the OGP membership decision or the subsequent national consultation.
+There has been no public media statements on the topic by the Prime
+Minister or any of his Cabinet Ministers.
+
+While the Prime Minister’s letter to the OGP Steering Committee
+Co-chairs announcing the Australian Government’s commitment to OGP
+Membership is readily available on the OGP’s website, it is not obvious
+on the website of the Prime Minister, the Department of Prime Minister
+and Cabinet or on the consultation website.
+
+As such the government appears to have done little to bring the
+initiative to public attention.
+
+Unfortunately, there has been virtually no mention of Australia’s OGP
+membership process in mainstream media.
+
+The four information sessions held in the pre Christmas period at short
+notice were welcome but one meeting in each location, Brisbane, Sydney,
+Melbourne and Canberra appears to have had limited impact and does not
+constitute a national campaign of engagement.
+
+Australians who have closely followed the development and growth of the
+OGP in recent years have located the Australian government’s
+consultation materials published online. However these materials are not
+readily available to interested parties who have not been informed of
+the process by the government.
+
+In addition, locating and responding to the present consultation
+represents a challenge even for those aware of the process.
+
+While the OGPau website can be discovered by those aware of the process,
+there is no obvious link to the Wiki, where the consultation process is
+largely taking place.
+
+It is the view of the Network that this low key approach to engagement
+puts at risk Australia’s membership process. It substantially raises the
+probability of Australia’s National Action Plan being rejected by the
+OGP on the grounds of insufficient consultation, as was New Zealand’s
+initial OGP membership attempt.
+
+**General approach**\
+It was unfortunate that the Government, with no prior consultation,
+announced it had chosen two Grand Challenges from the OGP list that did
+not include Public Integrity.
+
+Issues related to anti-corruption are certain to arise during the course
+of consultation. Australia dropped 10 positions in the recently
+published Transparency International Corruption Perceptions Index. While
+it is pleasing to see in the published FAQs that nothing is off the
+table, this should have been the starting position for consultation and
+public engagement.
+
+The absence of a formal high level group within government to provide
+the necessary leadership, direction, coordination and oversight of the
+OGP initiative is a surprising omission from the published framework. So
+too is the lack of a formal mechanism that would bring government and
+civil society together at various decision points during the public
+consultation, decision making and implementation phases of the National
+Action Plan. The OGP itself with a mix of government and CSO members and
+government and CSO co-chairs provides an exemplary model and there are
+examples from other OGP members that Australia could emulate quickly and
+without disrupting the current process and timeline.
+
+The lack of a genuine consultation mechanism between government and
+civil society is an issue that needs to be on the agenda for the meeting
+proposed for the end of the OGP membership consultation phase in early
+March.
+
+The Steering Committee echoes comments made by others that Australian
+states, territories and local government must be part of the open
+government journey. The OGP is encouraging the involvement of
+sub-national governments in open government initiatives. While the
+National Action Plan should be the Australian Government’s plan, states,
+territories and local government should be part of a discussion and
+debate on issues that cut across all levels of government.
+
+The continuing stand-off between the Government and the Senate over the
+future of the Office of Australian Information Commissioner is a serious
+concern that should be dealt with separately from the OGP membership
+process by withdrawal of the bill and reinstatement of funding for all
+OAIC functions.
+
+The government position that the office is to be abolished, removing a
+cornerstone of the 2010 FOI reforms. flies in the face of the Prime
+Minister’s proclamation of “Australia’s long proud tradition of open and
+transparent government.”
+
+As the inaugural Australian Information Commissioner, Professor John
+McMillan, wrote recently, “The FOI Act is too important either to
+languish or to go through periodic upheaval as it has for more than 30
+years.”
+
+**Vision and Background**\
+The Network may have more to add about the published Vision and
+Background material.
+
+At this stage we note that there is no mention in the published
+materials of the Sustainable Development Goals that were adopted
+unanimously at the UN General Assembly last year, to the United Nations
+Convention Against Corruption, or to Australia’s involvement in the work
+of the G20 on anti corruption matters.
+
+The OGP encourages support for the Joint Declaration on Open Government
+for the Implementation of the 2030 Agenda for Sustainable Development.
+Forty eight governments have endorsed the declaration to date including
+Indonesia, New Zealand, United Kingdom and United States. Australia
+should follow this lead.
+
+Australia ratified UNCAC in 2005 but is yet to adopt an anti-corruption
+plan required by the convention.
+
+The Attorney general’s Department website\
+<https://www.ag.gov.au/CrimeAndCorruption/AntiCorruption/Pages/Globalleadershipincombatingcorruption.aspx>
+makes much of Australia’s leadership role in the development of the G20
+2015-16 G20 Anti Corruption Plan.
+
+The Plan states:
+
+> “G20 countries commit to leading by example in ensuring our government
+> agencies, policies, and officials implement international best
+> practices for public sector transparency and integrity. The (Anti
+> Corruption Working Group) has identified public procurement, open
+> data, whistleblower protections, immunities for public officials,
+> fiscal and budget transparency, and standards for public officials as
+> issues which merit particular attention.”
+
+The G20 Leaders Communique issued in Turkey in November 2015 further
+states:
+
+> “16.In support of our growth and resilience agenda, we remain
+> committed to building a global culture of intolerance towards
+> corruption through effectively implementing the 2015-2016 G20
+> Anti-Corruption Action Plan. We endorse the G20 High-Level Principles
+> on Integrity and Transparency in the Private Sector which will help
+> our companies comply with global standards on ethics and
+> anti-corruption. Ensuring the integrity and transparency of our public
+> sectors is essential. In this regard, we endorse the G20
+> Anti-Corruption Open Data Principles and the G20 Principles for
+> Promoting Integrity in Public Procurement, and we welcome the ongoing
+> work on asset disclosure frameworks…”
+
+The Agreed Documents that accompany the Communique include G20
+High-Level Principles on Private Sector Transparency and Integrity; G20
+Principles for Promoting Integrity in Public Procurement and G20
+Anti-Corruption Open Data Principles.
+
+**Next steps**\
+We look forward to ongoing dialogue with the Australian Government as
+the consultation proceeds.
+
+Please publish this submission on the Open Government Partnership
+Australia website.
+
+David Solomon\
+Chairman, Steering Committee\
+Australian Open Government Partnership Network\
+2 February 2016
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Submissions Received](../../category/submissions/index.html) </span>
+<span class="sep"> | </span> <span class="comments-link">[**3**
+Replies](../../submission-aogpn/index.html#comments)</span>
+[January update from the coordination team](../../january-update/index.html) {#january-update-from-the-coordination-team .entry-title}
+============================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[January 29,
+2016](../../january-update/index.html "4:38 pm")<span class="by-author">
+<span class="sep"> by </span> <span class="author vcard">[Toby
+Bellwood](../../author/tobybellwood/index.html "View all posts by Toby Bellwood"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[<span
+class="leave-reply">Reply</span>](../../january-update/index.html#respond)
+
+</div>
+
+<div class="entry-content">
+
+Happy New Year! We hope you all had a safe and enjoyable holiday period.
+Our team took a short break to recoup and have now well and truly
+started 2016 by making significant headway on a number of priorities.
+
+This week the Department engaged Amelia Loye from engage2 to assist us
+in designing and delivering the public and Civil Society engagement
+throughout Stage 2 (drafting and live events) and Stage 3 (Community
+Prioritisation and Workshop).  Amelia is currently looking at strategies
+to enhance our engagement processes and will regularly keep those of you
+interested updated via the blog and mailing list.
+
+The blog comments and input gathered at the information sessions held
+late last year have helped inform the draft National Action Plan, and we
+have set up a live wiki so you can watch and get involved in its
+drafting. We will keep all stakeholders informed about the ongoing
+development of the Plan, and opportunities to get more involved.
+
+One of our first tasks is to finalise details for the Stage 2 event at
+the end of February.  We will have more information on this very
+shortly.
+
+We will continue to work ensuring key stakeholders across the Australian
+Government are involved, and they will be encouraged to participate
+alongside Civil Society in this process.
+
+At this stage we would encourage individuals and organisations to
+connect with the Open Government Partnership working groups to
+contribute to peer exchange and learning across the partnership. Key
+areas include:
+
+-   Fiscal Openness,
+-   Legislative Openness,
+-   Access to Information,
+-   Open Data and
+-   Openness in Natural Resources
+
+More information is available at
+<http://www.opengovpartnership.org/who-we-are/ogp-working-groups>
+
+If you have ideas you think we can implement please comment on our blog,
+send us an email to <ogp@pmc.gov.au>.  We’re looking for measureable
+actions that the Australian Government can deliver and report against.
+
+You can also help us develop the action plan through our wiki at
+[https://ogpau.wikispaces.com](../../../ogpau.wikispaces.com/index.html)
+.
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[<span class="leave-reply">Leave a
+reply</span>](../../january-update/index.html#respond)</span>
+[An update from the coordination team, and a reminder to contribute to Stage 2](../../december-update/index.html) {#an-update-from-the-coordination-team-and-a-reminder-to-contribute-to-stage-2 .entry-title}
+=================================================================================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[December 22,
+2015](../../december-update/index.html "8:21 am")<span
+class="by-author"> <span class="sep"> by </span> <span
+class="author vcard">[Helen
+Owens](../../author/helenowens/index.html "View all posts by Helen Owens"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="comments-link">
+
+[1](../../december-update/index.html#comments)
+
+</div>
+
+<div class="entry-content">
+
+I would like to thank  all of the participants that joined us at the
+Open Government Partnership citizen information sessions held in
+Brisbane, Sydney, Canberra and Melbourne last week.  Your participation,
+enthusiasm and contribution to the development of the Australian
+Government’s National Action Plan (the Plan) is greatly appreciated.
+
+As a result of the discussions at these face to face information
+sessions, we have created an email address
+([ogp@pmc.gov.au](http://ogp@pmc.gov.au/)) as an additional
+communication and feedback mechanism for any people or organisations who
+feel less comfortable contributing to the open sessions or with using
+the wikispaces.  Please feel free to submit your suggestions to us via
+this address and you can be assured that, at no time, will a single
+contribution, suggestion or feedback be directly attributed to a person
+or an organisation.
+
+Additionally, there is now a section on the website where we will be
+progressively adding answers to frequently asked questions (where we are
+able to provide them) about the ongoing development of the Plan
+([https://ogpau.govspace.gov.au/faqs/](../../faqs/index.html)).
+
+As we enter the second stage of the consultation process, we would
+encourage all participants to consider their ideas and begin drafting
+their suggestions.  Suggestions should meet one or more of the OGP
+principles of: Transparency; Accountability; Participation; Technology;
+and/or Innovation.  Submissions should also consider implementation
+options and potential ways that progress can be measured.
+
+There are a wealth of resources located
+at <http://www.opengovpartnership.org/explorer/landing> which provide
+details of the existing commitments developed by other countries in
+their National Action Plans, as well as a list of Plans that have been
+through the OGP Independent Review Mechanism. Please see the bottom of
+this email for more information on how to contribute.
+
+Updates from the coordination team
+----------------------------------
+
+As Pia mentioned in her pre-recorded address to the live events, she
+will be finishing work after the Christmas break to commence maternity
+leave.  As a result, I have asked Toby Bellwood  to take on the role of
+National Action Plan Coordinator.  Toby will lead the consultation
+process over the course of the next 6 months.  I would like to take this
+opportunity to thank Pia for her tireless dedication to the OGP process
+she will be greatly missed, but has assured us that she will be keeping
+an eye from afar.
+
+I am also currently recruiting a specialist position to help with the
+design and delivery of the public consultation aspects of stage 2
+(drafting and live events) and Stage 3 (running the Community
+Prioritisation and Workshop).  Once the outcome of this process is
+known, Toby will ensure to update everyone.
+
+Please continue to submit ideas, raise questions, and keep in touch over
+the coming weeks.  Whilst the team is taking a well-earned break between
+Christmas and New Year, all the various channels (website, wiki, blog,
+twitter and email) will still be open for contributions.  Toby will send
+out another email in January updating you on the consultation process
+and providing more details on the events planned for Stages 2 and 3.
+
+Helen Owens
+
+Principal Advisor,
+
+Public Data Policy
+
+</div>
+
+<span class="cat-links"> <span
+class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="tag-links"> <span
+class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span>
+[Consultation](../../tag/consultation/index.html),
+[Updates](../../category/updates/index.html) </span> <span class="sep">
+| </span> <span class="comments-link">[**1**
+Reply](../../december-update/index.html#comments)</span>
+### Post navigation {#post-navigation-1 .assistive-text}
+
+<div class="nav-previous">
+
+[<span class="meta-nav">←</span> Older posts](../4/index.html)
+
+</div>
+
+<div class="nav-next">
+
+[Newer posts <span class="meta-nav">→</span>](../2/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div id="secondary" class="widget-area" role="complementary">
+
+### Sign up for OGP Au updates {#sign-up-for-ogp-au-updates .widget-title}
+
+<div class="textwidget">
+
+Please subscribe to our [OGP Au mailing list for updates and
+news](http://www.surveygizmo.com/s3/2719702/Delivering-Open-Government-in-Australia).
+Alternatively, you can follow the [OGP Au RSS
+feed](../../feed/index.html).
+
+</div>
+
+### Recent Posts {#recent-posts .widget-title}
+
+-   [Have your say on Australia’s first Open Government National Action
+    Plan](../../have-your-say-on-australias-first-open-government-national-action-plan/index.html)
+-   [Report on the initial stages of consultation on Australia’s first
+    National Action
+    Plan](../../report-on-the-initial-stages-of-consultation-on-australias-first-national-action-plan/index.html)
+-   [Interim Working Group
+    workshop](../../interim-working-group-workshop/index.html)
+-   [Next steps to finalise Australia’s first National Action
+    Plan](../../next-steps-to-finalise-australias-first-national-action-plan/index.html)
+-   [Outcomes from the third meeting of the Interim Working
+    Group](../../outcomes-from-the-third-meeting-of-the-interim-working-group/index.html)
+
+### Recent Comments {#recent-comments .widget-title}
+
+-   <span
+    class="comment-author-link">[karenb](http://www.thebubblegumclub.com/){.url}</span>
+    on [Have your say on Australia’s first Open Government National
+    Action
+    Plan](../../have-your-say-on-australias-first-open-government-national-action-plan/index.html#comment-732)
+-   <span class="comment-author-link">[Draft national Action Plan-hear
+    more, have a say! – Australian Open Government Partnership Civil
+    Society
+    Network](https://opengovernment.org.au/2016/11/03/draft-national-action-plan-hear-more-have-a-say/){.url}</span>
+    on [Have your say on Australia’s first Open Government National
+    Action
+    Plan](../../have-your-say-on-australias-first-open-government-national-action-plan/index.html#comment-730)
+-   <span class="comment-author-link">[Draft National Action Plan: your
+    chance to hear,discuss, question, suggest – Australian Open
+    Government Partnership Civil Society
+    Network](https://opengovernment.org.au/2016/11/01/draft-national-action-plan-your-chance-to-heardiscuss-question-suggest/){.url}</span>
+    on [Have your say on Australia’s first Open Government National
+    Action
+    Plan](../../have-your-say-on-australias-first-open-government-national-action-plan/index.html#comment-728)
+-   <span class="comment-author-link">[Strong interest in civil society
+    spots on Interim Working Group – Australian Open Government
+    Partnership Civil Society
+    Network](https://opengovernment.org.au/2016/08/26/strong-interest-in-civil-society-spots-on-interim-working-group/){.url}</span>
+    on [Submissions for the Interim Working Group are now
+    closed](../../submissions-for-the-interim-working-group-are-now-closed/index.html#comment-723)
+-   <span class="comment-author-link">[Partners wanted to work on the
+    Partnership – Australian Open Government Partnership Civil Society
+    Network](https://opengovernment.org.au/2016/08/19/partners-wanted-to-work-on-the-partnership/){.url}</span>
+    on [Interim Working Group for Australia’s National Action Plan –
+    Expressions of
+    Interest](../../interim-working-group-for-australias-national-action-plan-expressions-of-interest/index.html#comment-722)
+
+### Categories {#categories .widget-title}
+
+-   [Consultation Stage
+    Updates](../../category/consultation-stage-updates/index.html)
+-   [Submissions Received](../../category/submissions/index.html)
+-   [Updates](../../category/updates/index.html)
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

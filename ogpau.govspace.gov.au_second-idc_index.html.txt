@@ -1,0 +1,431 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../index.html "Open Government Partnership – Australia")</span> {#site-title}
+===============================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action
+    Plan](../draft-national-action-plan/index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../draft-national-action-plan/introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to
+        date](../draft-national-action-plan/efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this
+        plan](../draft-national-action-plan/developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../draft-national-action-plan/commitments/index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../draft-national-action-plan/australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../draft-national-action-plan/appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the OGP](../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+### Post navigation {#post-navigation .assistive-text}
+
+<span class="nav-previous">[<span class="meta-nav">←</span>
+Previous](../ogp-theme-teleconference-times/index.html)</span> <span
+class="nav-next">[Next <span
+class="meta-nav">→</span>](../stage-three-prioritisation-and-drafting-workshop/index.html)</span>
+Second Inter-Departmental Committee meeting {#second-inter-departmental-committee-meeting .entry-title}
+===========================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[April 6,
+2016](index.html "5:03 pm")<span class="by-author"> <span class="sep">
+by </span> <span class="author vcard">[Toby
+Bellwood](../author/tobybellwood/index.html "View all posts by Toby Bellwood"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="entry-content">
+
+On Tuesday 5 April, the Government convened a second interdepartmental
+committee (IDC) meeting on the Open Government Partnership. The meeting
+covered the public submissions received to date, discussed attendance at
+the public workshop to be held on Monday 11 April, and talked more
+broadly about the Open Government Partnership process going forward, and
+how agencies will be involved.
+
+In attendance were:
+
+-   Attorney-General’s Department
+-   Australian Bureau of Statistics
+-   Australian Commission for Law Enforcement Integrity
+-   Australian Institute of Health and Welfare
+-   Australian Public Service Commission
+-   Department of Education and Training
+-   Department of Employment
+-   Department of Finance
+-   Department of Health
+-   Department of Human Services
+-   Department of Immigration and Border Protection
+-   Department of Industry, Innovation and Science
+-   Department of Infrastructure and Regional Development
+-   Department of the Environment
+-   Department of the Prime Minister and Cabinet
+-   Digital Transformation Office
+-   National Archives of Australia
+-   Office of the Australian Information Commissioner
+
+Also discussed at the meeting were a range of potential commitments that
+the Agencies have come up with either in response to submissions
+received, or from their own research and analysis.
+
+The outlines of these are below, and they will be open for discussion at
+the public workshop.
+
+-   Centralised Annual Report discovery portal
+-   Create a Digital Marketplace
+-   Create, manage and preserve information digitally
+-   Enable and encourage more data-driven digital report publishing
+-   Future-proofing open data infrastructure
+-   Grants.gov.au redevelopment
+-   ICT Project dashboard
+-   Redesign the open data request process
+-   Scoping a public consultation platform
+-   Scoping an e-Tabling system
+-   Transforming high volume services
+
+In addition, we are releasing a draft of the document to contain the
+commitments once decided on.  The majority of the text is from the wiki
+and other submissions, and has been kept deliberately concise and easy
+to read, in line with other countries National Action Plans.  It is
+available for download at [National Action Plan DRAFT v5 – For
+Release](../files/2016/04/National-Action-Plan-DRAFT-v5-For-Release.docx)
+
+We have also posted the text onto the wiki at
+[http://ogpau.wikispaces.com/Draft+text+of+the+National+Action+Plan+-+5+April+2016](https://session.wikispaces.com/1/auth/auth?authToken=f1d0b38e3a2eb9fbef4b9df781356667) for
+your comments and feedback prior to the meeting on Monday.
+
+</div>
+
+This entry was posted in [Updates](../category/updates/index.html) and
+tagged [IDC](../tag/idc/index.html) by [Toby
+Bellwood](../author/tobybellwood/index.html). Bookmark the
+[permalink](index.html "Permalink to Second Inter-Departmental Committee meeting").
+<div id="comments">
+
+3 thoughts on “<span>Second Inter-Departmental Committee meeting</span>” {#comments-title}
+------------------------------------------------------------------------
+
+1.  Pingback: [Australia’s OGP ambition shouldn’t be sidelined during
+    election campaign – Australian Open Government Partnership Civil
+    Society
+    Network](https://opengovernment.org.au/2016/05/30/australias-ogp-ambition-shouldnt-be-sidelined-during-election-campaign/){.url}
+
+2.  Pingback: [I’m off to draft Australia’s first Open Government
+    National Action Plan |
+    OpenAus](https://openaus.net.au/blog/2016/04/08/im-off-to-draft-australias-first-open-government-national-action-plan/){.url}
+
+3.  <div id="li-comment-363">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">[Rosie
+    Williams](https://openaus.net.au/){.url}</span> on [April 8, 2016 at
+    7:07 am](index.html#comment-363) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    I have been running a survey over the past months of attitudes and
+    concerns regarding transparency and accountability in Australia. The
+    survey asks people to tick their concerns, share the tools and
+    resources the use to investigate accountability issues and also
+    offer their own ideas for how to improve transparency in Australia.\
+    The overview is at <https://infoaus.net/openaus/ideas.php>\
+    Results for individual questions can be found at
+    <https://infoaus.net/openaus/survey.php>
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-loginc3d6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsecond-idc%2F){.comment-reply-login}
+
+    </div>
+
+<div id="respond" class="comment-respond">
+
+### Leave a Reply [Cancel reply](index.html#respond){#cancel-comment-reply-link} {#reply-title .comment-reply-title}
+
+You must be [logged
+in](../wp-loginc3d6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fsecond-idc%2F)
+to post a comment.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

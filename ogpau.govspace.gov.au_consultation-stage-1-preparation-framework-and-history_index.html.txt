@@ -1,0 +1,1240 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../index.html "Open Government Partnership – Australia")</span> {#site-title}
+===============================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action
+    Plan](../draft-national-action-plan/index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../draft-national-action-plan/introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to
+        date](../draft-national-action-plan/efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this
+        plan](../draft-national-action-plan/developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../draft-national-action-plan/commitments/index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../draft-national-action-plan/commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../draft-national-action-plan/commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../draft-national-action-plan/commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../draft-national-action-plan/commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../draft-national-action-plan/commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../draft-national-action-plan/australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../draft-national-action-plan/appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the OGP](../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+### Post navigation {#post-navigation .assistive-text}
+
+<span class="nav-previous"></span> <span class="nav-next">[Next <span
+class="meta-nav">→</span>](../register-to-attend-an-ogp-australia-information-session/index.html)</span>
+Consultation Stage 1: Preparation, Framework and History {#consultation-stage-1-preparation-framework-and-history .entry-title}
+========================================================
+
+<div class="entry-meta">
+
+<span class="sep">Posted on </span>[November 17,
+2015](index.html "7:49 am")<span class="by-author"> <span class="sep">
+by </span> <span class="author vcard">[Pia
+Waugh](../author/pwaugh/index.html "View all posts by Pia Waugh"){.url
+.fn .n}</span></span>
+
+</div>
+
+<div class="entry-content">
+
+The Open Government Partnership (OGP) is a global effort to make
+governments more open and responsive to the changing needs of citizens.
+To complete membership, the Australian Government will develop a
+National Action Plan by the end of June 2016 to align with the OGP
+timeline.
+
+This first stage of the public consultation will aim to establish
+a vision for open government in Australia, defining the structure of the
+Australian Government National Action Plan and sharing the history of
+open government in Australia. The second stage of consultation will
+focus on specific commitments.
+
+<div id="toc_container" class="no_bullets">
+
+Contents
+
+-   [<span class="toc_number toc_depth_1">1</span> How to contribute to
+    this stage of the National Action Plan
+    development](#How_to_contribute_to_this_stage_of_the_National_Action_Plan_development)
+-   [<span class="toc_number toc_depth_1">2</span> Building a Vision for
+    Open Government in
+    Australia](#Building_a_Vision_for_Open_Government_in_Australia)
+-   [<span class="toc_number toc_depth_1">3</span> Building a Framework
+    for the Australian Government National Action
+    Plan](#Building_a_Framework_for_the_Australian_Government_National_Action_Plan)
+-   [<span class="toc_number toc_depth_1">4</span> Efforts to date – a
+    background of open government in
+    Australia](#Efforts_to_date_8211_a_background_of_open_government_in_Australia)
+
+</div>
+
+<span id="How_to_contribute_to_this_stage_of_the_National_Action_Plan_development">How to contribute to this stage of the National Action Plan development</span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Stage 1 – Preparation, Framework and History** (17 November 2015 – 11
+December 2015):
+
+A very short preparatory stage to get your feedback on a vision,
+skeleton framework for the Australian NAP Draft and get feedback on the
+background/history of open government in Australia. We also encourage
+you to explore the [OGP website](http://www.opengovpartnership.org/)
+including some of the [actions plans from other
+governments](http://www.opengovpartnership.org/countries). This is
+Australia’s first action plan. You can contribute to this stage by:
+
+-   Some live streamed information sessions will be run during stages 1
+    and 2. Details will be published on this blog in the coming weeks.
+    You can also indicate your interest by joining the [OGPau mailing
+    list](http://eepurl.com/bGaj0P) and ticking the information sessions
+    option, and we’ll notify you when they are open for registration.
+-   Adding feedback on the vision and framework to the comments below.
+-   Adding feedback to the draft [Background
+    page](../background/index.html) comments.
+-   Tweeting your thoughts to \#ogpau.
+-   Please keep specific ideas, actions and contributions to stage 2
+    as we need to get the framework right first.
+
+See the [full consultation timeline](../national-action-plan/index.html)
+on the National Action Plan Consultation page.
+
+Please primarily provide your contributions and feedback in the comments
+below for this stage. Please also find further information [About
+OGP](../about-ogp/index.html)..
+
+We look forward to your contributions and your feedback on the
+contributions of others.
+
+***Pia Waugh*** (OGPau National Action Plan Coordinator, PM&C)
+
+<span id="Building_a_Vision_for_Open_Government_in_Australia">Building a Vision for Open Government in Australia</span>
+-----------------------------------------------------------------------------------------------------------------------
+
+Australia has a long and proud history of open government, as one of the
+most transparent, accountable and engaged democracies in the world.
+However, there is always more that can be done. Please contribute your
+thoughts in the comments below on what a future vision for open
+government could look like in Australia. We will collate the input
+into the wiki at the end of this stage.
+
+A couple of example is provided to kick things off:
+
+-   Open government in the 21st century needs to translate to digital
+    processes and reporting to improve transparency and accountability.
+-   Open government means citizens playing a greater part in
+    policy development.
+
+<span id="Building_a_Framework_for_the_Australian_Government_National_Action_Plan">Building a Framework for the Australian Government National Action Plan</span>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Below is a basic skeleton for an Australian Government National Action
+Plan. The [OGP National Action Plan
+template](../../www.opengovpartnership.org/sites/default/files/attachments/OGP_actionplan_guide%20FINAL_0.pdf)
+is available le online and a useful guide though most countries deviate
+from the guide slightly. No NAPs we have reviewed are identical in
+structure to the template. Please add your comments on this structure
+below and let us know what you think. After this stage the wiki will be
+set up to reflect the skeleton document for detailed input and
+contributions.
+
+1.  **Introduction** – an overview of the Australian Government’s
+    commitment, the grand challenges addressed in the NAP (*improved
+    public services* and *more effectively managing public resources*)
+2.  **Vision** – the vision for open government in Australia, looking
+    forward
+3.  **NAP Development Process** – the process of developing the
+    Australian Government National Action Plan
+4.  **Open Government Efforts to Date** – background of open government
+    in Australia
+5.  **Overview of commitments** – an overview of the commitments, then
+    broken down into individual detail. Each commitment will need to
+    identify which grand challenge they support, and which principles
+    they support (see [NAP page on ogpau
+    website](../national-action-plan/index.html) for detail)
+6.  **Conclusion** – wrapup of the NAP and how the commitments will be
+    supported
+
+Comments welcome below or direct contributions above.
+
+<span id="Efforts_to_date_8211_a_background_of_open_government_in_Australia">Efforts to date – a background of open government in Australia</span>
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Please add your comments to the draft [Background
+page](../background/index.html) for any additional efforts to date.
+
+</div>
+
+This entry was posted in [Consultation Stage
+Updates](../category/consultation-stage-updates/index.html) by [Pia
+Waugh](../author/pwaugh/index.html). Bookmark the
+[permalink](index.html "Permalink to Consultation Stage 1: Preparation, Framework and History").
+<div id="comments">
+
+12 thoughts on “<span>Consultation Stage 1: Preparation, Framework and History</span>” {#comments-title}
+--------------------------------------------------------------------------------------
+
+1.  <div id="li-comment-53">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">[National Archives of
+    Australia](http://www.naa.gov.au/){.url}</span> on [January 8, 2016
+    at 9:07 am](index.html#comment-53) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    This comment is provided by the National Archives of Australia (the
+    National Archives). The National Archives was established by the
+    Archives Act 1983 as an executive agency of the Australian
+    Government, although it has existed in various forms since
+    the 1940s. The National Archives is the lead agency for ensuring
+    transparency and accountability in government through its legislated
+    role of setting records and information management requirements for
+    Australian Government agencies, and preserving and providing a
+    public right of access to government information.
+
+    Open government increases the transparency and accountability of
+    government, encourages greater public engagement, strengthens
+    governance and improves public service delivery. The National
+    Archives plays a key role in open government by promoting the
+    creation, management and preservation of authentic, reliable and
+    usable Commonwealth information, and facilitating access to
+    this information.
+
+    The Archives Act 1983 provides a broad definition of records and
+    effectively covers all information created, used or received in the
+    course of Commonwealth business. Under the Archives Act 1983 (Cth)
+    (Archives Act), the National Archives:\
+    • identifies the archival resources of the Commonwealth;\
+    • preserves and makes the archival resources of the Commonwealth
+    accessible;\
+    • oversees Commonwealth records management;\
+    • determines standards and provides advice to Commonwealth agencies;
+    and\
+    • imposes recordkeeping obligations in respect of
+    Commonwealth records.
+
+    Ready access to this information is vital for maintaining the
+    transparency of the democratic process and the accountability of
+    successive governments, and is integral to a successful open
+    government policy. It is from this perspective and with this
+    legislated role that the National Archives provides the following
+    observations and comments on the Vision and the framework for the
+    National Action Plan.
+
+    Vision\
+    The National Archives supports a Vision that commits to the improved
+    management of, and accessibility to, information and records. A key
+    element of this is a move to fully digital information management
+    and business processes across the Australian government sector. This
+    aligns with key commitments identified in the National Action Plans
+    of the United States, Canada and the United Kingdom. It also aligns
+    with the example Vision statement provided that ‘Open government in
+    the 21st century needs to translate to digital processes and
+    reporting to improve transparency and accountability’. This has
+    already been achieved by a number of initiatives which the National
+    Archives is currently leading including earlier access to government
+    records, the Digital Continuity 2020 Policy, an end-to-end solution
+    to manage digital government information, and modernisation of the
+    Archives Act.
+
+    The National Archives also recommends that the Vision and Plan
+    recognise Australia’s strong open government history, culture,
+    initiatives and policies already in existence, including the
+    Archives Act, to demonstrate Australia as a leading example of open
+    government well before the Open Government Partnership came
+    into being.
+
+    The government also recognises through legislation such as the
+    Archives Act 1983, the Freedom of Information Act 1982 and the
+    Privacy Act 1988 the need to restrict the circulation of some
+    information for a particular time in order to protect the defence
+    and security of the nation, its relationship with the world, and the
+    privacy of citizens. The Archives Act entrusts the National Archives
+    with this role in relation to government information and provides
+    for the exemption from public release of a number of categories of
+    information including national security, defence, international
+    relations, confidential information, and personal affairs. When
+    sensitivities lapse, information that was formerly withheld can be
+    made available for access. The balance between the need to protect
+    information from unauthorised use or accidental release, and open
+    government principles should be considered in development of
+    the Vision.
+
+    The Australian Government’s policy of open government is well
+    established, and it is therefore well positioned to contribute to
+    the Open Government Partnership and the National Action Plan. It
+    will also be well positioned to target areas that require more
+    effort to continue to advance open government in Australia. The
+    National Archives has, and will continue to, play a key role in
+    supporting open government initiatives by carrying out its core
+    functions and by effectively contributing to Australia’s National
+    Action Plan for the Open Government Partnership.
+
+    Framework\
+    The National Archives supports the general framework outlined in the
+    Australian Government National Action Plan template, and recommends
+    a clear and strong statement of Open Government achievements to date
+    from both a contemporary and historical context. We would
+    particularly like to note Australia as one of the most open archival
+    and government information access regimes in the world through the
+    management, preservation and provision of access to government
+    information under the Archives Act.
+
+    Established by the Act, one of the National Archives’ key roles is
+    enabling public access to the archival resources of the nation.
+    Through this role, the Archives has played a lead in open government
+    and ensuring that citizens have access to the decisions and actions
+    of their government, thereby supporting the rights and entitlements
+    of individuals and promoting accountability and transparency.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+2.  <div id="li-comment-42">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">Nigel Hedgcock</span> on [December 17, 2015 at
+    11:22 am](index.html#comment-42) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    I am encouraged that the Australian Government is progressing to
+    membership of the OGP, particularly considering the foundational
+    principle of engaging civil society in government decision-making.
+    This is increasing being demonstrated in social purpose programs
+    where those the programs are intended to impact are engaged in the
+    decisions on the design, delivery and evaluation of those programs.\
+    However, I am surprised that the current engagement for gaining
+    membership does not embody that very principle. Informations session
+    in four major cities and limited consultation structures immediately
+    disengages and potentailly loses the trust of many sectors of
+    civil society. It is those most disadvantaged that will be impacted
+    most by this approach to ‘engagement’
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+    -   <div id="li-comment-43">
+
+        </div>
+
+        <div class="comment-author vcard">
+
+        <span class="fn">Pia Waugh</span> on [December 17, 2015 at 12:04
+        pm](index.html#comment-43) <span class="says">said:</span>
+
+        </div>
+
+        <div class="comment-content">
+
+        Thanks for the feedback Nigel, we have been speaking to a few
+        people about how to broaden the scope and be more inclusive and
+        we are putting together a strategy for broad outreach to begin
+        in January. If you have any specific suggestions about groups to
+        include, we would appreciate your (and everyone’s) help with
+        making this as open and inclusive as possible.
+
+        Warm regards,\
+        Pia and the OGP NAP Coordination Team (PM&C)
+
+        </div>
+
+        <div class="reply">
+
+        [Log in to
+        Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+        </div>
+
+        -   <div id="li-comment-45">
+
+            </div>
+
+            <div class="comment-author vcard">
+
+            <span class="fn">Nigel Hedgcock</span> on [December 17, 2015
+            at 5:31 pm](index.html#comment-45) <span
+            class="says">said:</span>
+
+            </div>
+
+            <div class="comment-content">
+
+            Thanks Pia and Team\
+            For example, PM&C could prepare information suitable for
+            connecting with Indigenous Australians and utilise extant
+            AG, State and Territory structures to engage.
+
+            </div>
+
+            <div class="reply">
+
+            </div>
+
+3.  <div id="li-comment-35">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">Pia Waugh</span> on [December 14, 2015 at 2:33
+    pm](index.html#comment-35) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    \[Pia Waugh\] The following comment was contributed via email from
+    Tim Smith of the Accountability Round Table and is published here
+    with permission, along with a link to the longer submission sent.
+
+    \[Tim Smith\] I Chair the Accountability Round Table
+    (<http://www.accountabilityrt.org/>). Its aims and objectives mirror
+    those of the Open Government Partnership. It came into existence in
+    2006 and, since then, has been seeking to achieve those aims and
+    objectives at the Commonwealth and State levels.
+
+    The Government should be congratulated in recently confirming its
+    commitment to the OGP and embarking upon the preparation of the
+    National Action Plan. The Australian community has been provided
+    with a unique and very significant opportunity to reform our
+    Commonwealth Parliamentary democracy, and indirectly those of the
+    States and Territories, by addressing, in partnership with the
+    Government, the serious weaknesses and problems that have developed
+    in our that Democracy. It has the potential to be the most important
+    development in Australia’s Democracies since Federation. Whether
+    that is realised will depend, in large measure, on the Australian
+    Community’s response within this new Partnership.
+
+    ART has made a submission to the Government addressing the matters
+    raised in this first stage (Link to submission). In it, ART submits
+    that it will be critical for the successful formulation of
+    Australia’s NAP, that the Partnership, from the outset address
+    the following.
+
+    1\. Identify what should guide this Partnership enterprise. This includes
+    –\
+    • the Objectives of the OGP and its Mission Statement,\
+    • the nature and purposes of parliamentary democracies and\
+    • a fundamental but long forgotten ethical and common-law principle –
+    that public office is a public trust and that those holding public
+    office are under a fiduciary obligation when exercising their powers
+    entrusted to them to place the public interest first and ahead of their
+    own interests and other private interests.
+
+    ART submits that all people who participate in this Partnership
+    enterprise, should be guided by these matters and principles.
+
+    We also submit that the absence of the public office public trust
+    principle from our Australian consciousness for many years has been
+    a major factor in the problems that now exist in our Commonwealth
+    Democracy;
+
+    2\. Accurately and completely establish not only the past history of our
+    Commonwealth democracy but also its current reality, good and bad. We
+    submit that significantly more work is needed to complete this task — in
+    respect of both the good and the bad.
+
+    Applying the above objectives and principles to the actual
+    realities, past and present, the Partnership can proceed with
+    reasonable confidence in choosing, in the public interest, the\
+    • OGP Grand Challenges and Principles that should be selected and\
+    • the commitments that should be given priority in the NAP.
+
+    The Partnership can also articulate its Vision and fine tune the
+    proposed Framework for the development of the NAP.
+
+    The Submission discusses these issues, the relevant evidence and the
+    choices of the OGP Grand Challenges and Principles that will best
+    serve the public interest in the Commonwealth of Australia.
+
+    We hope that it will be found helpful in each stage of this
+    historic exercise.
+
+    Full submission available at
+    [https://ogpau.govspace.gov.au/files/2015/12/ART-OGP-submission.-Stage-1-Final.3docx.docx](../files/2015/12/ART-OGP-submission.-Stage-1-Final.3docx.docx)
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+    -   <div id="li-comment-36">
+
+        </div>
+
+        <div class="comment-author vcard">
+
+        <span class="fn">Pia Waugh</span> on [December 14, 2015 at 6:30
+        pm](index.html#comment-36) <span class="says">said:</span>
+
+        </div>
+
+        <div class="comment-content">
+
+        Many thanks Tim, it is a useful read. It would be good if ART
+        could please ensure there are specific actions or commitments
+        suggested during stage 2 of the consultation to address all the
+        concerns raised. We were able to extract some specific
+        recommended actions for the wiki, but not in all areas of your
+        stage 1 contribution.
+
+        Warm regards,\
+        Pia Waugh and the OGPau team
+
+        </div>
+
+        <div class="reply">
+
+        [Log in to
+        Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+        </div>
+
+4.  <div id="li-comment-31">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">[Greg
+    Thompson](http://www.transparency.org.au/){.url}</span> on [December
+    11, 2015 at 6:14 pm](index.html#comment-31) <span
+    class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    TIA congratulates the Australian Government and Prime Minister
+    Turnbull for the recent decision to commit to finalizing Australia’s
+    membership of the OGP, and for the proactive approach it is taking
+    to public consultation in the development of the first Australian
+    Government National Action Plan.
+
+    The OGP requires broad consultation in the development of the NAP –
+    from the public, civil society and the private sector. TIA’s
+    comments come from its perspective as the leading civil society
+    organization promoting transparency, integrity and accountability,
+    and fighting corruption.
+
+    Introduction
+
+    Now that it has decided to commit to finalizing its membership of
+    the OGP, the government is moving with commendable speed to draft
+    its first National Action Plan by May 2016, for government
+    consideration in June 2016, and a launch in July 2016. This speed
+    does bring risks – that the first National Action Plan is
+    essentially a ‘goodwill’ document, not ambitious enough and not
+    containing commitments of substance. The second risk is that to meet
+    these tight timelines the consultation process will be structured in
+    a way which downplays the opportunity for real input from civil
+    society and other non-government sectors. The Government and its
+    advisers may take the view that it is better to have a first NAP,
+    however imperfect, and that the NAP process and content will be much
+    more satisfactory the second time around. TIA’s job, and that of
+    civil society generally, is to participate as fully as possible in
+    the development of a first NAP which is ambitious in scope and
+    commitment, and flags priority areas for future NAPs. TIA is
+    committed to membership of the Australian Open Government
+    Partnership Network recently constituted
+
+    The remainder of this short paper flags some initial comments and
+    areas of interest to TIA.
+
+    Increasing Public Integrity
+
+    The OGP – Australia website has already indicated that the first
+    National Action Plan will focus on two of the OGP’s five ‘grand
+    challenges’: Improving Public Services, and More Effectively
+    Managing Public Resources. This decision was made without public
+    consultation on whether other ‘grand challenges’ should have greater
+    priority, especially Increasing Public Integrity (‘measures that
+    address corruption and public ethics, access to information,
+    campaign finance reform, and media and civil society freedom’).
+    Successive Australian Governments have made considerable and
+    sustained progress in improving public services and more effectively
+    managing public resources, whereas limited and patchy progress has
+    been made in the areas of corruption and public ethics, access to
+    information, and campaign finance reform. In other words, there is
+    much more to do in relation to increasing public integrity. TIA
+    recommends that the Government include Increasing Public Integrity
+    as one of its initial ‘grand challenges’.
+
+    Identification of specific measures in the Australian NAP
+
+    Many of the potential transparency gains from the OGP are
+    cross-cutting issues that affect integrity in other sectors, other
+    nations and multiple levels of government. In several countries,
+    including the UK, ‘open government’ has been used to identify and
+    implement crucial transparency and accountability measures such as
+    the establishment of registers of beneficial ownership of companies,
+    lifting the veil on opaque shell companies that the corrupt use to
+    hold and transfer their illicit gains, implementing the Extractive
+    Industries Transparency Initiative or developing comprehensive
+    national anti-corruption agencies or comprehensive national
+    anti-corruption action plans.
+
+    TIA recommends that the Australian Government demonstrate its full
+    commitment to participation in the Open Government Partnership, by
+    undertaking to use open government reforms to meet the challenge of
+    increasing public integrity in its national action plan, as an
+    important element in increasing transparency and lowering corruption
+    in Australia – and in particular by implementing the Extractive
+    Industries Transparency Initiative, ensuring greater transparency in
+    public procurement, and committing to a public register of corporate
+    beneficial owners.
+
+    Right to Information
+
+    In 2014 the Federal Government withdrew funding and introduced
+    legislation to abolish the Office of the Australian Information
+    Commissioner (OAIC) and to reassign its functions to other
+    government agencies and departments. The legislation has failed to
+    pass the Parliament, and is unlikely to do so in the foreseeable
+    future, leaving the OAIC ‘in limbo’ and the national FOI, privacy
+    and information policy regimes in jeopardy. Abolition of the OAIC
+    and dispersal of its strategic and operational functions between
+    existing agencies and departments risks fragmentation of access to
+    information rights and tools, which have historically been crucial
+    in preventing and exposing corruption.\
+    TIA recommends that as part of its development of the draft National
+    Action Plan the Australian Government should renew its full support
+    for a strong access to information regime by withdrawing legislation
+    to abolish the Office of the Australian Information Commissioner,
+    re-instating funding for the OAIC to fulfill its mandate in relation
+    to freedom of information, privacy, and information policy, and
+    ensuring the prompt appointment of a new Australian Information
+    Commissioner with full powers, located in the Department of the
+    Prime Minister and Cabinet.
+
+    Multi-stakeholder oversight group
+
+    Experience in developing OGP National Action Plans elsewhere
+    suggests an advisory body or stakeholder group can enhance and add
+    value to the partnership. The role of civil society in Australia’s
+    OGP is critical, not just to ensure Australia’s OGP membership, but
+    because the initiative is chaired equally between government and
+    civil society in each country.
+
+    The proposed consultation process for the development of Australia’s
+    first NAP is excellent as far as it goes, but it does not provide
+    for effective joint civil society and government input into, and
+    oversight of, the development of the first NAP. Providing
+    opportunities for feedback and comment is not a substitute for
+    participation in finalising a draft NAP for
+    government consideration. TIA therefore recommends that at least one
+    civil society representative is invited to join the group of
+    officials charged with finalising the draft NAP for
+    government consideration.
+
+    In the longer term, TIA recommends the establishment of a
+    multi-stakeholder oversight group, comprising government, civil
+    society, the private sector and the communications sector, to ensure
+    ongoing commitment to fulfilling OGP obligations.
+
+    TIA affirms the need to involve a range of departments and agencies
+    across Government. An example of where such interdepartmental
+    engagement would be beneficial would be necessary and beneficial is
+    ensuring a link between the OPG process and the fulfillment of
+    Australia’s commitment to develop a plan to implement the
+    Sustainable Development Goals. That process should also be
+    multi-stakeholder involving government civil society and the
+    private sector.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+5.  <div id="li-comment-29">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">Alan Wolfe</span> on [December 11, 2015 at 1:17
+    pm](index.html#comment-29) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    Great news that the government is moving in this direction and we
+    look forward to progressing this issue together.
+
+    However, I must agree with Peter that the selection of the Grand
+    Challenges without any consultation is an issue and somewhat
+    contrary to the spirit of the OGP. It could be argued the the
+    current two Grand Challenges do not sufficiently address
+    transparency or corruption, especially when one considers that the
+    OGP’s self-description prioritises transparency, corruption AND
+    governance, (“… a multilateral initiative that aims to secure
+    concrete commitments from governments to promote transparency,
+    empower citizens, fight corruption, and harness new technologies to
+    strengthen governance.”)
+
+    It was heartening to see mention made of natural resources – this is
+    an area that Australia could specialise in and contribute to the
+    global movement. With Working Groups on this issue just being
+    established in the global OGP movement, it would be great if we
+    could push the envelope.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+6.  <div id="li-comment-28">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">[Amelia
+    Loye](http://www.engage2.com.au/){.url}</span> on [December 11, 2015
+    at 4:00 am](index.html#comment-28) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    This looks like a good consultation process Pia and Co. It is clear
+    what will happen next and how we might get involved, it’s been well
+    promoted (but I am actively tuned in), there is sufficient time for
+    those interested to consider information presented, there are
+    multiple methods (and points in the process) to provide input and
+    for Gov to consolidate, respond to and consider it.\
+    I hope we will also see good use of citizen engagement, technology
+    and data to understand social issues / community needs and refining
+    service delivery; and support the potential in our community to
+    manage public resources. I would also like to see public
+    participation in the way we deliver, report and monitor delivery of
+    this National Action Plan – not just public reporting.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+7.  <div id="li-comment-26">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">Pia Waugh</span> on [December 10, 2015 at 8:15
+    am](index.html#comment-26) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    On the note about the framework, please do make the suggestion of
+    such a collaborative structure as a commitment for consideration.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+8.  <div id="li-comment-25">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">Pia Waugh</span> on [December 10, 2015 at 8:10
+    am](index.html#comment-25) <span class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    Thanks Peter, all great input. We’ll try consolidate everything into
+    the wiki to launch for Stage 2. It is worth noting in the spirit of
+    a collaborative approach, we are asking you for your ideas about
+    vision, not trying to impose one.
+
+    Cheers,\
+    Pia
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+9.  <div id="li-comment-24">
+
+    </div>
+
+    <div class="comment-author vcard">
+
+    <span class="fn">[Peter
+    Timmins](http://www.foi-privacy.blogspot.com.au/){.url}</span> on
+    [December 9, 2015 at 6:02 pm](index.html#comment-24) <span
+    class="says">said:</span>
+
+    </div>
+
+    <div class="comment-content">
+
+    Vision\
+    There is not much in the way of a vision in the published material.
+
+    Perhaps we couldn’t do much better than draw on the Open Government
+    Declaration thus:
+
+    “The Australian Government with input from its citizens is committed
+    to improved democratic practices in line with the OGP Open
+    Government Declaration:\
+    •“to promote transparency, fight corruption, empower citizens, and
+    harness the power of new technologies to make government more
+    effective and accountable.”\
+    •“to uphold the value of openness in our engagement with citizens to
+    improve services, manage public resources, promote innovation, and
+    create safer communities”\
+    •“to embrace principles of transparency and open government with a
+    view toward achieving greater prosperity, well-being, and human
+    dignity in our own countries and in an increasingly interconnected
+    world.”
+
+    Grand Challenges\
+    It is disappointing that the published material in parts suggests
+    important decisions about ‘grand challenges’ that may limit
+    commitments the government is prepared to consider have been made
+    without any consultation.
+
+    For example these statements:\
+    “through consultation, the aim is for the first Australian
+    Government’s National Action Plan to include ambitious actions that
+    support the OGP grand challenges of improving public services and
+    better managing public resources… Contributions for the NAP will be
+    considered in the context of what will improve public services and
+    improve management of public resources, as well as what will benefit
+    the public, provide opportunities for business and support
+    innovation in Australia.”
+
+    However another sentence brings transparency and accountability and
+    public engagement into the picture:\
+    “Australia’s membership of the OGP is an opportunity to improve
+    public service delivery, increase the transparency and
+    accountability of government, and encourage greater
+    public engagement. It also an opportunity for the public, civil
+    society, and the private sector to contribute ideas for how
+    government can achieve those goals.”
+
+    Unilateral decisions about the scope of what will be considered
+    would be an unfortunate start to a “partnership.”
+
+    Consultation should commence and proceed on the basis of OGP
+    guidance that the plan in its final form should “consist of a set of
+    commitments that advance transparency, accountability, participation
+    and/or technological innovation.”\
+    <http://www.opengovpartnership.org/how-it-works/develop-a-national-action-plan>
+
+    Within that broad framework nothing should be ruled out before
+    consultation starts.\
+    As the process moves toward finality there should be no difficulty
+    in grouping agreed commitments in a way that addresses one or more
+    of the ‘challenges’, the only OGP requirement.
+
+    Framework\
+    According to the published material:\
+    “The Department of the Prime Minister and Cabinet (PM&C) is the lead
+    Commonwealth agency for developing the Australian Government’s NAP
+    and will coordinate the consultation and resulting program of work.
+    PM&C will work with other agencies across the Australian Public
+    Service and other jurisdictions within Australia to develop the
+    NAP….”
+
+    Given the wide range of issues likely to arise, consideration should
+    be given to establishing formal inter-departmental,
+    inter-governmental and government-civil society mechanisms to play a
+    part at various stages during the development of proposals, the
+    determination of priorities and action taken to
+    implement commitments.
+
+    OGP related issues should not be considered in isolation.
+
+    For example during the period ahead the government will develop
+    plans to implement the Sustainable Development Goals.\
+    <http://www.un.org/sustainabledevelopment/sustainable-development-goals/>
+
+    An OGP initiative encourages member countries to link both by
+    signing the Joint Declaration on Open Government for the
+    Implementation of the 2013 Agenda for Sustainable Development\
+    [http://www.opengovpartnership.org/sites/default/files/attachments/OGP\_declaration.pdf](../../www.opengovpartnership.org/sites/default/files/attachments/OGP_declaration.pdf)
+
+    Goal 16 and a number of the related targets are particularly
+    relevant in the context of the development of Australia’s national
+    action plan.\
+    Goal16: “Promote peaceful and inclusive societies for sustainable
+    development, provide access to justice for all and build effective,
+    accountable and inclusive institutions at all levels.”
+
+    SDG targets for this goal include:\
+    Promote the rule of law at the national and international levels and
+    ensure equal access to justice for all;\
+    Substantially reduce corruption and bribery in all their forms;\
+    Develop effective, accountable and transparent institutions at all
+    levels;\
+    Ensure responsive, inclusive, participatory and representative
+    decision-making at all levels;\
+    Broaden and strengthen the participation of developing countries in
+    the institutions of global governance;\
+    Ensure public access to information and protect fundamental
+    freedoms, in accordance with national legislation and
+    international agreements.
+
+    Australia should sign the Declaration.
+
+    The Government should establish a formal mechanism that ensures
+    co-ordinated consideration of OGP, SDG and related strategic
+    policy challenges. A high level inter agency group would assist
+    this process.
+
+    If ‘other jurisdictions’ are to be part of the framework (the OGP is
+    talking of sub-national and city engagement) that too may require a
+    formal mechanism to bring state, territory, city and local
+    government along.
+
+    And a joint government stakeholder group or forum to guide the
+    partnership process and final decisions on the plan would give
+    proper recognition to the fact that OGP decisions require joint
+    ownership befitting a partnership.
+
+    </div>
+
+    <div class="reply">
+
+    [Log in to
+    Reply](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F){.comment-reply-login}
+
+    </div>
+
+<div id="respond" class="comment-respond">
+
+### Leave a Reply [Cancel reply](index.html#respond){#cancel-comment-reply-link} {#reply-title .comment-reply-title}
+
+You must be [logged
+in](../wp-logina3c6.html?redirect_to=https%3A%2F%2Fogpau.govspace.gov.au%2Fconsultation-stage-1-preparation-framework-and-history%2F)
+to post a comment.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

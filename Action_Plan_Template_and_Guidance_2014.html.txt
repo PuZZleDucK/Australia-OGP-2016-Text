@@ -1,0 +1,542 @@
+<div id="skip-link" class="nocontent">
+
+[Skip to main content](#main-content){.element-invisible
+.element-focusable}
+
+</div>
+
+<div id="page-wrapper page-norm">
+
+<div id="page" class="page">
+
+<div id="header-wrapper">
+
+<div class="container clearfix">
+
+<div id="branding" class="branding-elements clearfix">
+
+<div id="logo">
+
+[![Open Government
+Partnership](http://www.opengovpartnership.org/sites/all/themes/custom/at_ogp/logo.png){.site-logo}](/)
+
+</div>
+
+[Open Government Partnership](/ "Home page") {#site-name .element-invisible}
+============================================
+
+</div>
+
+</div>
+
+</div>
+
+<div id="nav-wrapper">
+
+<div class="container clearfix">
+
+<div id="menu-bar" class="nav clearfix">
+
+-   <div id="menu-1212-1">
+
+    </div>
+
+    [About](/about){.sf-depth-1 .menuparent}
+    -   <div id="menu-7147-1">
+
+        </div>
+
+        [Brochure / Folleto](/about){.sf-depth-2}
+    -   <div id="menu-1097-1">
+
+        </div>
+
+        [Mission and Strategy](/about/mission-and-strategy){.sf-depth-2}
+    -   <div id="menu-1098-1">
+
+        </div>
+
+        [Open Government
+        Declaration](/about/open-government-declaration){.sf-depth-2}
+    -   <div id="menu-1209-1">
+
+        </div>
+
+        [Get Involved](/about/get-involved){.sf-depth-2}
+    -   <div id="menu-974-1">
+
+        </div>
+
+        [Finances and Budget](/finances-and-budget){.sf-depth-2}
+    -   <div id="menu-1227-1">
+
+        </div>
+
+        [Contact OGP](/about/contact-ogp){.sf-depth-2}
+    -   <div id="menu-4011-1">
+
+        </div>
+
+        [OGP Logo & Branding
+        Guidelines](/about/ogp-logo-branding-guidelines){.sf-depth-2}
+    -   <div id="menu-1226-1">
+
+        </div>
+
+        [Careers and Opportunities](/get-involved/work-ogp){.sf-depth-2}
+
+-   <div id="menu-924-1">
+
+    </div>
+
+    [How It Works](/how-it-works){.sf-depth-1 .menuparent}
+    -   <div id="menu-992-1">
+
+        </div>
+
+        [Eligibility
+        Criteria](/how-it-works/eligibility-criteria){.sf-depth-2}
+    -   <div id="menu-993-1">
+
+        </div>
+
+        [Develop a National Action
+        Plan](/how-it-works/develop-a-national-action-plan){.sf-depth-2}
+    -   <div id="menu-4357-1">
+
+        </div>
+
+        [Self-Assessment
+        Process](/how-it-works/self-assessment-process){.sf-depth-2}
+    -   <div id="menu-4359-1">
+
+        </div>
+
+        [Response Policy](/how-it-works/response-policy){.sf-depth-2}
+    -   <div id="menu-6996-1">
+
+        </div>
+
+        [Civil Society
+        Engagement](/how-it-works/civil-society-engagement){.sf-depth-2}
+    -   <div id="menu-4360-1">
+
+        </div>
+
+        [Governance & Information
+        Disclosure](/how-it-works/governance-information-disclosure){.sf-depth-2}
+    -   <div id="menu-4007-1">
+
+        </div>
+
+        [Calendars and
+        Deadlines](/how-it-works/calendars-and-deadlines){.sf-depth-2}
+    -   <div id="menu-6993-1">
+
+        </div>
+
+        [Subnational Government Pilot
+        Program](/how-it-works/subnational-government-pilot-program){.sf-depth-2}
+    -   <div id="menu-991-1">
+
+        </div>
+
+        [How To Join](/how-it-works/how-join){.sf-depth-2}
+
+-   <div id="menu-4365-1">
+
+    </div>
+
+    [Who We Are](/who-we-are){.sf-depth-1 .menuparent}
+    -   <div id="menu-4367-1">
+
+        </div>
+
+        [Government](/who-we-are/government){.sf-depth-2}
+    -   <div id="menu-4822-1">
+
+        </div>
+
+        [OGP Steering Committee](/ogp-steering-committee){.sf-depth-2}
+    -   <div id="menu-6997-1">
+
+        </div>
+
+        [Civil
+        Society](/how-it-works/civil-society-engagement){.sf-depth-2}
+    -   <div id="menu-4366-1">
+
+        </div>
+
+        [OGP Support Unit
+        Staff](/who-we-are/ogp-support-unit-staff){.sf-depth-2}
+    -   <div id="menu-4370-1">
+
+        </div>
+
+        [Multilateral
+        Organizations](/who-we-are/multilateral-organizations){.sf-depth-2}
+    -   <div id="menu-6995-1">
+
+        </div>
+
+        [OGP Ambassadors](/who-we-are/ogp-ambassadors){.sf-depth-2}
+    -   <div id="menu-7293-1">
+
+        </div>
+
+        [OGP Secretariat Board of Directors](/board){.sf-depth-2}
+    -   <div id="menu-1100-1">
+
+        </div>
+
+        [OGP Working
+        Groups](/who-we-are/ogp-working-groups){.sf-depth-2}
+
+-   <div id="menu-864-1">
+
+    </div>
+
+    [Countries](/countries){.sf-depth-1}
+-   <div id="menu-4818-1">
+
+    </div>
+
+    [IRM](/irm){.sf-depth-1 .menuparent}
+    -   <div id="menu-1229-1">
+
+        </div>
+
+        [About the IRM](/irm/about-irm){.sf-depth-2}
+    -   <div id="menu-4819-1">
+
+        </div>
+
+        [OGP Explorer and IRM
+        Data](/irm/ogp-explorer-and-irm-data){.sf-depth-2}
+    -   <div id="menu-4820-1">
+
+        </div>
+
+        [Recent IRM Reports](/irm/irm-reports){.sf-depth-2}
+    -   <div id="menu-4372-1">
+
+        </div>
+
+        [IRM Staff](/irm/irm-staff){.sf-depth-2}
+    -   <div id="menu-4988-1">
+
+        </div>
+
+        [About the IEP](/irm/about-iep){.sf-depth-2}
+
+-   <div id="menu-4833-1">
+
+    </div>
+
+    [Tools](/node/6648){.sf-depth-1}
+-   <div id="menu-4354-1">
+
+    </div>
+
+    [News and Events](/news-and-events){.sf-depth-1 .menuparent}
+    -   <div id="menu-523-1">
+
+        </div>
+
+        [Events](/events){.sf-depth-2}
+    -   <div id="menu-722-1">
+
+        </div>
+
+        [Blog](/blog){.sf-depth-2}
+    -   <div id="menu-1064-1">
+
+        </div>
+
+        [Blog Authors](/blog/bloggers){.sf-depth-2}
+    -   <div id="menu-7148-1">
+
+        </div>
+
+        [Past Events](/past-events){.sf-depth-2}
+    -   <div id="menu-4823-1">
+
+        </div>
+
+        [Press Releases](/press-releases){.sf-depth-2}
+    -   <div id="menu-3846-1">
+
+        </div>
+
+        [Newsletter](/news-and-events/newsletter){.sf-depth-2}
+    -   <div id="menu-6998-1">
+
+        </div>
+
+        [Gazette](/gazette){.sf-depth-2}
+    -   <div id="menu-7003-1">
+
+        </div>
+
+        [Annual Reports](/news-and-events/annual-reports){.sf-depth-2}
+    -   <div id="menu-7000-1">
+
+        </div>
+
+        [El Boletín](/boletin){.sf-depth-2}
+
+-   <div id="menu-7149-1">
+
+    </div>
+
+    [Awards](/awards){.sf-depth-1}
+
+<div id="block-views-4a0df027e83066d7a567a3cd9c95f8a8"
+class="block block-views no-title menu-wrapper menu-bar-wrapper clearfix">
+
+<div>
+
+<div class="views-exposed-form">
+
+<div class="views-exposed-widgets clearfix">
+
+<div id="edit-search-api-views-fulltext-wrapper"
+class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+
+Search
+<div class="views-widget">
+
+<div
+class="form-item form-type-textfield form-item-search-api-views-fulltext">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="views-exposed-widget views-submit-button">
+
+</div>
+
+<div class="views-exposed-widget views-reset-button">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="title-wrapper">
+
+Page not found {#page-title}
+==============
+
+</div>
+
+<div id="content-wrapper">
+
+<div class="container">
+
+<div id="columns">
+
+<div class="columns-inner clearfix">
+
+<div id="content-column">
+
+<div class="content-inner">
+
+<div id="main-content" class="section">
+
+<div id="content">
+
+<div id="block-system-main" class="block block-system no-title">
+
+The requested page
+"/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.pdf"
+could not be found.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="tertiary-content-wrapper">
+
+<div class="container clearfix">
+
+<div class="region region-tertiary-content">
+
+<div class="region-inner clearfix">
+
+<div id="block-sharethis-sharethis-block"
+class="block block-sharethis no-title">
+
+<div class="block-inner clearfix">
+
+<div class="block-content content">
+
+<div class="sharethis-wrapper">
+
+<span class="st_twitter_large"
+st_url="http://www.opengovpartnership.org/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.pdf"
+st_title="Page not found" displaytext="twitter"></span> <span
+class="st_facebook_large"
+st_url="http://www.opengovpartnership.org/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.pdf"
+st_title="Page not found" displaytext="facebook"></span> <span
+class="st_googleplus_large"
+st_url="http://www.opengovpartnership.org/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.pdf"
+st_title="Page not found" displaytext="googleplus"></span> <span
+class="st_sharethis_large"
+st_url="http://www.opengovpartnership.org/sites/default/files/attachments/Action%20Plan%20Template%20and%20Guidance%202014.pdf"
+st_title="Page not found" displaytext="sharethis"></span>
+[![Instagram](//badges.instagram.com/static/images/ig-badge-32.png)](https://www.instagram.com/opengovpartnership/?ref=badge){.ig-b-
+.ig-b-32}
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="footer-wrapper">
+
+<div class="container clearfix">
+
+<div class="region region-footer">
+
+<div class="region-inner clearfix">
+
+<div class="block-inner clearfix">
+
+[About](/about){.sf-depth-1 .menuparent} {#about .block-title}
+----------------------------------------
+
+<div class="block-content content">
+
+<div
+class="menu-block-wrapper menu-block-4 menu-name-main-menu parent-mlid-1212 menu-level-1">
+
+-   [Brochure / Folleto](/about){.sf-depth-2}
+-   [Mission and Strategy](/about/mission-and-strategy){.sf-depth-2}
+-   [Open Government
+    Declaration](/about/open-government-declaration){.sf-depth-2}
+-   [Get Involved](/about/get-involved){.sf-depth-2}
+-   [Finances and Budget](/finances-and-budget){.sf-depth-2}
+-   [Contact OGP](/about/contact-ogp){.sf-depth-2}
+-   [OGP Logo & Branding
+    Guidelines](/about/ogp-logo-branding-guidelines){.sf-depth-2}
+-   [Careers and Opportunities](/get-involved/work-ogp){.sf-depth-2}
+
+</div>
+
+</div>
+
+</div>
+
+<div class="block-inner clearfix">
+
+[How It Works](/how-it-works){.sf-depth-1 .menuparent} {#how-it-works .block-title}
+------------------------------------------------------
+
+<div class="block-content content">
+
+<div
+class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-924 menu-level-1">
+
+-   [Eligibility
+    Criteria](/how-it-works/eligibility-criteria){.sf-depth-2}
+-   [Develop a National Action
+    Plan](/how-it-works/develop-a-national-action-plan){.sf-depth-2}
+-   [Self-Assessment
+    Process](/how-it-works/self-assessment-process){.sf-depth-2}
+-   [Response Policy](/how-it-works/response-policy){.sf-depth-2}
+-   [Civil Society
+    Engagement](/how-it-works/civil-society-engagement){.sf-depth-2}
+-   [Governance & Information
+    Disclosure](/how-it-works/governance-information-disclosure){.sf-depth-2}
+-   [Calendars and
+    Deadlines](/how-it-works/calendars-and-deadlines){.sf-depth-2}
+-   [Subnational Government Pilot
+    Program](/how-it-works/subnational-government-pilot-program){.sf-depth-2}
+-   [How To Join](/how-it-works/how-join){.sf-depth-2}
+
+</div>
+
+</div>
+
+</div>
+
+<div id="block-block-6" class="block block-block no-title">
+
+<div class="block-inner clearfix">
+
+<div class="block-content content">
+
+© 2015 Open Government Partnership
+
+</div>
+
+</div>
+
+</div>
+
+<div id="block-block-10" class="block block-block no-title">
+
+<div class="block-inner clearfix">
+
+<div class="block-content content">
+
+Empowered by [NuCivic](http://www.nucivic.com){.nuams-link}
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,375 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../../../../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../../../../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../../../../index.html "Open Government Partnership – Australia")</span> {#site-title}
+========================================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../../../../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../../../../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../../../../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action Plan](../../../index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../../../introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to date](../../../efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this plan](../../../developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../../index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../../theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../../theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../../theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../../theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../../theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../../theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../../theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../../theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government information](../index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../../theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../../theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../../theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../../theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../../theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../../theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../../theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../../../australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../../../appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../../../../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../../../../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../../../../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the
+        OGP](../../../../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../../../../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../../../../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../../../../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../../../../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../../../../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../../../../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+3.2 – Understand the use of Freedom of Information {#understand-the-use-of-freedom-of-information .entry-title}
+==================================================
+
+<div class="entry-content">
+
+*We will work with states and territories to collect and publish uniform
+data on public use of freedom of information access rights in
+Australia.*
+
+\[Freedom of information is used generally to cover legislated public
+access right to information schemes across all jurisdictions. For
+example, in New South Wales the relevant legislation is the Government
+Information (Public Access) Act 2009 (NSW).\]
+
+**Objective\
+**Australia will develop uniform metrics to better measure and improve
+our understanding of the public’s use of rights under freedom of
+information laws.
+
+**Status Quo\
+**The Commonwealth, states and territories already collect data and
+produce statistics about applications to access government information
+in each jurisdiction. For example, the Office of the Australian
+Information Commissioner currently releases statistics on access
+requests under the Freedom of Information Act 1982 through data.gov.au.
+
+However, the data collected is not uniform across jurisdictions, making
+it difficult to compare and analyse how freedom of information rights
+are used across the country. The development of consistent metrics will
+assist in building a more complete picture of freedom of information
+rights in Australia and could help governments improve processing of
+information access requests. Metrics could include the type of
+applicant, application rates per capita, release rates, review rates and
+refusal rates.
+
+**Ambition\
+**To raise awareness about the public’s rights to access government
+information under freedom of information laws and enable quantitative
+analysis of data across jurisdictions. This will improve understanding
+of utilisation of access rights, government processes and practices, and
+better align with established international metrics including the World
+Justice Project Open Government Index.
+
+**Relevance\
+**This commitment will advance the OGP values of **access to
+information** and **public accountability** by:
+
+-   increasing awareness of public access rights to government
+    information;
+-   enabling comparison of freedom of information access rights across
+    jurisdictions and internationally; and
+-   improving freedom of information access practices and efficiency of
+    processing access to information requests.
+
+**OGP Grand Challenge**
+
+-   Increasing Public Integrity
+
+**Timeframes\
+**September 2016 – December 2017
+
+**Lead agency\
+**Australian Information Commissioners and Ombudsmen
+
+**Other actors involved**\
+*Government:* Office of the Australian Information Commissioner
+
+*Non-government:* N/A
+
+**Milestones**
+
+1.  Agree and publish metrics on information access rights.
+    -   September – December 2016
+
+2.  Undertake pilot for data collection and validation for the 2014/15
+    financial year.
+    -   January – June 2017
+
+3.  Data collection and validation for the 2015/16 financial year.
+    -   July – November 2017
+
+4.  Publicly release dataset on 2015/16 metrics.
+    -   December 2017
+
+</div>
+
+<div id="comments">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

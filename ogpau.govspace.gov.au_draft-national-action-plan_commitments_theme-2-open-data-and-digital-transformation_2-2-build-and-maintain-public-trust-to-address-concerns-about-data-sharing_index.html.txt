@@ -1,0 +1,395 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../../../../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../../../../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../../../../index.html "Open Government Partnership – Australia")</span> {#site-title}
+========================================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../../../../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../../../../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../../../../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action Plan](../../../index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../../../introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to date](../../../efforts-to-date/index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this plan](../../../developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../../index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../../theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../../theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../../theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../../theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data sharing](index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../../theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../../theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../../theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../../theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../../theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../../theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../../theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../../theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../../theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../../theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../../theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../../../australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../../../appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../../../../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../../../../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../../../../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the
+        OGP](../../../../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../../../../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../../../../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../../../../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../../../../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../../../../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../../../../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+2.2 – Build and maintain public trust to address concerns about data sharing {#build-and-maintain-public-trust-to-address-concerns-about-data-sharing .entry-title}
+============================================================================
+
+<div class="entry-content">
+
+*We will develop an ongoing and collaborative conversation with the
+community to build public trust around data sharing and integration.*
+
+**Objective\
+**Australia will actively engage with the community regarding how public
+data is being used to provide more targeted and effective policy,
+service delivery and program evaluation.
+
+**Status Quo\
+**In an increasingly complex and interconnected world, effective policy
+responses require investment in joined-up data that can provide a strong
+evidence-base for policy decisions.
+
+The New Zealand Government has invested in both a whole-of-government
+Integrated Data Infrastructure and enhanced analytical capability with
+positive results in terms of reduced government spending and improved
+public policy outcomes in areas such as human rights, law enforcement,
+health, education and justice.
+
+While the Australian Public Service (APS) has made some progress in this
+area, we need to better inform the community about the benefits of data
+sharing and address public concerns, including perceived values, risks,
+and attitudes towards privacy.
+
+The Privacy Act 1988 underpins the open data agenda and helps build
+public trust in data-sharing activities. The Government has introduced a
+Bill to amend the Act to make it an offence to deliberately re-identify
+personal information from open government data.
+
+Data literacy across the APS is also critical. In August 2016, the
+Department of the Prime Minister and Cabinet released Data Skills and
+Capability in the Australian Public Service to help build skills and
+knowledge in publishing, linking and sharing public data.
+
+**Ambition\
+**To build trust about the use of integrated data and actively respond
+to community concerns about data sharing. To comply with international
+best practice on open data principles and participate in global fora on
+data.
+
+**Relevance\
+**This commitment will advance the OGP values of **transparency** and
+**public** **participation** by:
+
+-   providing greater transparency on how government is using the data
+    it collects and protecting personal information;
+-   enabling the community to engage with government and raise issues of
+    concern;
+-   enabling experts outside of government to inform public debate; and
+-   providing more targeted and effective policy, service delivery and
+    program evaluation.
+
+**OGP Grand Challenge**
+
+-   Improving Public Services
+-   Increasing Public Integrity
+
+**Timeframes\
+**December 2016 – End 2017
+
+**Lead agency\
+**Department of the Prime Minister and Cabinet, Australian Bureau of
+Statistics and Office of the Australian Information Commissioner
+
+**Other actors involved**\
+*Government:  *Attorney General’s Department, Treasury, Fair Work
+Ombudsman, Australian Institute of Health and Welfare, Department of
+Social Services, Department of Industry, Innovation and Science and
+Department of Health, Department of Human Services, Australian Taxation
+Office and Australian Federal Police
+
+*Non-government:* Open Data Institute Queensland and digital rights
+organisation
+
+**Milestones**
+
+1.  Adopt the International Open Data Charter.
+    -   December 2016 – Early 2017
+
+2.  Establish an expert panel to advise government and to help
+    communicate value and utility of data sharing and integration.
+    -   December 2016 – Mid 2017
+
+3.  Develop an engagement process to demonstrate public-value examples
+    and enable an ongoing dialogue with the community.
+    -   December 2016 – End 2017
+
+4.  Work with the Office of the Australian Information Commissioner to
+    improve privacy risk management capability across the Australian
+    Public Service.
+    -   November 2016 – Ongoing
+
+5.  Participate in the International Open Data Stewards Group.
+    -   Ongoing
+
+6.  Responsive, targeted and ongoing engagement regarding public data
+    use and integration.
+    -   Ongoing
+
+</div>
+
+<div id="comments">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>

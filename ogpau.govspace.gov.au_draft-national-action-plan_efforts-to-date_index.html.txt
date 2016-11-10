@@ -1,0 +1,394 @@
+<div id="page" class="hfeed">
+
+<div class="search_wrapper_full">
+
+<div class="search_wrapper_tr">
+
+<div>
+
+Search:
+
+</div>
+
+</div>
+
+</div>
+
+[![Australian
+Government](../../wp-content/mu-plugins/govspace-jetlev/images/australian-government-dark.png)](../../index.html "Home"){.coa-link}
+<div class="site-brand">
+
+<span>[Open Government Partnership – Australia](../../index.html "Open Government Partnership – Australia")</span> {#site-title}
+==================================================================================================================
+
+Developing the Australian Government National Action Plan {#site-description}
+---------------------------------------------------------
+
+</div>
+
+[![](../../files/2015/11/cropped-SummitLogo1.png){width="1000"
+height="288"}](../../index.html)
+<div id="cat-nav" class="clear">
+
+<div class="menu-new-menu-container">
+
+-   <div id="menu-item-411">
+
+    </div>
+
+    [Home](../../index.html)
+-   <div id="menu-item-781">
+
+    </div>
+
+    [Draft National Action Plan](../index.html)
+    -   <div id="menu-item-782">
+
+        </div>
+
+        [Introduction](../introduction-2/index.html)
+    -   <div id="menu-item-785">
+
+        </div>
+
+        [Efforts to date](index.html)
+    -   <div id="menu-item-784">
+
+        </div>
+
+        [Developing this plan](../developing-this-plan/index.html)
+    -   <div id="menu-item-783">
+
+        </div>
+
+        [Commitments](../commitments/index.html)
+        -   <div id="menu-item-837">
+
+            </div>
+
+            [Theme 1: Transparency and accountability in
+            business](../commitments/theme-1-transparency-and-accountability-in-business/index.html)
+            -   <div id="menu-item-838">
+
+                </div>
+
+                [1.1 – Improve whistle-blower protections in the tax and
+                corporate
+                sectors](../commitments/theme-1-transparency-and-accountability-in-business/1-1-improve-whistle-blower-protections-in-the-tax-and-corporate-sectors/index.html)
+            -   <div id="menu-item-839">
+
+                </div>
+
+                [1.2 – Beneficial
+                ownership](../commitments/theme-1-transparency-and-accountability-in-business/1-2-beneficial-ownership/index.html)
+            -   <div id="menu-item-840">
+
+                </div>
+
+                [1.3 – Natural Resource
+                Transparency](../commitments/theme-1-transparency-and-accountability-in-business/1-3-natural-resource-transparency/index.html)
+
+        -   <div id="menu-item-835">
+
+            </div>
+
+            [Theme 2: Open data and digital
+            transformation](../commitments/theme-2-open-data-and-digital-transformation/index.html)
+            -   <div id="menu-item-836">
+
+                </div>
+
+                [2.1 – Release high-value datasets and enable data
+                driven
+                innovation](../commitments/theme-2-open-data-and-digital-transformation/2-1-release-high-value-datasets-and-enable-data-driven-innovation/index.html)
+            -   <div id="menu-item-834">
+
+                </div>
+
+                [2.2 – Build and maintain public trust to address
+                concerns about data
+                sharing](../commitments/theme-2-open-data-and-digital-transformation/2-2-build-and-maintain-public-trust-to-address-concerns-about-data-sharing/index.html)
+            -   <div id="menu-item-833">
+
+                </div>
+
+                [2.3 – Digitally transform the delivery of government
+                services](../commitments/theme-2-open-data-and-digital-transformation/2-3-digitally-transform-the-delivery-of-government-services/index.html)
+
+        -   <div id="menu-item-826">
+
+            </div>
+
+            [Theme 3: Access to government
+            information](../commitments/theme-3-access-to-government-information/index.html)
+            -   <div id="menu-item-832">
+
+                </div>
+
+                [3.1 – Information management and access laws for the
+                21st
+                century](../commitments/theme-3-access-to-government-information/3-1-information-management-and-access-laws-for-the-21st-century/index.html)
+            -   <div id="menu-item-831">
+
+                </div>
+
+                [3.2 – Understand the use of Freedom of
+                Information](../commitments/theme-3-access-to-government-information/3-2-understand-the-use-of-freedom-of-information/index.html)
+            -   <div id="menu-item-830">
+
+                </div>
+
+                [3.3 – Improve the discoverability and accessibility of
+                government data and
+                information](../commitments/theme-3-access-to-government-information/3-3-improve-the-discoverability-and-accessibility-of-government-data-and-information/index.html)
+
+        -   <div id="menu-item-825">
+
+            </div>
+
+            [Theme 4: Integrity in the public
+            sector](../commitments/theme-4-integrity-in-the-public-sector/index.html)
+            -   <div id="menu-item-829">
+
+                </div>
+
+                [4.1 – Confidence in the electoral system and political
+                parties](../commitments/theme-4-integrity-in-the-public-sector/4-1-confidence-in-the-electoral-system-and-political-parties/index.html)
+            -   <div id="menu-item-828">
+
+                </div>
+
+                [4.2 – National Integrity
+                Framework](../commitments/theme-4-integrity-in-the-public-sector/4-2-national-integrity-framework/index.html)
+            -   <div id="menu-item-827">
+
+                </div>
+
+                [4.3 – Open
+                Contracting](../commitments/theme-4-integrity-in-the-public-sector/4-3-open-contracting/index.html)
+
+        -   <div id="menu-item-824">
+
+            </div>
+
+            [Theme 5: Public participation and
+            engagement](../commitments/theme-5-public-participation-and-engagement/index.html)
+            -   <div id="menu-item-823">
+
+                </div>
+
+                [5.1 – Delivery of Australia’s Open Government National
+                Action
+                Plan](../commitments/theme-5-public-participation-and-engagement/5-1-delivery-of-australias-open-government-national-action-plan/index.html)
+            -   <div id="menu-item-822">
+
+                </div>
+
+                [5.2 – Enhance public participation in government
+                decision
+                making](../commitments/theme-5-public-participation-and-engagement/5-2-enhance-public-participation-in-government-decision-making/index.html)
+
+    -   <div id="menu-item-821">
+
+        </div>
+
+        [Australia’s leadership
+        internationally](../australias-leadership-internationally/index.html)
+    -   <div id="menu-item-820">
+
+        </div>
+
+        [Appendix A: Consultation and engagement
+        activities](../appendix-a-consultation-and-engagement-activities/index.html)
+
+-   <div id="menu-item-413">
+
+    </div>
+
+    [Introduction](../../introduction/index.html)
+-   <div id="menu-item-414">
+
+    </div>
+
+    [Preparing the National Action
+    Plan](../../national-action-plan/index.html)
+    -   <div id="menu-item-418">
+
+        </div>
+
+        [Updates](../../category/updates/index.html)
+    -   <div id="menu-item-415">
+
+        </div>
+
+        [About the OGP](../../national-action-plan/about-ogp/index.html)
+    -   <div id="menu-item-417">
+
+        </div>
+
+        [Background](../../national-action-plan/background/index.html)
+    -   <div id="menu-item-412">
+
+        </div>
+
+        [FAQs](../../national-action-plan/faqs/index.html)
+
+-   <div id="menu-item-434">
+
+    </div>
+
+    [Contribute to the process](../../contribute/index.html)
+    -   <div id="menu-item-435">
+
+        </div>
+
+        [Get Involved](../../contribute/get-involved/index.html)
+    -   <div id="menu-item-854">
+
+        </div>
+
+        [Public
+        Consultation](../../contribute/public-consultation/index.html)
+
+-   <div id="menu-item-416">
+
+    </div>
+
+    [Contact & Colophon](../../contact-colophon/index.html)
+
+</div>
+
+</div>
+
+<div class="breadcrumbs">
+
+</div>
+
+<div id="main">
+
+<div id="primary">
+
+<div id="content" role="main">
+
+Efforts to date {#efforts-to-date .entry-title}
+===============
+
+<div class="entry-content">
+
+The Australian Government has already taken a range of steps towards
+improving transparency, integrity and anti‑corruption in recent years,
+which this National Action Plan will build upon.
+
+Open data and digital transformation of government services are high
+priorities for the Government and considerable progress has been made in
+a short space of time.
+
+-   The **Public Data Policy Statement**, released in December 2015,
+    commits Australian Government entities to release non-sensitive data
+    as open by default. Since 2013, the number of discoverable resources
+    on data.gov.au has grown from approximately 500 to over 20,000.
+-   The **Digital Transformation Agency** (formerly the Digital
+    Transformation Office) has been established to lead the online
+    transformation of government services, and provide an integrated
+    policy and strategic capability for whole of government ICT, ICT
+    procurement and digital. The Digital Transformation Agency will
+    implement wide scale change in digital capability across government
+    departments, benefiting the public and other users of
+    government services.
+
+There have been several major initiatives to improve accountability and
+integrity both within and outside of government.
+
+-   The Government commissioned an **independent review of the
+    parliamentary entitlements system** in August 2015, and has given
+    its in-principle support to all of the recommendations of
+    the review.
+-   The **Royal Commission into Trade Union Governance and Corruption**
+    reported in December 2015. The Government has introduced legislation
+    to improve the governance and accountability of registered
+    organisations (unions and employer organisations).
+
+Steps have been taken to make government procurement more transparent,
+and to encourage innovation by making it easier for start-ups and
+innovative small businesses to sell services to government.
+
+-   The National Innovation and Science Agenda committed to establish a
+    new **Digital Marketplace** for procuring ICT products and services,
+    and seeking innovative solutions to policy and service delivery
+    “challenges” through the **Business Research and Innovation
+    Initiative**.
+-   A public **ICT dashboard** is being developed to improve
+    transparency around Government ICT performance and progress on major
+    new investments.
+
+The Australian Government has also been active (and in many cases a
+leader) in international anti‑corruption and tax avoidance /
+transparency efforts.
+
+-   Australia is a key member of the **G20 Anti-Corruption Working
+    Group**, having led the development of the G20 Anti‑Corruption
+    Action Plan and the subsequent 2015-16 Anti‑Corruption
+    Implementation Plan. The G20 High Level Principles on Beneficial
+    Ownership Transparency are also a legacy item of Australia’s 2014
+    G20 presidency.
+-   Australia was also an active participant in the **UK’s international
+    anti-corruption summit** in London in May 2016. At the meeting, the
+    Government endorsed the Global Declaration against Corruption and
+    announced a range of new measures, including joining the Extractive
+    Industries Transparency Initiative and holding an annual government
+    business roundtable on corruption.
+-   In December 2015, the Australian Taxation Office published the first
+    annual ***Report of Entity Tax Information****,* which included the
+    Australian total income, taxable income and tax paid of large public
+    and private companies operating in Australia.
+-   The **Voluntary Tax Transparency Code**, announced as part of the
+    2016-17 Budget, is a set of principles and minimum standards to
+    guide medium and large businesses on public disclosure of
+    tax information. Adoption of the Code is voluntary, and is designed
+    to encourage greater transparency within the corporate sector.
+
+These new measures build on other actions taken over the last decade to
+improve access to government information and promote transparency and
+integrity at the federal level:
+
+-   Whistle-blower protections in the public sector were significantly
+    improved by the *Public Interest Disclosure Act 2013*, which
+    commenced in January 2014.
+-   Freedom of information laws were reformed in 2010, and included the
+    introduction of the Information Publication Scheme (IPS), which
+    requires Australian Government agencies to publish a broad range of
+    information on their websites.
+-   The Office of the Australian Information Commissioner was
+    established in 2010 to promote access to government information.
+-   The *Archives Act 1983* was amended in 2010 to reduce the period
+    before which government information and Cabinet documents are
+    released. A Digital Transition Policy and Digital Continuity 2020
+    Policy have also been established, requiring government information
+    to be created and managed digitally.
+-   Creative Commons licensing was adopted in 2010 to accommodate access
+    to government information and bring consistency to
+    licensing arrangements.
+
+State, territory and local governments have also undertaken a range of
+initiatives to promote transparency, integrity and access to information
+at a sub-national level.
+
+</div>
+
+<div id="comments">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="copyright" class="wrapper dontPrint">
+
+\[ a [govspace](http://govspace.gov.au/) site \]
+
+</div>
+
+</div>
