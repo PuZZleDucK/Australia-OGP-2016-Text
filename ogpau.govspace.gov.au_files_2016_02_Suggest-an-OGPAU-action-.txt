@@ -12,8 +12,8 @@ To Open Government the Australian Government could DO
 • Increase
 This would improve the way Australia
 2. Select the OGP Grand Challenges* this action supports
-R
-R
+
+
 Delivers Public Services such as:
 • Health, education
 • Criminal justice
@@ -29,9 +29,9 @@ Manages Public Resources such as:
 actions related to the other three.
 By increasing
 3. What Open Government Principle would this help deliver?
-R accountability
-R transparency
-R public participation
+ accountability
+ transparency
+ public participation
 Your suggestions need to be in by the 31st March 2016. You can add your suggestion to the WIKI or email your
 suggestion to OGP@PMC.GOV.AU and we will add it for you.
 Amelia Loye Engagement Specialist | +61 411960585 | amelia@engage2.com.au | engage2.com.au | @EmotivateTips for developing an OGP action
@@ -39,13 +39,10 @@ Amelia Loye Engagement Specialist | +61 411960585 | amelia@engage2.com.au | enga
 a. Define the problem – why is it a problem, who does it affect, who else cares?
 b. What would the solution look like – what is the outcome you are trying to achieve?
 c. Does it relate to one of the Grand Challenges?
-•
 Improving Public Services – such as health, education, criminal justice, water, electricity,
 telecommunications, fostering public service improvement, fostering private sector innovation.
-•
 Management of Public Resources – data, measures that address budgets and procurement,
 natural resources, foreign assistance
-d.
 How would it increase?
 • Accountability
 • Transparency
@@ -55,8 +52,6 @@ a. About actions - what needs to happen to achieve that outcome?
 b. How can it be delivered? What is the first step?
 c. What can be achieved in two years? The action has to be delivered within two years so our Government
 can report achievement or progress against it.
-d.
-e.
 Is this something the Australian Government can do something about?
 • Who in the Federal Government could make this happen?
 • Consider the responsibilities of Australian Government
@@ -65,7 +60,6 @@ Do they need to work with others to achieve it?
 • Is this person or organisation Government or will work with private or the community sector?
 How? Does anything need to change to make this happen?
 Where to go for help
-•
 Amelia is available to work with you to workshop your ideas and turn them into suggested actions. If you let
 her know what interests you she will also connected you with others across Australia who are interested in
 the same things as you. Her contact details are below.
@@ -75,8 +69,6 @@ Where to go for inspiration
 • The Australian National Action Plan for Open Government WIKI – to see others ideas
 • The OGP’s Commitment Template and Guidance
 Where to go for examples
-•
-•
 The Open Gov Guide for themes all actions taken by other Countries into topic areas
 The OGP Commitment Explorer contains actions taken by other countries and how they have been assessed
 Thank you to the Open Australia and the Open Government Partnership Network for the support to develop these tips.

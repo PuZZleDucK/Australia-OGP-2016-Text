@@ -1,18 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Table of Contents
 
 <<To be inserted>>
@@ -30,12 +15,12 @@ Engaging: collaborating with citizens on policy and service delivery to enhance 
 Participating: making government more consultative and participative.
 
 Why does Open Government matter?
-Making government data, information and processes openly available improves public trust, stimulates economic growth, and holds government to account. Additionally, open government can foster fruitful collaboration between the public sector, private organisations and civil society. This kind of engagement facilitates resilience and responsiveness in the face of change, allowing the government to leverage community expertise in pursuit of better outcomes.  
+Making government data, information and processes openly available improves public trust, stimulates economic growth, and holds government to account. Additionally, open government can foster fruitful collaboration between the public sector, private organisations and civil society. This kind of engagement facilitates resilience and responsiveness in the face of change, allowing the government to leverage community expertise in pursuit of better outcomes.
 
 What is Australia’s vision for Open Government?
 Australia’s National Action Plan will predominantly focus on two of the OGP’s Grand Challenges: “Improving public services” and “More effectively managing public resources.” Australia already has a strong tradition of accountability and public safety, and whilst there is always more work to be done, the opportunities for greatest impact lie in empowering the citizen by streamlining services and managing public resources, particularly through efficient data access.
 
-In accordance with OGP principles, the commitments outlined in the following pages build on our solid foundation of transparency, accountability, participatory democracy and technological innovation. They have been developed alongside key civil society and public stakeholders to ensure their relevance beyond government. Drafted through a process of online and in-person collaboration, this National Action Plan reflects Australia’s ambitious open government agenda for the next two years and beyond. 
+In accordance with OGP principles, the commitments outlined in the following pages build on our solid foundation of transparency, accountability, participatory democracy and technological innovation. They have been developed alongside key civil society and public stakeholders to ensure their relevance beyond government. Drafted through a process of online and in-person collaboration, this National Action Plan reflects Australia’s ambitious open government agenda for the next two years and beyond.
 
 Overseeing the delivery of the National Action Plan
 The Department of the Prime Minister and Cabinet will design a mechanism for overseeing the delivery of the 2016 National Action Plan.  This will be established with the cooperation of the civil society organisations and members who participated in the drafting process, along with representatives from Government Agencies involved in the delivery of commitments, and the States/Territories as identified.
@@ -51,7 +36,7 @@ Promoting the development of Open Government Activities in Australia.
 Efforts to date
 
 Australia has a proud history of open government, and has already taken significant strides towards government transparency and civic participation.
- 
+
 Declaration of Open Government
 The Australian Government launched a Declaration of Open Government in 2010. It also fully adopted the recommendations of Ahead of the Game: Blueprint for the Reform of Australian Government Administration, a report which emphasised the need to create a more open government.
 
@@ -65,10 +50,10 @@ The Office of the Australian Information Commissioner (OAIC) was established in 
 
 The 2010 reforms to the Freedom of Information Act included the introduction of the Information Publication Scheme (IPS) which requires Australian Government agencies subject to the FOI Act to provide a broad range of information on their websites.
 
-Decisions made under the Archives Act (for preserving and conserving the archives of the Commonwealth) have also been impacted, with a resulting reduction in the period of time in which the FOI Act applies for access to Commonwealth documents.  The open access period for Commonwealth records (except for Cabinet notebooks and census information) will be reduced from 30 years to 20 years over a 10 year period commencing from 1 November 2010.  
+Decisions made under the Archives Act (for preserving and conserving the archives of the Commonwealth) have also been impacted, with a resulting reduction in the period of time in which the FOI Act applies for access to Commonwealth documents.  The open access period for Commonwealth records (except for Cabinet notebooks and census information) will be reduced from 30 years to 20 years over a 10 year period commencing from 1 November 2010. 
 
 Whistle-blower protections
-Whistle-blower protections in Australia were significantly improved by the 2013 Public Interest Disclosure Act which officially commenced on 15 January 2014. The stated purpose of the Act is to facilitate disclosure and investigation of wrongdoing and maladministration in the Commonwealth public sector, and for other purposes. Under the Act, those who disclose wrongdoing in the public sector can expect that their case will be properly managed, appropriate action will be taken, and that they will receive protection from reprisal and immunity from criminal, civil and administrative liability. 
+Whistle-blower protections in Australia were significantly improved by the 2013 Public Interest Disclosure Act which officially commenced on 15 January 2014. The stated purpose of the Act is to facilitate disclosure and investigation of wrongdoing and maladministration in the Commonwealth public sector, and for other purposes. Under the Act, those who disclose wrongdoing in the public sector can expect that their case will be properly managed, appropriate action will be taken, and that they will receive protection from reprisal and immunity from criminal, civil and administrative liability.
 
 Adoption of Creative Commons
 To accommodate access to government information and bring consistency to licensing arrangements, the public service adopted Creative Commons Attribution 3.0.
@@ -88,12 +73,12 @@ To deliver the Public Data Statement, Australian Government entities will publis
 Among the many public sector datasets now available under open data terms is a national geocoded address file. The open release of this highly sought after file will remove barriers to greater use of the data and unlock and create opportunities for industry innovation and competitiveness.
 
 Digital Transformation Office
-The Digital Transformation Office (DTO) was established in July 2015 and is part of the Prime Minister’s portfolio. Its mission is to lead the transformation of government services to deliver a better experience for all Australians. 
+The Digital Transformation Office (DTO) was established in July 2015 and is part of the Prime Minister’s portfolio. Its mission is to lead the transformation of government services to deliver a better experience for all Australians.
 
 The DTO itself works as an incubator helping to develop an environment – including the method, culture and talent – that supports rapid service transformation.
 
 To achieve this, the DTO is building digital expertise and capabilities across government agencies, helping to create a world-class public service and a world-leading digital economy.
-	
+
 Its priorities are to deliver projects that demonstrate the best ways to achieve rapid transformation, to improve in-house digital capabilities in government agencies, and establish common platforms to make government more efficient.
 
 Senate Estimates
@@ -154,15 +139,15 @@ Civil Society Engagement
 Throughout Australia’s National Action Plan drafting process, the Australian public has been actively engaged through the following mediums:
 social media (for example Twitter);
 the OGPAu website (ogpau.govspace.gov.au);
-in-person events (with live-streaming and online participation enabled where possible); 
+in-person events (with live-streaming and online participation enabled where possible);
 a ‘wiki’ (which the public can log in and edit);
 email and postage contribution; and
 civil society, industry and other government jurisdiction led events for contributing to the consultation.
 
-The Department of the Prime Minister and Cabinet has established a dedicated team, including engagement specialists, to manage the drafting process. This team is responsible for engaging community groups, private sector, government agencies and everyday citizens who have expressed an interest in Open Government or the Grand Challenges to contribute to the plan. 
+The Department of the Prime Minister and Cabinet has established a dedicated team, including engagement specialists, to manage the drafting process. This team is responsible for engaging community groups, private sector, government agencies and everyday citizens who have expressed an interest in Open Government or the Grand Challenges to contribute to the plan.
 
 The NAP has been developed in five stages, three of which involved public and civil society engagement.
-The National Action Plan has been developed across five stages, three that involve engagement, to ensure we meet the OGP requirements, including the June 2016 deadline:  
+The National Action Plan has been developed across five stages, three that involve engagement, to ensure we meet the OGP requirements, including the June 2016 deadline:
 Stage 1 – Prepare the NAP framework and collect background information (November – December 2015)
 Stage 2 – Raise awareness of the initiative, gather commitment suggestions (January – March 2016)
 Stage 3 – Prioritise commitments and host a drafting workshop (April 2016)
@@ -173,21 +158,16 @@ The engagement approach was designed to be open, transparent, and efficient, emp
 During stage one, information sessions were held across Australia in December 2015 to inform stakeholders about the National Action Plan.
 
 Stage two focused on encouraging stakeholders to suggestion commitments related to the chosen Grand Challenges.
-During this stage, a public wiki was created for the purposes of collaborative drafting. Civil Society and the public were invited to suggest actions directly onto the wiki, where they could also view and comment on existing suggestions. Contributions were initially added to a general commitments page, then categorised into nine themes. 
+During this stage, a public wiki was created for the purposes of collaborative drafting. Civil Society and the public were invited to suggest actions directly onto the wiki, where they could also view and comment on existing suggestions. Contributions were initially added to a general commitments page, then categorised into nine themes.
 
 As drafting progressed, the engagement coordinator facilitated introductions between contributors with shared interests. In response to stakeholder interest, a teleconference series was initiated for discussion of themes and commitments among civil society members before the drafting workshop.
 
-As they were identified throughout the process, stakeholders with aligned interests were introduced by email by the engagement coordinator. In response to stakeholder interest, a teleconference series was also used to connect stakeholders and discuss themes among civil society. 
+As they were identified throughout the process, stakeholders with aligned interests were introduced by email by the engagement coordinator. In response to stakeholder interest, a teleconference series was also used to connect stakeholders and discuss themes among civil society.
 
-Submissions for suggested actions closed on the 31 March 2016, but comments were still welcomed on the wiki. Two follow up teleconferences were also scheduled so that civil society stakeholders could connect before the April workshop. The engagement coordinator provided her contact details so that stakeholders could call or email her directly with questions, at any time.    
+Submissions for suggested actions closed on the 31 March 2016, but comments were still welcomed on the wiki. Two follow up teleconferences were also scheduled so that civil society stakeholders could connect before the April workshop. The engagement coordinator provided her contact details so that stakeholders could call or email her directly with questions, at any time.
 
-During Stage three, civil society organisations and members of the public who had proposed an action in Stages One and Two were invited to join government agency representatives at a workshop on proposed commitments. At this event, they also discussed the formation of an implementation committee to oversee the progress of Australia’s first National Action Plan, and discussion of the formation of the group who will oversee the implementation of Australia’s first National Action Plan.  
+During Stage three, civil society organisations and members of the public who had proposed an action in Stages One and Two were invited to join government agency representatives at a workshop on proposed commitments. At this event, they also discussed the formation of an implementation committee to oversee the progress of Australia’s first National Action Plan, and discussion of the formation of the group who will oversee the implementation of Australia’s first National Action Plan.
 
 Conclusion
 
 The Australian Government is committed to openness as a basic principle of modern government. The Australian Government’s membership with OGP and this two-year National Action Plan reflects Australia’s drive for improvement in government transparency, accountability, participatory democracy and innovation. In particular, the Australian Government’s commitments focus on improving public services and better managing public resources. The Australian Government’s National Action Plan was developed with civil society, the private sector and the public at large – in order to strengthen open government in Australia.
-
-
-
-
-
