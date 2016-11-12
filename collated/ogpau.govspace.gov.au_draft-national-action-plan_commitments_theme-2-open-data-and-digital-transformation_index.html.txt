@@ -1,8 +1,0 @@
-****** Theme 2: Open data and digital transformation ******
-We will advance our commitments to make government data open by default and to
-digitally transform government services.
-2.1_Release_high-value_datasets_and_enable_data-driven_innovation
-2.2_Build_and_maintain_public_trust_to_address_concerns_about_data_sharing
-2.3_Digitally_transform_the_delivery_of_government_services
-
-[ a govspace site ]
